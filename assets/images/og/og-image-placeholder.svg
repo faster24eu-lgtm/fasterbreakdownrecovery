@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#0b0e12"/>
+  <rect width="1200" height="630" fill="none" stroke="#2a323d" stroke-width="4"/>
+  <path d="M120 380 L220 240 L320 380 Z" fill="none" stroke="#f2b700" stroke-width="10" stroke-linejoin="round"/>
+  <rect x="196" y="360" width="48" height="40" fill="#f2b700"/>
+  <text x="380" y="300" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#eef1f5">Faster Breakdown Recovery</text>
+  <text x="380" y="360" font-family="Arial, sans-serif" font-size="30" fill="#9aa7b4">24/7 Breakdown Recovery — Aberdeen &amp; Aberdeenshire</text>
+  <text x="380" y="420" font-family="Arial, sans-serif" font-size="22" fill="#6b7684">Replace this placeholder with a real 1200x630 JPG/PNG before launch</text>
+</svg>
