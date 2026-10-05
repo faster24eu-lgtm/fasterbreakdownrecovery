@@ -1,0 +1,18 @@
+title: Thank You | Faster Breakdown Recovery
+description: Thanks for your request. We'll get back to you as soon as possible.
+label: Thank You
+robots: noindex,follow
+sitemap: no
+===MAIN===
+    <section class="page-hero">
+      <div class="container">
+        <span class="eyebrow">Request received</span>
+        <h1>Thank you, we've got your request</h1>
+        <p class="page-hero__lede">We'll get back to you as soon as possible, usually with a price. If your vehicle has broken down and you need help right now, please call or WhatsApp us instead of waiting for a reply.</p>
+        <div class="hero__actions" style="margin-top:1.5rem;">
+          <a class="btn btn--primary btn--lg" href="{{PHONE_HREF}}" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--whatsapp btn--lg" href="{{WA_HREF}}" data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
+          <a class="btn btn--outline btn--lg" href="{{R}}index.html">Back to the home page</a>
+        </div>
+      </div>
+    </section>

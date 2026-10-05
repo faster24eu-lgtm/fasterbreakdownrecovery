@@ -36,6 +36,7 @@ my $PHONE_HREF = 'tel:+442080580013';
 my $PHONE  = '+44 20 8058 0013';
 my $WA_HREF = 'https://wa.me/447988974609?text=Hi%20Faster%20Breakdown%20Recovery%2C%20I%20need%20help%20with%20my%20vehicle.';
 my $EMAIL  = 'info@fasterbreakdownrecovery.co.uk';
+my $FORM_TO = 'faster24eu@gmail.com';   # formsubmit.co recipient (same as takeldienstfaster.be)
 
 # ---------------------------------------------------------------- navigation
 my @NAV = (
@@ -124,6 +125,7 @@ sub canonical {
 sub fill {
   my ($s, $R) = @_;
   $s =~ s/\{\{INDEX:(\w+)\}\}/index_list($1, $R)/ge;
+  $s =~ s/\{\{QUOTE_FORM\}\}/quote_form()/ge;
   $s =~ s/\{\{R\}\}/$R/g;
   $s =~ s/\{\{PHONE_HREF\}\}/$PHONE_HREF/g;
   $s =~ s/\{\{PHONE\}\}/$PHONE/g;
@@ -401,6 +403,54 @@ M
     </section>
 M
   $p->{main} = $m;
+}
+
+# quote request form, sent by email through formsubmit.co (same service as
+# takeldienstfaster.be); the first submission triggers an activation email
+sub quote_form {
+  return <<"Q";
+        <form class="contact-form" action="https://formsubmit.co/$FORM_TO" method="POST">
+          <input type="hidden" name="_subject" value="New recovery request via fasterbreakdownrecovery.co.uk">
+          <input type="hidden" name="_template" value="table">
+          <input type="hidden" name="_captcha" value="true">
+          <input type="hidden" name="_next" value="$BASE/thank-you.html">
+          <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
+          <div class="form-row">
+            <div class="form-field">
+              <label for="q-name">Name*</label>
+              <input type="text" id="q-name" name="Name" required autocomplete="name">
+            </div>
+            <div class="form-field">
+              <label for="q-phone">Phone number*</label>
+              <input type="tel" id="q-phone" name="Phone" required autocomplete="tel">
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-field">
+              <label for="q-email">Email</label>
+              <input type="email" id="q-email" name="Email" autocomplete="email">
+            </div>
+            <div class="form-field">
+              <label for="q-vehicle">Vehicle make &amp; model</label>
+              <input type="text" id="q-vehicle" name="Vehicle">
+            </div>
+          </div>
+          <div class="form-field">
+            <label for="q-from">Where is the vehicle now? (postcode or location)*</label>
+            <input type="text" id="q-from" name="Vehicle location" required>
+          </div>
+          <div class="form-field">
+            <label for="q-to">Where does it need to go?</label>
+            <input type="text" id="q-to" name="Destination">
+          </div>
+          <div class="form-field">
+            <label for="q-details">What's happened?*</label>
+            <textarea id="q-details" name="Details" rows="4" required></textarea>
+          </div>
+          <button class="btn btn--primary btn--block" type="submit">Send Request</button>
+          <p class="form-note">Your request is sent to us by email. For anything urgent, please call or WhatsApp us instead.</p>
+        </form>
+Q
 }
 
 # grouped list of every page of one kind, by region

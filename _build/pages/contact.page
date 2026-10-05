@@ -47,47 +47,9 @@ nav: contact
           <h2>Request a quote</h2>
           <p>Tell us what's happened and where you are, and we'll get back to you. For an urgent breakdown, please call rather than wait for a reply.</p>
 
-          <!-- TODO: Replace this mailto form with a real form backend (e.g. Formspree, Netlify Forms, or a custom endpoint) before launch for a reliable submission experience. -->
-          <form id="quote" action="mailto:info@fasterbreakdownrecovery.co.uk" method="post" enctype="text/plain">
-            <div class="form-row">
-              <div class="form-field">
-                <label for="name">Name</label>
-                <input type="text" id="name" name="Name" required autocomplete="name">
-              </div>
-              <div class="form-field">
-                <label for="phone">Phone number</label>
-                <input type="tel" id="phone" name="Phone" required autocomplete="tel">
-              </div>
-            </div>
-            <div class="form-row">
-              <div class="form-field">
-                <label for="email">Email <span class="hint">(optional)</span></label>
-                <input type="email" id="email" name="Email" autocomplete="email">
-              </div>
-              <div class="form-field">
-                <label for="vehicle">Vehicle make &amp; model</label>
-                <input type="text" id="vehicle" name="Vehicle">
-              </div>
-            </div>
-            <div class="form-field">
-              <label for="location">Location / postcode</label>
-              <input type="text" id="location" name="Location" required>
-            </div>
-            <div class="form-field">
-              <label for="details">What's happened?</label>
-              <textarea id="details" name="Details" rows="5" required></textarea>
-            </div>
-            <div class="form-field">
-              <label for="preferred-contact">Preferred contact method</label>
-              <select id="preferred-contact" name="Preferred contact method">
-                <option value="Phone call">Phone call</option>
-                <option value="Email">Email</option>
-                <option value="WhatsApp">WhatsApp</option>
-              </select>
-            </div>
-            <button class="btn btn--primary btn--block" type="submit">Send Request</button>
-            <p class="form-note">This form opens your email app with your details pre-filled, ready to send to us directly — it doesn't submit automatically. If that doesn't work on your device, please email or call us using the details on this page.</p>
-          </form>
+          <div id="quote">
+{{QUOTE_FORM}}
+        </div>
         </div>
       </div>
     </section>

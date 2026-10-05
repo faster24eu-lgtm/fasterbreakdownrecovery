@@ -1892,3 +1892,134 @@ summary:focus-visible {
     display: none;
   }
 }
+
+/* ==========================================================================
+   Home page (inspired by takeldienstfaster.be)
+   ========================================================================== */
+.hero__photo {
+  margin: 0;
+  position: relative;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  border: 1px solid var(--color-border);
+  background: #111;
+}
+.hero__photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+.hero__photo figcaption {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background: var(--color-primary);
+  color: #111;
+  font-size: 0.75rem;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.5rem 0.9rem;
+}
+@media (max-width: 859px) {
+  .hero__photo img {
+    aspect-ratio: 4 / 3;
+  }
+}
+
+@media (min-width: 760px) {
+  .steps--3 {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.owner-quote {
+  margin: var(--space-6) 0;
+  padding: var(--space-5) var(--space-6);
+  border-left: 4px solid var(--color-primary);
+  background: var(--color-surface);
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+}
+.owner-quote p {
+  font-size: 1.1rem;
+  font-style: italic;
+  margin-bottom: var(--space-3);
+}
+.owner-quote cite {
+  font-style: normal;
+  font-weight: 800;
+  font-size: 0.9rem;
+  color: var(--color-text-muted);
+}
+.owner-motto {
+  font-size: 1.05rem;
+}
+
+.city-grid {
+  display: grid;
+  gap: var(--space-3);
+  grid-template-columns: repeat(2, 1fr);
+}
+@media (min-width: 640px) {
+  .city-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+@media (min-width: 960px) {
+  .city-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  .city-grid--roads {
+    grid-template-columns: repeat(8, 1fr);
+  }
+}
+.city-grid a {
+  display: block;
+  padding: 0.85rem 1rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  font-weight: 800;
+  color: var(--color-text);
+  text-decoration: none;
+}
+.city-grid a:hover {
+  border-color: var(--color-primary);
+  background: #fff8e1;
+}
+.city-grid a.city-grid__all {
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+}
+.city-grid__title {
+  margin: var(--space-6) 0 var(--space-4);
+  font-size: 1.15rem;
+}
+
+.gallery-grid--trio {
+  grid-template-columns: 1fr;
+}
+@media (min-width: 640px) {
+  .gallery-grid--trio {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+.gallery-grid--trio .gallery-tile img {
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  width: 100%;
+  height: auto;
+}
+
+.contact-form {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: var(--space-6);
+}
+.contact-card h3 {
+  margin-top: var(--space-6);
+}
+
