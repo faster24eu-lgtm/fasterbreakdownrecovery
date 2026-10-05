@@ -689,6 +689,10 @@ summary:focus-visible {
     grid-template-columns: 1.05fr 0.95fr;
     align-items: center;
   }
+
+  .hero-inner--solo {
+    grid-template-columns: 1fr;
+  }
 }
 
 /* Photo placeholder frame — used in the hero and gallery until real

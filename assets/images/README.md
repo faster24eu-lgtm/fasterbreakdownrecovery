@@ -19,10 +19,10 @@ becomes available; each `<img>` can then be added where noted in the HTML.
 
 Use descriptive, hyphenated, lowercase file names that describe the real
 content, e.g. `recovery-truck-loading-hatchback.jpg`,
-`flatbed-a90-roadside.jpg`. Avoid generic names like `IMG_1234.jpg`.
+`flatbed-m6-roadside.jpg`. Avoid generic names like `IMG_1234.jpg`.
 
 ## Alt text
 
 Write alt text that describes what is genuinely in the photo (e.g. "Faster
-Breakdown Recovery flatbed truck loading a car on the A90 near Aberdeen") —
+Breakdown Recovery flatbed truck loading a car on the M6 near Birmingham") —
 do not reuse the same alt text across multiple images.
