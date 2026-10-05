@@ -1,0 +1,35 @@
+title: Areas Covered | Breakdown Recovery Across the UK | Faster Breakdown Recovery
+description: We arrange 24/7 breakdown and vehicle recovery across England, Scotland, Wales and Northern Ireland. Find local information for your city or town.
+og_title: Breakdown Recovery Across the UK
+og_description: We arrange 24/7 breakdown and vehicle recovery across England, Scotland, Wales and Northern Ireland. Find local information for your city or town.
+label: Areas Covered
+nav: areas
+===MAIN===
+    <section class="page-hero">
+      <div class="container">
+        <span class="eyebrow">Areas covered</span>
+        <h1>Breakdown Recovery Across the UK</h1>
+        <p class="page-hero__lede">We arrange recovery anywhere in England, Scotland, Wales and Northern Ireland. The pages below have local information for each city and town: the roads, the restrictions and what to do if you break down there. If your area isn't listed yet, call us anyway.</p>
+        <div class="hero__actions" style="margin-top:1.5rem;">
+          <a class="btn btn--primary btn--lg" href="{{PHONE_HREF}}" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--whatsapp btn--lg" href="{{WA_HREF}}" data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+{{INDEX:area}}
+      </div>
+    </section>
+
+    <section class="cta-band section">
+      <div class="container">
+        <h2>Not Sure If We Cover You? Call Us.</h2>
+        <p>Call or WhatsApp us with your location and we&rsquo;ll arrange recovery to you, wherever you are in the UK.</p>
+        <div class="cta-band__actions">
+          <a class="btn btn--primary btn--lg" href="{{PHONE_HREF}}" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--whatsapp btn--lg" href="{{WA_HREF}}" data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
+        </div>
+      </div>
+    </section>

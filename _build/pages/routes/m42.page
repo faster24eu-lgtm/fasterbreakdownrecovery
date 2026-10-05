@@ -1,0 +1,134 @@
+title: Breakdown Recovery on the M42 | Faster Breakdown Recovery
+description: Broken down on the M42 near Solihull, the NEC or Birmingham Airport? Recovery for the motorway that loops around the south and east of the city, 24 hours a day.
+og_title: Breakdown Recovery on the M42
+og_description: Recovery for breakdowns on the M42 around Solihull, the NEC and Birmingham Airport, a fast bypass with fewer stopping points, 24 hours a day.
+label: Breakdown Recovery on the M42
+crumbs: Motorways &amp; Roads|routes/index.html
+nav: routes
+kind: route
+region: England > Other roads
+short: M42
+===HEAD===
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Does the M42 go past the NEC and Birmingham Airport?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes — Junction 6 of the M42 serves the NEC, Birmingham Airport and Solihull directly, and traffic here can build quickly around major shows and events. If you're not sure which junction you're near, a terminal name or event venue is a useful landmark to give us." }
+      },
+      {
+        "@type": "Question",
+        "name": "Are there fewer places to pull over on the M42 than on other roads into Birmingham?",
+        "acceptedAnswer": { "@type": "Answer", "text": "It varies by section, but as a motorway built for free-flowing traffic, parts of the M42 have long open stretches between junctions with limited hard-shoulder refuge. If your vehicle is showing signs of trouble, try to reach the next slip road or junction while it's still safe to keep driving, rather than waiting until you're forced to stop on the main carriageway." }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you cover the M42 near Solihull as well as further round towards Coleshill?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes, we cover the M42 along its route around the south and east of Birmingham, including the Solihull and NEC sections and on towards the M6 interchange at Coleshill. Give us your nearest junction and direction of travel when you call." }
+      }
+    ]
+  }
+  </script>
+===MAIN===
+    <section class="page-hero">
+      <div class="container">
+        <span class="eyebrow">Route recovery</span>
+        <h1>Breakdown Recovery on the M42</h1>
+        <p class="page-hero__lede">The M42 loops around the south and east of Birmingham, linking the M40 and M5 near Bromsgrove around through Solihull, the NEC and Birmingham Airport, and on to the M6 at Coleshill. If you've broken down on this bypass, we can recover you.</p>
+        <div class="hero__actions" style="margin-top:1.5rem;">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--whatsapp btn--lg" href="https://wa.me/447988974609?text=Hi%20Faster%20Breakdown%20Recovery%2C%20I%20need%20help%20with%20my%20vehicle." data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
+          <a class="btn btn--outline btn--lg" href="../contact.html#quote">Get a Quote</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container two-col">
+        <div class="prose">
+          <h2>Built to route traffic around the city</h2>
+          <p>The M42 was built to give through-traffic a way past Birmingham without going through the middle of it, arcing from the Bromsgrove and Redditch direction in the south-west, round through <a href="../areas/solihull.html">Solihull</a>, the NEC and Birmingham Airport, and on towards Coleshill, where it meets the M6. It's a genuinely different driving environment to the older roads it relieves: consistently high speeds, grade-separated junctions rather than roundabouts, and long gaps between exits in places. That makes it efficient for getting around Birmingham, but it also means fewer natural stopping points if something goes wrong with your vehicle.</p>
+
+          <h2>Around the NEC and Birmingham Airport</h2>
+          <p>Junction 6 serves the NEC, Birmingham Airport and Solihull directly, and this section can see a sharp rise in traffic around major exhibitions, concerts and flight-related travel. If you break down near here, mention the venue or terminal by name along with your direction of travel — it helps us judge how much event traffic we're likely to be working around.</p>
+
+          <h2>Spotting trouble early matters more here</h2>
+          <p>Because laybys and hard-shoulder-style refuges are limited on parts of the M42 compared with slower roads, the moment you notice a warning sign — a dashboard light, an unusual noise, a loss of power, or the car pulling to one side — start planning your next move immediately. If the vehicle is still driveable and it's safe to do so, ease off and aim for the next junction, slip road or service point rather than pressing on and hoping the problem resolves itself.</p>
+
+          <h2>If you do have to stop on the main carriageway</h2>
+          <p>Sometimes there's no choice. If your vehicle stops moving on the open sections of the M42, get as far left as possible, ideally onto any hard shoulder or refuge area available, and put your hazard lights on immediately so following traffic has warning at speed. Once stopped, if you can get out and away from the vehicle safely — behind a barrier or well down the verge, clear of the carriageway — that's safer than remaining inside a car that's still close to fast-moving traffic. Never attempt a roadside repair or try to push the vehicle yourself in a live lane; wait for us or for a recovery vehicle designed to work safely at the roadside.</p>
+
+          <div class="callout">
+            <p><strong>On a fast, open motorway like the M42:</strong> get off the running lanes and onto a hard shoulder, refuge area or junction where possible, keep hazard lights on at all times, get well clear of the vehicle and behind any barrier if it's still close to traffic, and never attempt a repair in a live lane. Give us your nearest junction or landmark and direction of travel when you call.</p>
+          </div>
+
+          <h2>Not a breakdown — a collision?</h2>
+          <p>If your vehicle has been damaged in a collision on the M42 rather than broken down mechanically, our <a href="../services/accident-recovery-birmingham.html">accident recovery</a> service is set up to handle that. Let us know it was a collision when you call.</p>
+        </div>
+
+        <aside class="side-panel">
+          <h2>Broken down on the M42?</h2>
+          <a class="btn btn--primary btn--block" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--whatsapp btn--block" href="https://wa.me/447988974609?text=Hi%20Faster%20Breakdown%20Recovery%2C%20I%20need%20help%20with%20my%20vehicle." data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
+          <a class="btn btn--outline btn--block" href="../contact.html#quote">Request a Quote</a>
+          <ul>
+            <li><a href="../services/breakdown-recovery-birmingham.html">Breakdown Recovery Birmingham</a></li>
+            <li><a href="../services/accident-recovery-birmingham.html">Accident Recovery Birmingham</a></li>
+            <li><a href="../areas/solihull.html">Solihull</a></li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section section--alt">
+      <div class="container">
+        <div class="section-head section-head--center">
+          <span class="eyebrow">Questions</span>
+          <h2>M42 Breakdown FAQs</h2>
+        </div>
+        <div class="faq-list">
+          <details class="faq-item">
+            <summary>Does the M42 go past the NEC and Birmingham Airport?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Yes — Junction 6 of the M42 serves the NEC, Birmingham Airport and Solihull directly, and traffic here can build quickly around major shows and events. If you're not sure which junction you're near, a terminal name or event venue is a useful landmark to give us.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Are there fewer places to pull over on the M42 than on other roads into Birmingham?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>It varies by section, but as a motorway built for free-flowing traffic, parts of the M42 have long open stretches between junctions with limited hard-shoulder refuge. If your vehicle is showing signs of trouble, try to reach the next slip road or junction while it's still safe to keep driving, rather than waiting until you're forced to stop on the main carriageway.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Do you cover the M42 near Solihull as well as further round towards Coleshill?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Yes, we cover the M42 along its route around the south and east of Birmingham, including the Solihull and NEC sections and on towards the M6 interchange at Coleshill. Give us your nearest junction and direction of travel when you call.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">Related</span>
+          <h2>Other Services You Might Need</h2>
+        </div>
+        <ul class="related-services">
+          <li><a href="../services/breakdown-recovery-birmingham.html">Breakdown Recovery Birmingham</a></li>
+          <li><a href="../services/accident-recovery-birmingham.html">Accident Recovery Birmingham</a></li>
+          <li><a href="../services/roadside-assistance-birmingham.html">Roadside Assistance Birmingham</a></li>
+          <li><a href="../services/24-hour-breakdown-recovery-birmingham.html">24 Hour Breakdown Recovery</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="cta-band section">
+      <div class="container">
+        <h2>Broken Down on the M42 Right Now?</h2>
+        <p>Call us and we'll get a recovery vehicle on its way to you.</p>
+        <div class="cta-band__actions">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--whatsapp btn--lg" href="https://wa.me/447988974609?text=Hi%20Faster%20Breakdown%20Recovery%2C%20I%20need%20help%20with%20my%20vehicle." data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
+          <a class="btn btn--outline btn--lg" href="../contact.html#quote">Get a Quote</a>
+        </div>
+      </div>
+    </section>

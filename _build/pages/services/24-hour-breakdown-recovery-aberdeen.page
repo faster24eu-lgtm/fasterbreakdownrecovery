@@ -1,0 +1,133 @@
+title: 24 Hour Breakdown Recovery Aberdeen | Faster Breakdown Recovery
+description: Broken down overnight, at the weekend or on a public holiday in Aberdeen? Our breakdown recovery service operates 24 hours a day, 7 days a week.
+og_title: 24 Hour Breakdown Recovery Aberdeen
+og_description: Breakdown recovery in Aberdeen at any hour of the day or night, every day of the year.
+label: 24 Hour Breakdown Recovery Aberdeen
+crumbs: Services|services/index.html
+nav: services
+===HEAD===
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Are you really available all night?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes. Breakdowns don't work around office hours, so we operate around the clock, including overnight, weekends and public holidays." }
+      },
+      {
+        "@type": "Question",
+        "name": "Is night-time recovery more expensive?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Pricing depends on the specific job — distance, vehicle type and what's involved — rather than a fixed time-of-day surcharge. We'll always discuss the cost with you upfront before recovery goes ahead." }
+      },
+      {
+        "@type": "Question",
+        "name": "What if I break down very early in the morning before rush hour?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Call us the same as you would at any other time. Early mornings are a normal part of our working day, not a special case, and a recovery vehicle will be arranged based on your situation and location." }
+      }
+    ]
+  }
+  </script>
+===MAIN===
+    <section class="page-hero">
+      <div class="container">
+        <span class="eyebrow">24 hour recovery</span>
+        <h1>24 Hour Breakdown Recovery Aberdeen</h1>
+        <p class="page-hero__lede">Vehicles don't only break down during office hours. We operate 24 hours a day, every day of the year, for breakdowns that happen overnight, at weekends, or on public holidays around Aberdeen.</p>
+        <div class="hero__actions" style="margin-top:1.5rem;">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--lg" href="../contact.html#quote">Get a Quote</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container two-col">
+        <div class="prose">
+          <h2>Breakdowns don't check the clock</h2>
+          <p>A late finish, a night shift, an early start for the airport, or a drive back from visiting family — vehicles fail at all hours, not just between nine and five. A fault that would be a minor inconvenience at lunchtime can feel a lot more stressful at two in the morning, when the roads are quiet, it's dark, and there's nobody else around to help. That's exactly the situation this service is built for.</p>
+
+          <h2>Why unsociable hours feel harder</h2>
+          <p>Several things combine to make a night-time or early-morning breakdown more difficult than a daytime one. Visibility is reduced, both for you assessing the vehicle and for other drivers seeing you at the roadside. There are fewer passers-by and less passing traffic, which can make a stop feel more isolated. Temperatures drop overnight, which is uncomfortable if you're waiting outside and can also be a contributing factor in certain battery and mechanical faults in the first place. None of that changes what we can do for you — it just means the wait can feel longer than it is.</p>
+
+          <h2>We operate around the clock</h2>
+          <p>Whatever time your vehicle stops — the middle of the night, first thing on a Sunday, or during a public holiday — call us the same way you would during the day. A recovery vehicle is arranged based on your location and the details you give us, exactly as it would be at any other hour.</p>
+
+          <ul class="checklist">
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Overnight breakdowns, including the small hours.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Weekend breakdowns, Saturday and Sunday alike.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Public holidays, including Christmas, New Year and bank holidays.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Early-morning breakdowns before the rest of the day has started.</li>
+          </ul>
+
+          <div class="callout">
+            <p><strong>Staying safe while you wait, after dark.</strong> Keep your hazard lights on and, if you have one, a warning triangle set out where it's safe to place it. Stay well away from moving traffic — behind a barrier if there is one — and keep your phone charged if possible so we can reach you. If you're at all worried about your safety, stay somewhere you feel secure and let us know when you call.</p>
+          </div>
+
+          <h2>What if you just need a quick fix, not a tow?</h2>
+          <p>Some night-time problems, like a flat battery or being locked out, might not need a full recovery at all. Our <a href="roadside-assistance-aberdeen.html">roadside assistance</a> service covers on-the-spot fixes around the clock too — call and describe the problem, and we'll advise on the best option.</p>
+        </div>
+
+        <aside class="side-panel">
+          <h2>Broken down right now?</h2>
+          <a class="btn btn--primary btn--block" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--block" href="../contact.html#quote">Request a Quote</a>
+          <ul>
+            <li><a href="breakdown-recovery-aberdeen.html">Breakdown Recovery Aberdeen</a></li>
+            <li><a href="roadside-assistance-aberdeen.html">Roadside Assistance</a></li>
+            <li><a href="car-recovery-aberdeen.html">Car Recovery Aberdeen</a></li>
+            <li><a href="../routes/a90.html">Breakdown on the A90</a></li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section section--alt">
+      <div class="container">
+        <div class="section-head section-head--center">
+          <span class="eyebrow">Questions</span>
+          <h2>24 Hour Breakdown Recovery FAQs</h2>
+        </div>
+        <div class="faq-list">
+          <details class="faq-item">
+            <summary>Are you really available all night?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Yes. Breakdowns don't work around office hours, so we operate around the clock, including overnight, weekends and public holidays.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Is night-time recovery more expensive?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Pricing depends on the specific job — distance, vehicle type and what's involved — rather than a fixed time-of-day surcharge. We'll always discuss the cost with you upfront before recovery goes ahead.</p>
+          </details>
+          <details class="faq-item">
+            <summary>What if I break down very early in the morning before rush hour?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Call us the same as you would at any other time. Early mornings are a normal part of our working day, not a special case, and a recovery vehicle will be arranged based on your situation and location.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">Related</span>
+          <h2>Other Services You Might Need</h2>
+        </div>
+        <ul class="related-services">
+          <li><a href="breakdown-recovery-aberdeen.html">Breakdown Recovery Aberdeen</a></li>
+          <li><a href="roadside-assistance-aberdeen.html">Roadside Assistance Aberdeen</a></li>
+          <li><a href="car-recovery-aberdeen.html">Car Recovery Aberdeen</a></li>
+          <li><a href="accident-recovery-aberdeen.html">Accident Recovery Aberdeen</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="cta-band section">
+      <div class="container">
+        <h2>Broken Down at Night in Aberdeen?</h2>
+        <p>Call us and we'll get a recovery vehicle on its way to you, any hour of the day or night.</p>
+        <div class="cta-band__actions">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--lg" href="../contact.html#quote">Get a Quote</a>
+        </div>
+      </div>
+    </section>

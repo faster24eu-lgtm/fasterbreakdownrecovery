@@ -1,0 +1,153 @@
+title: Accident Recovery Birmingham | Faster Breakdown Recovery
+description: Careful recovery after a road traffic collision in Birmingham. If anyone is injured or the road is blocked, call 999 first. We recover your vehicle after.
+og_title: Accident Recovery Birmingham
+og_description: Careful recovery of accident-damaged vehicles in Birmingham, to a garage, bodyshop, insurer-approved location or storage.
+label: Accident Recovery Birmingham
+crumbs: Services|services/index.html
+nav: services
+===HEAD===
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Should I call the police first?",
+        "acceptedAnswer": { "@type": "Answer", "text": "If anyone is injured, or the road is blocked or dangerous, call 999 immediately — that comes before anything else. West Midlands Police may attend the scene, and any recovery we carry out is worked around their instructions." }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you recover my car if it's not driveable after a crash?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes. We use appropriate loading methods for vehicles that are damaged or not safe to drive normally, taking extra care where a wheel, axle or body panel has been affected." }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you take my car to my insurer's approved repairer?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes, if you give us the address. Check with your insurer first about which repairer or process they require, since this can affect your claim, and then let us know where the car needs to go." }
+      }
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "serviceType": "Accident Recovery",
+    "name": "Accident Recovery Birmingham",
+    "description": "Careful recovery of accident-damaged vehicles in Birmingham and the West Midlands, to a garage, bodyshop or storage location of your choice.",
+    "url": "https://fasterbreakdownrecovery.co.uk/services/accident-recovery-birmingham.html",
+    "provider": {
+      "@type": "TowingService",
+      "name": "Faster Breakdown Recovery",
+      "telephone": "+442080580013",
+      "url": "https://fasterbreakdownrecovery.co.uk/"
+    },
+    "areaServed": [
+      { "@type": "City", "name": "Birmingham" },
+      { "@type": "AdministrativeArea", "name": "West Midlands" }
+    ]
+  }
+  </script>
+===MAIN===
+    <section class="page-hero">
+      <div class="container">
+        <span class="eyebrow">Accident recovery</span>
+        <h1>Accident Recovery Birmingham</h1>
+        <p class="page-hero__lede">Careful, considerate recovery of your vehicle after a road traffic collision in Birmingham, working around the police where they're in attendance.</p>
+        <div class="hero__actions" style="margin-top:1.5rem;">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--whatsapp btn--lg" href="https://wa.me/447988974609?text=Hi%20Faster%20Breakdown%20Recovery%2C%20I%20need%20help%20with%20my%20vehicle." data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container two-col">
+        <div class="prose">
+          <div class="callout">
+            <p><strong>If anyone is injured, or the road is blocked or dangerous, call 999 immediately.</strong> That comes before anything else, including calling us. West Midlands Police may attend the scene, and any vehicle recovery is planned around their instructions and timing.</p>
+          </div>
+
+          <h2>Recovery after a collision, done carefully</h2>
+          <p>An accident is different from a mechanical breakdown, and it needs a different level of care. A vehicle involved in a collision might have a damaged wheel, a bent axle, a compromised body panel, or other issues that make standard loading unsafe if it's not handled correctly. We take that into account, assessing the vehicle at the scene and using the right method to move it without causing further damage or risk, anywhere across <a href="../areas/birmingham.html">Birmingham</a> and the West Midlands.</p>
+          <p>This service is specifically for collision damage. If your vehicle has developed a mechanical fault rather than being involved in an accident, our <a href="breakdown-recovery-birmingham.html">breakdown recovery</a> or general <a href="car-recovery-birmingham.html">car recovery</a> pages are the better starting point.</p>
+
+          <h2>Where we can take your vehicle</h2>
+          <ul class="checklist">
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> A garage or dealership of your choice.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> A bodyshop for repair assessment.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> An insurer-approved repairer or location.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Secure storage while you decide next steps.</li>
+          </ul>
+
+          <h2>Working around the scene</h2>
+          <p>At the scene of a collision, our priority is getting your vehicle recovered safely without getting in the way of the police, ambulance service, or anyone else attending. We'll wait for the go-ahead where the scene needs to be managed first, and we'll ask what's needed before starting any recovery work.</p>
+
+          <h2>A note on insurance</h2>
+          <p>We're not able to give legal or insurance advice, so it's worth checking with your insurer about what they need from you, and which repairer or process applies to your policy, as early as you can. Once you know where your vehicle needs to go, we'll take it there.</p>
+        </div>
+
+        <aside class="side-panel">
+          <h2>Been in a collision?</h2>
+          <a class="btn btn--primary btn--block" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--whatsapp btn--block" href="https://wa.me/447988974609?text=Hi%20Faster%20Breakdown%20Recovery%2C%20I%20need%20help%20with%20my%20vehicle." data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
+          <ul>
+            <li><a href="car-recovery-birmingham.html">Car Recovery Birmingham</a></li>
+            <li><a href="breakdown-recovery-birmingham.html">Breakdown Recovery Birmingham</a></li>
+            <li><a href="24-hour-breakdown-recovery-birmingham.html">24 Hour Breakdown Recovery</a></li>
+            <li><a href="../routes/m6.html">Accident Recovery on the M6</a></li>
+          <li><a href="../contact.html#quote">Request a Quote Online</a></li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section section--alt">
+      <div class="container">
+        <div class="section-head section-head--center">
+          <span class="eyebrow">Questions</span>
+          <h2>Accident Recovery FAQs</h2>
+        </div>
+        <div class="faq-list">
+          <details class="faq-item">
+            <summary>Should I call the police first?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>If anyone is injured, or the road is blocked or dangerous, call 999 immediately — that comes before anything else. West Midlands Police may attend the scene, and any recovery we carry out is worked around their instructions.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Can you recover my car if it's not driveable after a crash?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Yes. We use appropriate loading methods for vehicles that are damaged or not safe to drive normally, taking extra care where a wheel, axle or body panel has been affected.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Can you take my car to my insurer's approved repairer?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Yes, if you give us the address. Check with your insurer first about which repairer or process they require, since this can affect your claim, and then let us know where the car needs to go.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">Related</span>
+          <h2>Other Services You Might Need</h2>
+        </div>
+        <ul class="related-services">
+          <li><a href="car-recovery-birmingham.html">Car Recovery Birmingham</a></li>
+          <li><a href="breakdown-recovery-birmingham.html">Breakdown Recovery Birmingham</a></li>
+          <li><a href="24-hour-breakdown-recovery-birmingham.html">24 Hour Breakdown Recovery</a></li>
+          <li><a href="vehicle-recovery-birmingham.html">Vehicle Recovery Birmingham</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="cta-band section">
+      <div class="container">
+        <h2>Been in an Accident in Birmingham?</h2>
+        <p>Call us and we'll recover your vehicle carefully to wherever it needs to go.</p>
+        <div class="cta-band__actions">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--whatsapp btn--lg" href="https://wa.me/447988974609?text=Hi%20Faster%20Breakdown%20Recovery%2C%20I%20need%20help%20with%20my%20vehicle." data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
+        </div>
+      </div>
+    </section>

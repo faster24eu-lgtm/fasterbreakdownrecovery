@@ -1,0 +1,157 @@
+title: Scrap Car Collection Birmingham | Free Collection, Any Condition | Faster Breakdown Recovery
+description: Free scrap car collection in Birmingham and the West Midlands. Any make, any condition, non-runners included. Call or WhatsApp now, or request a quote online.
+og_title: Scrap Car Collection Birmingham | Free Collection, Any Condition
+og_description: Free scrap car collection in Birmingham and the West Midlands. Any make, any condition, non-runners included.
+label: Scrap Car Collection Birmingham
+crumbs: Services|services/index.html
+nav: services
+===HEAD===
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Do you charge for scrap car collection?",
+        "acceptedAnswer": { "@type": "Answer", "text": "No — collection is free, anywhere across Birmingham and the West Midlands." }
+      },
+      {
+        "@type": "Question",
+        "name": "Does my car need to be running or roadworthy?",
+        "acceptedAnswer": { "@type": "Answer", "text": "No. We collect non-runners, cars that have failed their MOT, accident-damaged vehicles and cars that have simply sat unused for years, in any condition." }
+      },
+      {
+        "@type": "Question",
+        "name": "What do I need to have ready when you collect the car?",
+        "acceptedAnswer": { "@type": "Answer", "text": "The vehicle's keys, and its logbook (V5C) or registration details if you have them, help the process go smoothly. If you can't find the logbook, tell us when you book and we'll talk through the options." }
+      }
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "serviceType": "Scrap Car Collection",
+    "name": "Scrap Car Collection Birmingham",
+    "description": "Free collection of scrap cars and non-runners, any make and any condition, across Birmingham and the West Midlands.",
+    "url": "https://fasterbreakdownrecovery.co.uk/services/scrap-car-collection-birmingham.html",
+    "provider": {
+      "@type": "TowingService",
+      "name": "Faster Breakdown Recovery",
+      "telephone": "+442080580013",
+      "url": "https://fasterbreakdownrecovery.co.uk/"
+    },
+    "areaServed": [
+      { "@type": "City", "name": "Birmingham" },
+      { "@type": "AdministrativeArea", "name": "West Midlands" }
+    ]
+  }
+  </script>
+===MAIN===
+    <section class="page-hero">
+      <div class="container">
+        <span class="eyebrow">Scrap car collection</span>
+        <h1>Scrap Car Collection Birmingham</h1>
+        <p class="page-hero__lede">Got a car that's finished, whatever state it's in? We collect scrap cars and non-runners free of charge, anywhere across Birmingham and the West Midlands.</p>
+        <div class="hero__actions" style="margin-top:1.5rem;">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--whatsapp btn--lg" href="https://wa.me/447988974609?text=Hi%20Faster%20Breakdown%20Recovery%2C%20I%27d%20like%20a%20scrap%20car%20collected." data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
+        </div>
+        <!-- CONFIRM WITH ABDUL: real average collection turnaround (e.g. "same day", "within 24 hours") before making a specific time claim in the hero or CTA copy. Left deliberately general until confirmed. -->
+        <p class="text-muted" style="font-size:0.85rem;">Same-day collection where possible, depending on your area and availability — ask when you call.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container two-col">
+        <div class="prose">
+          <h2>Free collection, any condition</h2>
+          <p>It doesn't matter what state the car is in — running or not, damaged, rusted through, failed its last MOT, or simply sat on the drive unused for years. If it's ready to go, we'll collect it, and there's no charge for the collection itself. This covers cars of any make and model across <a href="../areas/birmingham.html">Birmingham</a> and the wider West Midlands.</p>
+
+          <h2>How it works</h2>
+          <p>Call or WhatsApp us with the vehicle's make and model, its location, and roughly what condition it's in — whether it starts and moves under its own power, or needs to be loaded. We'll arrange a collection time, and where possible we can often collect the same day, depending on your area and how busy we are. Have the keys ready, along with the vehicle's log book (V5C) if you can find it, since that helps the process go smoothly.</p>
+
+          <ul class="checklist">
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Non-runners and cars that won't start.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Cars that have failed their MOT.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Accident-damaged vehicles no longer worth repairing.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Old cars that have sat unused on a driveway or in a garage for years.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Any make or model — we don't turn cars away for being too old, too rusty or too far gone.</li>
+          </ul>
+
+          <h2>Where your car goes</h2>
+          <!-- CONFIRM WITH ABDUL: are we an ATF ourselves, or do we collect and hand off to a licensed ATF partner? Copy must match whichever is true, including any wording about DVLA notification or issuing a Certificate of Destruction. Do not publish specific legal claims until this is confirmed. -->
+          <p>Once collected, your vehicle is taken on to be dealt with properly and in line with the relevant regulations for end-of-life vehicles. If you need documentation or more detail for your own records, ask us when you book collection and we'll confirm exactly what applies to your vehicle.</p>
+
+          <div class="callout">
+            <p><strong>Before we collect.</strong> Please remove any personal belongings from the car beforehand if you're able to — we can't be responsible for anything left inside once it's collected. If you have the V5C log book, having it ready speeds things up, but let us know if you can't locate it and we'll talk through the options.</p>
+          </div>
+
+          <h2>Not sure this is the right service?</h2>
+          <p>If your car has broken down and you need it recovered rather than scrapped, our <a href="breakdown-recovery-birmingham.html">breakdown recovery</a> or general <a href="car-recovery-birmingham.html">car recovery</a> pages cover that. If you're planning a non-emergency move of a car that still has some life in it — to storage, a new owner, or another address — see <a href="car-transport-birmingham.html">car transport</a> instead.</p>
+        </div>
+
+        <aside class="side-panel">
+          <h2>Ready to have it collected?</h2>
+          <a class="btn btn--primary btn--block" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--whatsapp btn--block" href="https://wa.me/447988974609?text=Hi%20Faster%20Breakdown%20Recovery%2C%20I%27d%20like%20a%20scrap%20car%20collected." data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
+          <ul>
+            <li><a href="car-transport-birmingham.html">Car Transport Birmingham</a></li>
+            <li><a href="car-recovery-birmingham.html">Car Recovery Birmingham</a></li>
+            <li><a href="breakdown-recovery-birmingham.html">Breakdown Recovery Birmingham</a></li>
+          <li><a href="../contact.html#quote">Request a Quote Online</a></li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section section--alt">
+      <div class="container">
+        <div class="section-head section-head--center">
+          <span class="eyebrow">Questions</span>
+          <h2>Scrap Car Collection FAQs</h2>
+        </div>
+        <div class="faq-list">
+          <details class="faq-item">
+            <summary>Do you charge for scrap car collection?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>No — collection is free, anywhere across Birmingham and the West Midlands.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Does my car need to be running or roadworthy?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>No. We collect non-runners, cars that have failed their MOT, accident-damaged vehicles and cars that have simply sat unused for years, in any condition.</p>
+          </details>
+          <details class="faq-item">
+            <summary>What do I need to have ready when you collect the car?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>The vehicle's keys, and its logbook (V5C) or registration details if you have them, help the process go smoothly. If you can't find the logbook, tell us when you book and we'll talk through the options.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">Related</span>
+          <h2>Other Services You Might Need</h2>
+        </div>
+        <ul class="related-services">
+          <li><a href="car-transport-birmingham.html">Car Transport Birmingham</a></li>
+          <li><a href="car-recovery-birmingham.html">Car Recovery Birmingham</a></li>
+          <li><a href="breakdown-recovery-birmingham.html">Breakdown Recovery Birmingham</a></li>
+          <li><a href="vehicle-recovery-birmingham.html">Vehicle Recovery Birmingham</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="cta-band section">
+      <div class="container">
+        <h2>Got a Scrap Car to Get Rid Of?</h2>
+        <p>Call or WhatsApp us and we'll arrange free collection, anywhere across Birmingham and the West Midlands.</p>
+        <div class="cta-band__actions">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--whatsapp btn--lg" href="https://wa.me/447988974609?text=Hi%20Faster%20Breakdown%20Recovery%2C%20I%27d%20like%20a%20scrap%20car%20collected." data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
+        </div>
+      </div>
+    </section>

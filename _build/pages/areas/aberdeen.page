@@ -1,0 +1,100 @@
+title: Breakdown Recovery in Aberdeen City | Faster Breakdown Recovery
+description: Mobile breakdown recovery across Aberdeen city, from Union Street and the harbour to the outer estates — with awareness of the Low Emission Zone and city-centre access restrictions.
+og_title: Breakdown Recovery in Aberdeen City
+og_description: Mobile breakdown recovery across Aberdeen city centre and suburbs, with awareness of the Low Emission Zone and city-centre access restrictions.
+label: Aberdeen
+crumbs: Areas Covered|areas/index.html
+nav: areas
+kind: area
+region: Scotland > Aberdeen &amp; Aberdeenshire
+===MAIN===
+    <section class="page-hero">
+      <div class="container">
+        <span class="eyebrow">Areas covered</span>
+        <h1>Breakdown Recovery in Aberdeen City</h1>
+        <p class="page-hero__lede">Scotland's third-largest city packs a lot into a small area — a tight, one-way city centre, a working harbour, and suburbs old and new spreading out from it. We recover cars and light vehicles from anywhere within the city, day or night.</p>
+        <div class="hero__actions" style="margin-top:1.5rem;">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--lg" href="../contact.html#quote">Get a Quote</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container two-col">
+        <div class="prose">
+          <h2>A city centre with its own rules</h2>
+          <p>Aberdeen's centre is dense and largely built around a one-way system, with Union Street running through the middle of it as the main city-centre thoroughfare. If your car stops in or near the centre, the practical problem is often less about the fault itself and more about where you can safely wait and how a recovery vehicle can reach you — narrow side streets, restricted turns and limited stopping space all come into play. Tell us exactly where you are, including the nearest junction or landmark, and we'll plan the approach accordingly.</p>
+
+          <h2>The Low Emission Zone</h2>
+          <p>Aberdeen operates a Low Emission Zone (LEZ) covering the city centre. If your vehicle breaks down inside the zone, that's not something you need to worry about in the moment — our priority is getting you and the vehicle out of the way safely — but it's worth mentioning if you're planning where the vehicle should be taken on afterwards, since onward journeys through the zone in a non-compliant vehicle may be affected.</p>
+
+          <h2>Beyond the centre</h2>
+          <p>Most of Aberdeen isn't the city centre, of course. North Anderson Drive carries the A90 as a western bypass through the city, giving reasonably quick access to the suburbs on either side, and Beach Boulevard connects the centre to the coast and the harbour area. Beyond these, Aberdeen is largely a patchwork of housing — long-established estates alongside newer developments on the city's edges — and we cover all of it, from driveways and side streets to supermarket car parks and multi-storey car parks in town.</p>
+
+          <div class="callout">
+            <p><strong>Broken down near the harbour or on Union Street?</strong> Stay well back from moving traffic and buses, keep hazard lights on, and let us know the nearest cross street. City-centre pickups often need a slightly different approach than a suburban breakdown, so the more detail you can give us, the faster we can plan the route in.</p>
+          </div>
+
+          <h2>Getting to you</h2>
+          <p>Because we're a mobile service with no fixed depot, our response to an Aberdeen call-out depends on where our nearest vehicle already is, not a fixed distance from a base. In practice that usually means a reasonably quick response anywhere in the city, but we'll always give you an honest estimate over the phone rather than guessing.</p>
+        </div>
+
+        <aside class="side-panel">
+          <h2>Broken down in Aberdeen?</h2>
+          <a class="btn btn--primary btn--block" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--block" href="../contact.html#quote">Request a Quote</a>
+          <ul>
+            <li><a href="../services/breakdown-recovery-aberdeen.html">Breakdown Recovery Aberdeen</a></li>
+            <li><a href="../services/roadside-assistance-aberdeen.html">Roadside Assistance</a></li>
+            <li><a href="../services/accident-recovery-aberdeen.html">Accident Recovery Aberdeen</a></li>
+            <li><a href="../routes/awpr.html">Breakdown on the AWPR</a></li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section section--alt">
+      <div class="container">
+        <div class="section-head section-head--center">
+          <span class="eyebrow">Questions</span>
+          <h2>Aberdeen Recovery FAQs</h2>
+        </div>
+        <div class="faq-list">
+          <details class="faq-item">
+            <summary>My car has stopped on Union Street — what should I do?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Put your hazard lights on, stay with the vehicle if it's safe to do so, and move yourself and any passengers well clear of moving traffic and buses. Call us with your exact location — the nearest cross street or landmark is enough — and we'll plan the quickest way in given the one-way system.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Does the Low Emission Zone affect getting my car recovered?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>No — recovering a broken-down vehicle out of the LEZ isn't a problem. It's only worth bearing in mind for any onward driving through the zone afterwards, in a different vehicle, once yours has been recovered.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">Related</span>
+          <h2>Other Services You Might Need</h2>
+        </div>
+        <ul class="related-services">
+          <li><a href="../services/breakdown-recovery-aberdeen.html">Breakdown Recovery Aberdeen</a></li>
+          <li><a href="../services/car-recovery-aberdeen.html">Car Recovery Aberdeen</a></li>
+          <li><a href="../services/accident-recovery-aberdeen.html">Accident Recovery Aberdeen</a></li>
+          <li><a href="../services/roadside-assistance-aberdeen.html">Roadside Assistance Aberdeen</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="cta-band section">
+      <div class="container">
+        <h2>Broken Down in Aberdeen Right Now?</h2>
+        <p>Call us and we'll get a recovery vehicle on its way to you.</p>
+        <div class="cta-band__actions">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--lg" href="../contact.html#quote">Get a Quote</a>
+        </div>
+      </div>
+    </section>

@@ -1,0 +1,132 @@
+title: Accident Recovery Aberdeen | Faster Breakdown Recovery
+description: Careful recovery after a road traffic collision in Aberdeen. If anyone is injured or the road is blocked, call 999 first. We recover your vehicle after.
+og_title: Accident Recovery Aberdeen
+og_description: Careful recovery of accident-damaged vehicles in Aberdeen, to a garage, bodyshop, insurer-approved location or storage.
+label: Accident Recovery Aberdeen
+crumbs: Services|services/index.html
+nav: services
+===HEAD===
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Should I call the police first?",
+        "acceptedAnswer": { "@type": "Answer", "text": "If anyone is injured, or the road is blocked or dangerous, call 999 immediately — that comes before anything else. Police Scotland may attend the scene, and any recovery we carry out is worked around their instructions." }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you recover my car if it's not driveable after a crash?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes. We use appropriate loading methods for vehicles that are damaged or not safe to drive normally, taking extra care where a wheel, axle or body panel has been affected." }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you take my car to my insurer's approved repairer?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes, if you give us the address. Check with your insurer first about which repairer or process they require, since this can affect your claim, and then let us know where the car needs to go." }
+      }
+    ]
+  }
+  </script>
+===MAIN===
+    <section class="page-hero">
+      <div class="container">
+        <span class="eyebrow">Accident recovery</span>
+        <h1>Accident Recovery Aberdeen</h1>
+        <p class="page-hero__lede">Careful, considerate recovery of your vehicle after a road traffic collision in Aberdeen, working around the police where they're in attendance.</p>
+        <div class="hero__actions" style="margin-top:1.5rem;">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--lg" href="../contact.html#quote">Get a Quote</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container two-col">
+        <div class="prose">
+          <div class="callout">
+            <p><strong>If anyone is injured, or the road is blocked or dangerous, call 999 immediately.</strong> That comes before anything else, including calling us. Police Scotland may attend the scene, and any vehicle recovery is planned around their instructions and timing.</p>
+          </div>
+
+          <h2>Recovery after a collision, done carefully</h2>
+          <p>An accident is different from a mechanical breakdown, and it needs a different level of care. A vehicle involved in a collision might have a damaged wheel, a bent axle, a compromised body panel, or other issues that make standard loading unsafe if it's not handled correctly. We take that into account, assessing the vehicle at the scene and using the right method to move it without causing further damage or risk.</p>
+          <p>This service is specifically for collision damage. If your vehicle has developed a mechanical fault rather than being involved in an accident, our <a href="breakdown-recovery-aberdeen.html">breakdown recovery</a> or general <a href="car-recovery-aberdeen.html">car recovery</a> pages are the better starting point.</p>
+
+          <h2>Where we can take your vehicle</h2>
+          <ul class="checklist">
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> A garage or dealership of your choice.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> A bodyshop for repair assessment.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> An insurer-approved repairer or location.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Secure storage while you decide next steps.</li>
+          </ul>
+
+          <h2>Working around the scene</h2>
+          <p>At the scene of a collision, our priority is getting your vehicle recovered safely without getting in the way of the police, ambulance service, or anyone else attending. We'll wait for the go-ahead where the scene needs to be managed first, and we'll ask what's needed before starting any recovery work.</p>
+
+          <h2>A note on insurance</h2>
+          <p>We're not able to give legal or insurance advice, so it's worth checking with your insurer about what they need from you, and which repairer or process applies to your policy, as early as you can. Once you know where your vehicle needs to go, we'll take it there.</p>
+        </div>
+
+        <aside class="side-panel">
+          <h2>Been in a collision?</h2>
+          <a class="btn btn--primary btn--block" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--block" href="../contact.html#quote">Request a Quote</a>
+          <ul>
+            <li><a href="car-recovery-aberdeen.html">Car Recovery Aberdeen</a></li>
+            <li><a href="breakdown-recovery-aberdeen.html">Breakdown Recovery Aberdeen</a></li>
+            <li><a href="24-hour-breakdown-recovery-aberdeen.html">24 Hour Breakdown Recovery</a></li>
+            <li><a href="../routes/a90.html">Accident Recovery on the A90</a></li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section section--alt">
+      <div class="container">
+        <div class="section-head section-head--center">
+          <span class="eyebrow">Questions</span>
+          <h2>Accident Recovery FAQs</h2>
+        </div>
+        <div class="faq-list">
+          <details class="faq-item">
+            <summary>Should I call the police first?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>If anyone is injured, or the road is blocked or dangerous, call 999 immediately — that comes before anything else. Police Scotland may attend the scene, and any recovery we carry out is worked around their instructions.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Can you recover my car if it's not driveable after a crash?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Yes. We use appropriate loading methods for vehicles that are damaged or not safe to drive normally, taking extra care where a wheel, axle or body panel has been affected.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Can you take my car to my insurer's approved repairer?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Yes, if you give us the address. Check with your insurer first about which repairer or process they require, since this can affect your claim, and then let us know where the car needs to go.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">Related</span>
+          <h2>Other Services You Might Need</h2>
+        </div>
+        <ul class="related-services">
+          <li><a href="car-recovery-aberdeen.html">Car Recovery Aberdeen</a></li>
+          <li><a href="breakdown-recovery-aberdeen.html">Breakdown Recovery Aberdeen</a></li>
+          <li><a href="24-hour-breakdown-recovery-aberdeen.html">24 Hour Breakdown Recovery</a></li>
+          <li><a href="vehicle-recovery-aberdeen.html">Vehicle Recovery Aberdeen</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="cta-band section">
+      <div class="container">
+        <h2>Been in an Accident in Aberdeen?</h2>
+        <p>Call us and we'll recover your vehicle carefully to wherever it needs to go.</p>
+        <div class="cta-band__actions">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--lg" href="../contact.html#quote">Get a Quote</a>
+        </div>
+      </div>
+    </section>

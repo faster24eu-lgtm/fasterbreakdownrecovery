@@ -1,0 +1,97 @@
+title: Breakdown Recovery in Ellon | Faster Breakdown Recovery
+description: Breakdown and vehicle recovery in Ellon, the Formartine market town on the A90 between Aberdeen and Peterhead, beside the River Ythan.
+og_title: Breakdown Recovery in Ellon
+og_description: Breakdown and vehicle recovery in Ellon, on the A90 between Aberdeen and Peterhead, covering the market town and surrounding Formartine roads.
+label: Ellon
+crumbs: Areas Covered|areas/index.html
+nav: areas
+kind: area
+region: Scotland > Aberdeen &amp; Aberdeenshire
+===MAIN===
+    <section class="page-hero">
+      <div class="container">
+        <span class="eyebrow">Areas covered</span>
+        <h1>Breakdown Recovery in Ellon</h1>
+        <p class="page-hero__lede">Ellon is the main market town of Formartine, sitting on the A90 between Aberdeen and Peterhead beside the River Ythan. We recover cars from the town centre, the surrounding farmland and villages, and the A90 itself.</p>
+        <div class="hero__actions" style="margin-top:1.5rem;">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--lg" href="../contact.html#quote">Get a Quote</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container two-col">
+        <div class="prose">
+          <h2>On the A90 north of Aberdeen</h2>
+          <p>Ellon sits on the A90 as it continues north from Aberdeen and Bridge of Don towards Peterhead, and this road carries a mix of local traffic, commuters and longer journeys further up the coast. A good number of the breakdowns we attend around Ellon happen on this stretch of the A90 rather than in the town itself — if that's your situation, your direction of travel (towards Aberdeen or towards Peterhead) and the nearest junction give us what we need to plan the route in.</p>
+
+          <h2>A market town on the River Ythan</h2>
+          <p>The town itself sits beside the River Ythan and serves as the hub for a wide area of Formartine, meaning many of the vehicles we recover in Ellon have come in from smaller villages and farms nearby rather than starting their journey in the town. If you've broken down somewhere outside the town centre, a farm name, village or the nearest crossroads is far more useful to us than a postcode alone, especially once you're off the main road.</p>
+
+          <h2>Rural roads and farm traffic</h2>
+          <p>Formartine is largely agricultural, and the roads around Ellon reflect that — narrower lanes, seasonal farm traffic, and stretches with limited passing places. These roads can be quieter than the A90, which sometimes means a longer wait for other traffic to pass if you need to flag someone down, so it's worth calling us as soon as it's safe to do so rather than waiting to see if the problem resolves itself.</p>
+
+          <div class="callout">
+            <p><strong>Broken down on a farm road or lane near Ellon?</strong> If mobile signal is patchy, try moving a short distance — even slightly higher ground can help — before calling. Give us the nearest village, farm, or a landmark you can see, since postcodes can cover a wide rural area.</p>
+          </div>
+        </div>
+
+        <aside class="side-panel">
+          <h2>Broken down in Ellon?</h2>
+          <a class="btn btn--primary btn--block" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--block" href="../contact.html#quote">Request a Quote</a>
+          <ul>
+            <li><a href="../routes/a90.html">Breakdown on the A90</a></li>
+            <li><a href="../services/breakdown-recovery-aberdeen.html">Breakdown Recovery Aberdeen</a></li>
+            <li><a href="../services/roadside-assistance-aberdeen.html">Roadside Assistance</a></li>
+            <li><a href="../services/car-recovery-aberdeen.html">Car Recovery Aberdeen</a></li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section section--alt">
+      <div class="container">
+        <div class="section-head section-head--center">
+          <span class="eyebrow">Questions</span>
+          <h2>Ellon Recovery FAQs</h2>
+        </div>
+        <div class="faq-list">
+          <details class="faq-item">
+            <summary>I've broken down on a farm road near Ellon and I'm not sure of the postcode — what do I do?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Describe the nearest village, farm, junction or landmark — that's usually enough for us to find you, even without an exact postcode.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Do you cover breakdowns on the A90 between Ellon and Peterhead?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Yes. Call us with your direction of travel and the nearest junction and we'll confirm how quickly we can reach you.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">Related</span>
+          <h2>Other Services You Might Need</h2>
+        </div>
+        <ul class="related-services">
+          <li><a href="../services/breakdown-recovery-aberdeen.html">Breakdown Recovery Aberdeen</a></li>
+          <li><a href="../services/roadside-assistance-aberdeen.html">Roadside Assistance Aberdeen</a></li>
+          <li><a href="../services/car-recovery-aberdeen.html">Car Recovery Aberdeen</a></li>
+          <li><a href="../services/car-transport-aberdeen.html">Car Transport Aberdeen</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="cta-band section">
+      <div class="container">
+        <h2>Broken Down in Ellon Right Now?</h2>
+        <p>Call us and we'll get a recovery vehicle on its way to you.</p>
+        <div class="cta-band__actions">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--lg" href="../contact.html#quote">Get a Quote</a>
+        </div>
+      </div>
+    </section>

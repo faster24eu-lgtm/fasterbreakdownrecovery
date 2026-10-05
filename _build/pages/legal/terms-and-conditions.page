@@ -1,0 +1,60 @@
+title: Terms &amp; Conditions | Faster Breakdown Recovery
+description: Terms and conditions for the use of the Faster Breakdown Recovery website and the services described on it.
+og_title: Terms &amp; Conditions | Faster Breakdown Recovery
+og_description: Terms and conditions for the use of this website and the services it describes.
+label: Terms &amp; Conditions
+===MAIN===
+    <section class="page-hero">
+      <div class="container">
+        <span class="eyebrow">Legal</span>
+        <h1>Terms &amp; Conditions</h1>
+        <p class="page-hero__lede">The terms that apply to using this website and to recovery services arranged with Faster Breakdown Recovery.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="prose">
+          <!-- TODO: Have this policy reviewed by a qualified professional before launch. -->
+          <p class="text-muted">Last updated: September 2026</p>
+
+          <h2>About these terms</h2>
+          <p>This page sets out the general terms on which you may use this website, fasterbreakdownrecovery.co.uk, and on which Faster Breakdown Recovery provides breakdown and vehicle recovery services. By using this website or requesting a quote through it, you agree to these terms. If you don't agree with them, please don't use the website or our services.</p>
+
+          <h2>Use of this website</h2>
+          <p>The content on this website is provided for general information only, to help you understand the services we offer and the areas we cover. While we try to keep it accurate and up to date, we make no guarantee that every detail is complete or current at all times, and we may update or remove content without notice.</p>
+
+          <h2>Quotes and pricing</h2>
+          <p>Any price or estimate given, whether on this website, over the phone or via the quote form, is provided as a guide and is subject to confirmation once we understand the full details of your situation, vehicle and location. A final price is agreed before recovery work begins.</p>
+
+          <h2>Availability of services</h2>
+          <p>Recovery services are subject to vehicle and driver availability, weather, road conditions and other factors outside our control. We do not guarantee a specific response time or arrival time for any job. We aim to reach you as promptly as circumstances allow and will keep you informed where we can.</p>
+
+          <h2>Your responsibilities</h2>
+          <p>When requesting recovery, please give us accurate information about your location, vehicle and the nature of the problem, so we can send the right equipment. You're responsible for your own safety and that of any passengers while waiting for recovery — please see the safety guidance on our <a href="../guides/smart-motorway-breakdown.html">smart motorway guide</a> and our <a href="../services/index.html">services</a> page.</p>
+
+          <h2>Liability</h2>
+          <p>To the extent permitted by law, our liability in connection with the use of this website or the services we provide is limited to what is required under applicable UK law. Nothing in these terms excludes or limits liability that cannot legally be excluded or limited, such as liability for death or personal injury caused by negligence.</p>
+
+          <h2>Links to other websites</h2>
+          <p>This website may contain links to third-party websites for reference or convenience. We're not responsible for the content, accuracy or practices of any external website, and including a link does not imply endorsement.</p>
+
+          <h2>Governing law</h2>
+          <p>These terms are governed by the law of England and Wales, and any dispute relating to them or to services provided by Faster Breakdown Recovery will be subject to the jurisdiction of the courts of England and Wales.</p>
+
+          <h2>Contact</h2>
+          <p>If you have any questions about these terms, contact us at <a href="#" data-contact="email-href"><span data-contact="email-display">info@fasterbreakdownrecovery.co.uk</span></a>.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="cta-band section">
+      <div class="container">
+        <h2>Need Recovery?</h2>
+        <p>Call now, or send us your details for a quote.</p>
+        <div class="cta-band__actions">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--lg" href="../contact.html#quote">Get a Quote</a>
+        </div>
+      </div>
+    </section>

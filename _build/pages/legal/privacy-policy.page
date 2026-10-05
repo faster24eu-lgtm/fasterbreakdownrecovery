@@ -1,0 +1,54 @@
+title: Privacy Policy | Faster Breakdown Recovery
+description: Privacy policy for Faster Breakdown Recovery: what information we collect through our contact and quote form, how it's used, and your data protection rights.
+og_title: Privacy Policy | Faster Breakdown Recovery
+og_description: What information we collect, how it's used, and your data protection rights.
+label: Privacy Policy
+===MAIN===
+    <section class="page-hero">
+      <div class="container">
+        <span class="eyebrow">Legal</span>
+        <h1>Privacy Policy</h1>
+        <p class="page-hero__lede">How Faster Breakdown Recovery collects, uses and protects the information you share with us.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="prose">
+          <!-- TODO: Have this policy reviewed by a qualified professional before launch. -->
+          <p class="text-muted">Last updated: September 2026</p>
+
+          <h2>Overview</h2>
+          <p>This policy explains what information Faster Breakdown Recovery collects when you use this website, why we collect it, and what rights you have over it. We keep this deliberately simple: this is a small local recovery business, and we only collect what's needed to respond to your enquiry.</p>
+
+          <h2>What we collect</h2>
+          <p>This website does not use a database, and it does not track visitors automatically. The only personal information we receive is what you choose to give us directly, such as through our <a href="../contact.html#quote">contact and quote form</a> or by phone, email or WhatsApp. This may include your name, phone number, email address, vehicle make and model, and your location or a description of what's happened.</p>
+          <p>The quote form on this site is currently set up to open your own email application with your details pre-filled, so that submission is sent directly from your device to ours as a normal email — it is not stored on this website or in any separate database run by us.</p>
+
+          <h2>How we use it</h2>
+          <p>We use the information you provide solely to respond to your enquiry — to understand what's happened, arrange recovery, and, where needed, follow up about the job. We do not use your information for marketing, and we do not sell, rent or share it with third parties for their own purposes.</p>
+
+          <h2>How long we keep it</h2>
+          <p>We keep enquiry information only for as long as reasonably needed to deal with your request and any related follow-up, such as an invoice query. We don't keep personal data longer than necessary, and we periodically remove information that's no longer needed.</p>
+
+          <h2>Cookies and tracking</h2>
+          <p>This website does not currently use analytics or advertising cookies. See our <a href="cookie-policy.html">Cookie Policy</a> for full detail.</p>
+
+          <h2>Your rights</h2>
+          <p>Under UK GDPR and the Data Protection Act 2018, you have the right to ask what personal information we hold about you, to ask us to correct it if it's wrong, and to ask us to delete it. If you'd like to exercise any of these rights, or have any questions about how your information is handled, contact us at <a href="#" data-contact="email-href"><span data-contact="email-display">info@fasterbreakdownrecovery.co.uk</span></a>.</p>
+
+          <h2>Changes to this policy</h2>
+          <p>If the way we handle information changes — for example, if we start using a proper form backend or add analytics — we'll update this page to reflect that.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="cta-band section">
+      <div class="container">
+        <h2>Questions About Your Data?</h2>
+        <p>Get in touch and we'll be happy to help.</p>
+        <div class="cta-band__actions">
+          <a class="btn btn--primary btn--lg" href="../contact.html">Contact Us</a>
+        </div>
+      </div>
+    </section>

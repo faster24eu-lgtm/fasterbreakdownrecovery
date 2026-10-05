@@ -1,0 +1,66 @@
+title: About Us | Faster Breakdown Recovery
+description: Faster Breakdown Recovery arranges 24/7 breakdown and vehicle recovery across the UK. Learn how we work, how we dispatch local recovery operators, and where we operate.
+og_title: About Faster Breakdown Recovery
+og_description: How Faster Breakdown Recovery works: 24/7 phone line, local recovery operators dispatched to you, across the UK.
+label: About
+nav: about
+===MAIN===
+    <section class="page-hero">
+      <div class="container">
+        <span class="eyebrow">About us</span>
+        <h1>About Faster Breakdown Recovery</h1>
+        <p class="page-hero__lede">We're a mobile breakdown and vehicle recovery service covering the whole of the UK. We send a local recovery operator directly to you rather than working from a public depot.</p>
+        <div class="hero__actions" style="margin-top:1.5rem;">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--lg" href="contact.html#quote">Get a Quote</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container two-col">
+        <div class="prose">
+          <h2>What we do</h2>
+          <p>Faster Breakdown Recovery provides breakdown recovery, vehicle recovery, roadside assistance, accident recovery, scrap car collection and vehicle transport across England, Scotland, Wales and Northern Ireland. Whether your car has stopped on a city street, won't start on your driveway, or has been involved in a collision on the motorway, we arrange its recovery and take it wherever you need it to go. You can see the full range of what we handle on our <a href="services/index.html">services page</a>.</p>
+
+          <h2>A mobile service, by design</h2>
+          <p>We don't operate a public office or depot. Instead, when you call, we send a local recovery operator directly to your location — a driveway, a car park, the roadside, or wherever your vehicle has come to a stop. This is standard practice across the vehicle recovery industry: the value is in getting a properly equipped vehicle to you quickly, not in having somewhere for customers to travel to. There's no showroom to visit and no counter to queue at; you call, tell us where you are, and we come to you.</p>
+
+          <h2>Where we operate</h2>
+          <p>We cover the whole of the UK, from London and the south coast to the Highlands, and from Northern Ireland to East Anglia. Because recovery is carried out by local operators, the vehicle that comes to you usually starts nearby rather than driving across the country. Many cities and motorways have their own page with local detail: see <a href="areas/index.html">areas covered</a> and <a href="routes/index.html">motorways and main roads</a>.</p>
+
+          <div class="callout">
+            <p><strong>No public office or depot.</strong> We're a mobile-dispatch operation, so there isn't a premises to visit in person. If you need recovery, the fastest route to help is a phone call or our online quote form — we'll take it from there.</p>
+          </div>
+
+          <h2>How we approach every job</h2>
+          <p>Every breakdown is different, so we treat it that way. On the phone, we ask enough about your vehicle and situation to send the right equipment the first time, rather than guessing. Once a recovery operator is on the way, we aim to keep you informed rather than leaving you wondering. And when we arrive, the job is carried out with the right technique for your specific vehicle — a low-clearance car, a van, or a family estate all need to be handled differently, and we plan for that in advance where we can.</p>
+          <p>We're also upfront about cost and timing before any work begins. Recovery can be an unsettling experience, particularly if it happens at night or somewhere unfamiliar, and clear communication throughout goes a long way toward making it less stressful.</p>
+
+          <h2>Getting in touch</h2>
+          <p>If you've broken down, the quickest option is always to call. If you'd rather plan ahead or aren't in an urgent situation, use our <a href="contact.html#quote">online quote form</a> and we'll come back to you with details.</p>
+        </div>
+
+        <aside class="side-panel">
+          <h2>Need recovery now?</h2>
+          <a class="btn btn--primary btn--block" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--block" href="contact.html#quote">Request a Quote</a>
+          <ul>
+            <li><a href="services/index.html">Our Services</a></li>
+            <li><a href="areas/index.html">Areas Covered</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <section class="cta-band section">
+      <div class="container">
+        <h2>Broken Down? We Can Help.</h2>
+        <p>Call now for fast, professional breakdown recovery — or send us your details and we'll come back to you with a quote.</p>
+        <div class="cta-band__actions">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--lg" href="contact.html#quote">Get a Quote</a>
+        </div>
+      </div>
+    </section>

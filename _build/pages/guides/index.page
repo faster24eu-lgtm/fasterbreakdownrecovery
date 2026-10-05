@@ -1,0 +1,35 @@
+title: Breakdown Guides &amp; Advice | Faster Breakdown Recovery
+description: Practical guides for drivers: what to do if you break down on a smart motorway, if your car won't start, and how to stay safe while you wait for recovery.
+og_title: Breakdown Guides &amp; Advice
+og_description: Practical guides for drivers: what to do if you break down on a smart motorway, if your car won't start, and how to stay safe while you wait for recovery.
+label: Guides
+nav: guides
+===MAIN===
+    <section class="page-hero">
+      <div class="container">
+        <span class="eyebrow">Guides</span>
+        <h1>Breakdown Guides &amp; Advice</h1>
+        <p class="page-hero__lede">Practical, plain-English advice for the moments when something goes wrong with your vehicle, written by people who deal with breakdowns every day.</p>
+        <div class="hero__actions" style="margin-top:1.5rem;">
+          <a class="btn btn--primary btn--lg" href="{{PHONE_HREF}}" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--whatsapp btn--lg" href="{{WA_HREF}}" data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+{{INDEX:guide}}
+      </div>
+    </section>
+
+    <section class="cta-band section">
+      <div class="container">
+        <h2>Need Recovery Now?</h2>
+        <p>Call or WhatsApp us with your location and we&rsquo;ll arrange recovery to you, wherever you are in the UK.</p>
+        <div class="cta-band__actions">
+          <a class="btn btn--primary btn--lg" href="{{PHONE_HREF}}" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--whatsapp btn--lg" href="{{WA_HREF}}" data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
+        </div>
+      </div>
+    </section>

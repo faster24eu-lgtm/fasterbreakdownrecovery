@@ -1,0 +1,132 @@
+title: Car Transport Aberdeen | Planned, Non-Emergency Moves | Faster Breakdown Recovery
+description: Book planned car transport in Aberdeen for auction purchases, non-runners, MOT failures and vehicle relocations. Not an emergency service — arranged in advance.
+og_title: Car Transport Aberdeen | Planned, Non-Emergency Moves
+og_description: Planned car transport in Aberdeen for auction buys, non-runners, MOT failures and relocations.
+label: Car Transport Aberdeen
+crumbs: Services|services/index.html
+nav: services
+===HEAD===
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Can you transport a car that has no MOT?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes. A car without a valid MOT can't legally be driven on the road, but it can still be transported on a recovery vehicle. This is one of the most common reasons people book car transport with us." }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you transport cars bought at auction?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes. Tell us the collection point, whether the car runs or not, and where it needs to go, and we'll arrange transport from there." }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I book transport in advance rather than calling in an emergency?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes, that's exactly what this service is for. Car transport is planned ahead of time for a date and route that suits you, rather than being an emergency response to a breakdown or accident." }
+      }
+    ]
+  }
+  </script>
+===MAIN===
+    <section class="page-hero">
+      <div class="container">
+        <span class="eyebrow">Car transport</span>
+        <h1>Car Transport Aberdeen</h1>
+        <p class="page-hero__lede">Planned, non-emergency transport for cars that need to be moved rather than driven — auction buys, non-runners, MOT failures and vehicle relocations across Aberdeen and Aberdeenshire.</p>
+        <div class="hero__actions" style="margin-top:1.5rem;">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--lg" href="../contact.html#quote">Get a Quote</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container two-col">
+        <div class="prose">
+          <h2>Not an emergency — a booking</h2>
+          <p>This is different from the rest of our services. Where <a href="breakdown-recovery-aberdeen.html">breakdown recovery</a> and <a href="accident-recovery-aberdeen.html">accident recovery</a> respond to something that's gone wrong on the road, car transport is arranged in advance for a car that simply needs to move from one place to another. There's no roadside urgency involved — you tell us where the car is, where it needs to go, and when, and we work around your schedule.</p>
+
+          <h2>Common reasons people book car transport</h2>
+          <ul class="checklist">
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> A car bought at auction that needs collecting and bringing home.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> A private sale purchase that isn't roadworthy yet.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> A non-runner being moved into storage.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Moving a car between home addresses.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> A car that has failed its MOT and can no longer be legally driven.</li>
+          </ul>
+
+          <h2>How booking works</h2>
+          <p>Get in touch with the collection address, the destination, and roughly when you'd like the move to happen. Let us know whether the car is driveable, since that affects how it's loaded, and whether there's anything unusual about access at either end, such as a narrow driveway or a locked compound. We'll confirm the details and arrange a suitable time.</p>
+
+          <div class="callout">
+            <p><strong>Driving without an MOT.</strong> A car that has failed its MOT, or has none, generally can't be driven on the public road except to a small number of permitted destinations such as a pre-booked test. Transporting it on a recovery vehicle avoids that problem entirely, since the car isn't being driven at all.</p>
+          </div>
+
+          <h2>When you might need something else instead</h2>
+          <p>If your car has actually broken down and you need it collected right now, our <a href="breakdown-recovery-aberdeen.html">breakdown recovery</a> or general <a href="car-recovery-aberdeen.html">car recovery</a> pages cover that kind of urgent situation. Car transport is the better fit whenever there's no emergency and you're simply planning a move.</p>
+        </div>
+
+        <aside class="side-panel">
+          <h2>Planning a car move?</h2>
+          <a class="btn btn--primary btn--block" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--block" href="../contact.html#quote">Request a Quote</a>
+          <ul>
+            <li><a href="car-recovery-aberdeen.html">Car Recovery Aberdeen</a></li>
+            <li><a href="vehicle-recovery-aberdeen.html">Vehicle Recovery Aberdeen</a></li>
+            <li><a href="van-recovery-aberdeen.html">Van Recovery Aberdeen</a></li>
+            <li><a href="../routes/a96.html">Car Transport on the A96</a></li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section section--alt">
+      <div class="container">
+        <div class="section-head section-head--center">
+          <span class="eyebrow">Questions</span>
+          <h2>Car Transport FAQs</h2>
+        </div>
+        <div class="faq-list">
+          <details class="faq-item">
+            <summary>Can you transport a car that has no MOT?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Yes. A car without a valid MOT can't legally be driven on the road, but it can still be transported on a recovery vehicle. This is one of the most common reasons people book car transport with us.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Do you transport cars bought at auction?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Yes. Tell us the collection point, whether the car runs or not, and where it needs to go, and we'll arrange transport from there.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Can I book transport in advance rather than calling in an emergency?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Yes, that's exactly what this service is for. Car transport is planned ahead of time for a date and route that suits you, rather than being an emergency response to a breakdown or accident.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">Related</span>
+          <h2>Other Services You Might Need</h2>
+        </div>
+        <ul class="related-services">
+          <li><a href="car-recovery-aberdeen.html">Car Recovery Aberdeen</a></li>
+          <li><a href="vehicle-recovery-aberdeen.html">Vehicle Recovery Aberdeen</a></li>
+          <li><a href="van-recovery-aberdeen.html">Van Recovery Aberdeen</a></li>
+          <li><a href="breakdown-recovery-aberdeen.html">Breakdown Recovery Aberdeen</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="cta-band section">
+      <div class="container">
+        <h2>Need a Car Moved in Aberdeen?</h2>
+        <p>Call us to arrange planned transport at a time that suits you.</p>
+        <div class="cta-band__actions">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--lg" href="../contact.html#quote">Get a Quote</a>
+        </div>
+      </div>
+    </section>

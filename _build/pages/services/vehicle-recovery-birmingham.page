@@ -1,0 +1,152 @@
+title: Vehicle Recovery Birmingham | Cars, 4x4s &amp; Vans | Faster Breakdown Recovery
+description: Vehicle recovery in Birmingham covering cars, 4x4s, vans and light commercial vehicles. The right loading method for the vehicle. Call now or request a quote.
+og_title: Vehicle Recovery Birmingham | Cars, 4x4s &amp; Vans
+og_description: Vehicle recovery in Birmingham covering cars, 4x4s, vans and light commercial vehicles.
+label: Vehicle Recovery Birmingham
+crumbs: Services|services/index.html
+nav: services
+===HEAD===
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What types of vehicle can you recover?",
+        "acceptedAnswer": { "@type": "Answer", "text": "We recover cars, 4x4s, vans and other light commercial vehicles. Tell us the make, model and roughly how the vehicle is loaded (or if it's not loaded at all) when you call, so the right recovery vehicle and equipment can be sent." }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you recover a 4x4 or larger vehicle?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes. 4x4s and larger cars often need different handling than a standard hatchback because of their weight, ground clearance and sometimes four-wheel-drive systems, and we take that into account when planning the recovery." }
+      },
+      {
+        "@type": "Question",
+        "name": "Is there a weight limit?",
+        "acceptedAnswer": { "@type": "Answer", "text": "It depends on the vehicle being recovered. Tell us the vehicle type and approximate weight when you call, particularly for larger vans or heavily loaded vehicles, so we can confirm suitability before dispatch." }
+      }
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "serviceType": "Vehicle Recovery",
+    "name": "Vehicle Recovery Birmingham",
+    "description": "Recovery for cars, 4x4s, SUVs, pickups, vans and light commercial vehicles across Birmingham and the West Midlands, with equipment matched to the vehicle.",
+    "url": "https://fasterbreakdownrecovery.co.uk/services/vehicle-recovery-birmingham.html",
+    "provider": {
+      "@type": "TowingService",
+      "name": "Faster Breakdown Recovery",
+      "telephone": "+442080580013",
+      "url": "https://fasterbreakdownrecovery.co.uk/"
+    },
+    "areaServed": [
+      { "@type": "City", "name": "Birmingham" },
+      { "@type": "AdministrativeArea", "name": "West Midlands" }
+    ]
+  }
+  </script>
+===MAIN===
+    <section class="page-hero">
+      <div class="container">
+        <span class="eyebrow">Vehicle recovery</span>
+        <h1>Vehicle Recovery Birmingham</h1>
+        <p class="page-hero__lede">Recovery for whatever you drive — cars, 4x4s, vans and light commercial vehicles — across Birmingham and the West Midlands, with equipment matched to the vehicle in front of us.</p>
+        <div class="hero__actions" style="margin-top:1.5rem;">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--whatsapp btn--lg" href="https://wa.me/447988974609?text=Hi%20Faster%20Breakdown%20Recovery%2C%20I%20need%20help%20with%20my%20vehicle." data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container two-col">
+        <div class="prose">
+          <h2>Recovery across the full range of vehicles</h2>
+          <p>"Vehicle recovery" is the umbrella under which our other, more specific pages sit. If you drive a standard car, our <a href="car-recovery-birmingham.html">car recovery</a> page covers that in more detail; if you run a van for work, <a href="van-recovery-birmingham.html">van recovery</a> is written specifically with tradespeople in mind. This page is for anyone who wants the broader picture — how we handle whatever's parked on your drive or stopped at the roadside, whatever type of vehicle it is.</p>
+          <p>In practice that spans small hatchbacks and city cars, saloons and estates, 4x4s and SUVs, pickups, and vans and light commercial vehicles used for trade or business. Each has its own quirks when it comes to recovery, and we plan around them rather than treating every vehicle the same way. Coverage runs across <a href="../areas/birmingham.html">Birmingham</a> city and out into the West Midlands.</p>
+
+          <h2>Why vehicle type changes the recovery method</h2>
+          <p>A low-slung sports car needs different ramp angles and loading care than a jacked-up 4x4. A long-wheelbase panel van has a different centre of gravity and turning circle to a small car, which affects how it's positioned on a flatbed. Ground clearance, overall weight, whether the vehicle is four-wheel drive, and how it's loaded internally all factor into whether we tow, winch onto a flatbed, or use wheel-lift equipment. Getting this right matters both for the safety of the recovery and for avoiding further damage to your vehicle.</p>
+
+          <ul class="checklist">
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Standard cars, estates and saloons.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> 4x4s, SUVs and pickups.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Vans and light commercial vehicles.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Vehicles that aren't safe to drive due to a fault, damage, or being a non-runner.</li>
+          </ul>
+
+          <div class="callout">
+            <p><strong>Tell us the details.</strong> When you call, let us know the vehicle type, roughly how big or heavy it is, and its condition. That's what lets us send the right recovery vehicle first time rather than having to reassess on arrival.</p>
+          </div>
+
+          <h2>Getting the right service for your situation</h2>
+          <p>If your vehicle is a standard car and the problem is a straightforward mechanical fault, our <a href="breakdown-recovery-birmingham.html">breakdown recovery</a> page is likely the closest match. If you're after recovery specifically for a van used for work, see <a href="van-recovery-birmingham.html">van recovery</a>. This page exists for everything in between and everyone who just wants to know we can handle their particular vehicle before they pick up the phone.</p>
+        </div>
+
+        <aside class="side-panel">
+          <h2>Whatever you drive, we can help</h2>
+          <a class="btn btn--primary btn--block" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--whatsapp btn--block" href="https://wa.me/447988974609?text=Hi%20Faster%20Breakdown%20Recovery%2C%20I%20need%20help%20with%20my%20vehicle." data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
+          <ul>
+            <li><a href="car-recovery-birmingham.html">Car Recovery Birmingham</a></li>
+            <li><a href="van-recovery-birmingham.html">Van Recovery Birmingham</a></li>
+            <li><a href="breakdown-recovery-birmingham.html">Breakdown Recovery Birmingham</a></li>
+            <li><a href="../routes/m42.html">Vehicle Recovery on the M42</a></li>
+          <li><a href="../contact.html#quote">Request a Quote Online</a></li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section section--alt">
+      <div class="container">
+        <div class="section-head section-head--center">
+          <span class="eyebrow">Questions</span>
+          <h2>Vehicle Recovery FAQs</h2>
+        </div>
+        <div class="faq-list">
+          <details class="faq-item">
+            <summary>What types of vehicle can you recover?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>We recover cars, 4x4s, vans and other light commercial vehicles. Tell us the make, model and roughly how the vehicle is loaded (or if it's not loaded at all) when you call, so the right recovery vehicle and equipment can be sent.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Can you recover a 4x4 or larger vehicle?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Yes. 4x4s and larger cars often need different handling than a standard hatchback because of their weight, ground clearance and sometimes four-wheel-drive systems, and we take that into account when planning the recovery.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Is there a weight limit?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>It depends on the vehicle being recovered. Tell us the vehicle type and approximate weight when you call, particularly for larger vans or heavily loaded vehicles, so we can confirm suitability before dispatch.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">Related</span>
+          <h2>Other Services You Might Need</h2>
+        </div>
+        <ul class="related-services">
+          <li><a href="car-recovery-birmingham.html">Car Recovery Birmingham</a></li>
+          <li><a href="van-recovery-birmingham.html">Van Recovery Birmingham</a></li>
+          <li><a href="breakdown-recovery-birmingham.html">Breakdown Recovery Birmingham</a></li>
+          <li><a href="accident-recovery-birmingham.html">Accident Recovery Birmingham</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="cta-band section">
+      <div class="container">
+        <h2>Need Any Vehicle Recovered in Birmingham?</h2>
+        <p>Call us and we'll get a recovery vehicle on its way to you.</p>
+        <div class="cta-band__actions">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--whatsapp btn--lg" href="https://wa.me/447988974609?text=Hi%20Faster%20Breakdown%20Recovery%2C%20I%20need%20help%20with%20my%20vehicle." data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
+        </div>
+      </div>
+    </section>

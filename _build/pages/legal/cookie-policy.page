@@ -1,0 +1,52 @@
+title: Cookie Policy | Faster Breakdown Recovery
+description: Cookie policy for Faster Breakdown Recovery: this website does not currently use tracking or analytics cookies.
+og_title: Cookie Policy | Faster Breakdown Recovery
+og_description: This website does not currently use tracking or analytics cookies.
+label: Cookie Policy
+===MAIN===
+    <section class="page-hero">
+      <div class="container">
+        <span class="eyebrow">Legal</span>
+        <h1>Cookie Policy</h1>
+        <p class="page-hero__lede">A plain explanation of how this website uses (and, currently, doesn't use) cookies.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="prose">
+          <!-- TODO: Have this policy reviewed by a qualified professional before launch. -->
+          <p class="text-muted">Last updated: September 2026</p>
+
+          <h2>What are cookies?</h2>
+          <p>Cookies are small text files that a website can store on your device to remember information between visits, such as your preferences or activity on the site. Similar technologies, like browser local storage, can be used for related purposes.</p>
+
+          <h2>Cookies on this website</h2>
+          <p>This website is a static set of pages built with plain HTML, CSS and JavaScript. It does not currently use analytics, advertising or tracking cookies of any kind, and it does not use cookies or local storage to identify visitors or build a profile of how you use the site. The only script on this site handles simple, on-page functionality — such as the mobile navigation menu and displaying our contact details — and does not set cookies or track you between visits.</p>
+
+          <div class="callout">
+            <p><strong>In short:</strong> no tracking or analytics cookies are used on this website at present.</p>
+          </div>
+
+          <h2>If this changes</h2>
+          <p>If we introduce analytics, advertising, or other tools that use cookies in future, we'll update this policy to explain what's used, why, and how you can control it — and, where required by law, we'll ask for your consent first.</p>
+
+          <h2>Browser controls</h2>
+          <p>Most web browsers let you view, manage and delete cookies through their settings. Since this website doesn't set any cookies of its own, there's nothing here that needs clearing, but you're welcome to check your browser's cookie settings at any time.</p>
+
+          <h2>Questions</h2>
+          <p>If you have any questions about this policy, contact us at <a href="#" data-contact="email-href"><span data-contact="email-display">info@fasterbreakdownrecovery.co.uk</span></a>.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="cta-band section">
+      <div class="container">
+        <h2>Need Recovery?</h2>
+        <p>Call now, or send us your details for a quote.</p>
+        <div class="cta-band__actions">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--lg" href="../contact.html#quote">Get a Quote</a>
+        </div>
+      </div>
+    </section>

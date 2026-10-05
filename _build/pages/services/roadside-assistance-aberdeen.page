@@ -1,0 +1,131 @@
+title: Roadside Assistance Aberdeen | On-the-Spot Help | Faster Breakdown Recovery
+description: Roadside assistance in Aberdeen for jump starts, tyre changes, lockouts and running out of fuel — fixes on the spot, without a tow, where possible.
+og_title: Roadside Assistance Aberdeen | On-the-Spot Help
+og_description: Roadside assistance in Aberdeen for jump starts, tyre changes, lockouts and running out of fuel.
+label: Roadside Assistance Aberdeen
+crumbs: Services|services/index.html
+nav: services
+===HEAD===
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Can you jump-start my car at the roadside?",
+        "acceptedAnswer": { "@type": "Answer", "text": "In most cases, yes, if the battery is simply flat rather than faulty. We'll attempt a jump start on the spot, and if that gets you going again there's no need for a tow." }
+      },
+      {
+        "@type": "Question",
+        "name": "What if you can't fix the problem on the spot?",
+        "acceptedAnswer": { "@type": "Answer", "text": "If the fault can't be resolved at the roadside — for example the battery won't hold charge, or the tyre can't be safely changed — we'll move straight into breakdown recovery and take the vehicle to a garage or your chosen destination." }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you carry fuel for cars that have run out?",
+        "acceptedAnswer": { "@type": "Answer", "text": "We can bring a small amount of the right fuel to get you to the nearest fuel station. Tell us the fuel type your vehicle takes when you call so we bring the correct one." }
+      }
+    ]
+  }
+  </script>
+===MAIN===
+    <section class="page-hero">
+      <div class="container">
+        <span class="eyebrow">Roadside assistance</span>
+        <h1>Roadside Assistance Aberdeen</h1>
+        <p class="page-hero__lede">Not every problem needs a tow. For faults that can potentially be sorted on the spot — a flat battery, a puncture, being locked out, or running out of fuel — we'll try to get you moving again where you are.</p>
+        <div class="hero__actions" style="margin-top:1.5rem;">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--lg" href="../contact.html#quote">Get a Quote</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container two-col">
+        <div class="prose">
+          <h2>Fixes that don't need a tow</h2>
+          <p>Roadside assistance is for the problems that can, in principle, be sorted where your vehicle is standing — no loading, no trailer, no trip to a garage required. It sits apart from <a href="breakdown-recovery-aberdeen.html">breakdown recovery</a>, which is what happens once we know the vehicle genuinely can't be made driveable on the spot. Plenty of call-outs turn out to be one of these quicker fixes, so it's always worth describing the problem and letting us judge which service fits.</p>
+
+          <h2>What roadside assistance typically covers</h2>
+          <ul class="checklist">
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Jump starts for a flat battery.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Tyre changes, where a roadworthy spare and the right tools are available.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Lockout assistance if you're locked out of your own vehicle.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Running out of fuel, with the right fuel type brought to you.</li>
+          </ul>
+
+          <h2>How it works</h2>
+          <p>Call and describe exactly what's happening — what the vehicle is doing, or not doing, and anything you've already tried. We'll talk you through what to expect and send someone out equipped to deal with it at the roadside. If, once we're there, it turns out the fault is more serious than first thought, we won't leave you stuck: we'll move straight into recovery instead.</p>
+
+          <div class="callout">
+            <p><strong>Safety first.</strong> If you're stopped on a fast or busy road, don't attempt any roadside fix yourself, and don't stand between your vehicle and moving traffic. Get well clear, keep hazard lights on, and call us before doing anything else.</p>
+          </div>
+
+          <h2>Roadside assistance vs breakdown recovery</h2>
+          <p>The dividing line is simple: if the vehicle can be made safely driveable where it's stopped, that's roadside assistance. If it can't — a fault that needs a workshop, or damage that means it shouldn't be driven — that's a job for <a href="breakdown-recovery-aberdeen.html">breakdown recovery</a>. You don't need to work out which one applies before calling; just explain what's wrong and we'll take it from there.</p>
+        </div>
+
+        <aside class="side-panel">
+          <h2>Stuck at the roadside?</h2>
+          <a class="btn btn--primary btn--block" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--block" href="../contact.html#quote">Request a Quote</a>
+          <ul>
+            <li><a href="breakdown-recovery-aberdeen.html">Breakdown Recovery Aberdeen</a></li>
+            <li><a href="24-hour-breakdown-recovery-aberdeen.html">24 Hour Breakdown Recovery</a></li>
+            <li><a href="car-recovery-aberdeen.html">Car Recovery Aberdeen</a></li>
+            <li><a href="../routes/a96.html">Roadside Help on the A96</a></li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section section--alt">
+      <div class="container">
+        <div class="section-head section-head--center">
+          <span class="eyebrow">Questions</span>
+          <h2>Roadside Assistance FAQs</h2>
+        </div>
+        <div class="faq-list">
+          <details class="faq-item">
+            <summary>Can you jump-start my car at the roadside?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>In most cases, yes, if the battery is simply flat rather than faulty. We'll attempt a jump start on the spot, and if that gets you going again there's no need for a tow.</p>
+          </details>
+          <details class="faq-item">
+            <summary>What if you can't fix the problem on the spot?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>If the fault can't be resolved at the roadside — for example the battery won't hold charge, or the tyre can't be safely changed — we'll move straight into breakdown recovery and take the vehicle to a garage or your chosen destination.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Do you carry fuel for cars that have run out?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>We can bring a small amount of the right fuel to get you to the nearest fuel station. Tell us the fuel type your vehicle takes when you call so we bring the correct one.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">Related</span>
+          <h2>Other Services You Might Need</h2>
+        </div>
+        <ul class="related-services">
+          <li><a href="breakdown-recovery-aberdeen.html">Breakdown Recovery Aberdeen</a></li>
+          <li><a href="24-hour-breakdown-recovery-aberdeen.html">24 Hour Breakdown Recovery</a></li>
+          <li><a href="car-recovery-aberdeen.html">Car Recovery Aberdeen</a></li>
+          <li><a href="vehicle-recovery-aberdeen.html">Vehicle Recovery Aberdeen</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="cta-band section">
+      <div class="container">
+        <h2>Need Roadside Help in Aberdeen?</h2>
+        <p>Call us and we'll try to get you moving again without a tow.</p>
+        <div class="cta-band__actions">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--lg" href="../contact.html#quote">Get a Quote</a>
+        </div>
+      </div>
+    </section>

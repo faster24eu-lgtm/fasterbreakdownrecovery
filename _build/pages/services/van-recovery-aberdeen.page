@@ -1,0 +1,131 @@
+title: Van Recovery Aberdeen | For Tradespeople &amp; Business | Faster Breakdown Recovery
+description: Van recovery in Aberdeen for tradespeople and small businesses. Recovery to your garage or depot of choice, with care taken over tools and stock on board.
+og_title: Van Recovery Aberdeen | For Tradespeople &amp; Business
+og_description: Van recovery in Aberdeen for tradespeople and small businesses, minimising disruption to your working day.
+label: Van Recovery Aberdeen
+crumbs: Services|services/index.html
+nav: services
+===HEAD===
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Can you recover a van with tools or stock inside?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes, the van is recovered as it is. We'd recommend removing anything particularly valuable or easily lost beforehand if you're able to, simply because we can't be responsible for loose contents during transport." }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you recover larger panel vans as well as small ones?",
+        "acceptedAnswer": { "@type": "Answer", "text": "We handle a range of van sizes. Tell us the make, model and roughly how large or heavily loaded the van is when you call, so we can confirm suitability and send the right equipment." }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you take my van straight to my usual garage?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes. Just give us the address when you call and we'll take the van there directly, rather than to a default location, so you can keep working with the garage you already trust." }
+      }
+    ]
+  }
+  </script>
+===MAIN===
+    <section class="page-hero">
+      <div class="container">
+        <span class="eyebrow">Van recovery</span>
+        <h1>Van Recovery Aberdeen</h1>
+        <p class="page-hero__lede">A van off the road is lost working time. We recover vans and light commercial vehicles across Aberdeen and Aberdeenshire, taking them straight to a garage or depot of your choosing.</p>
+        <div class="hero__actions" style="margin-top:1.5rem;">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--lg" href="../contact.html#quote">Get a Quote</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container two-col">
+        <div class="prose">
+          <h2>Built for tradespeople and small businesses</h2>
+          <p>When a car breaks down it's an inconvenience. When a van breaks down, it's often a day's earnings or a missed job. We understand that a van being off the road affects your work, not just your commute, so the aim is always to get the vehicle collected and moved on with as little disruption as possible.</p>
+          <p>This covers panel vans, small tradesperson's vans and other light commercial vehicles used for work. If you're driving a standard car rather than a van, our general <a href="car-recovery-aberdeen.html">car recovery</a> page is likely a better fit, and if you'd like the wider picture across every vehicle type we handle, see <a href="vehicle-recovery-aberdeen.html">vehicle recovery</a>.</p>
+
+          <h2>Recovery to the destination that suits you</h2>
+          <p>Rather than defaulting to a single depot, we'll take your van wherever you need it — your regular garage, a dealership, your own premises, or storage. Tell us the address when you call and that's where the van goes, so you can keep working with people you already trust rather than starting again with someone unfamiliar.</p>
+
+          <ul class="checklist">
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Recovery of vans and light commercial vehicles.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Taken to a garage, depot or address of your choice.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Handled with tools, equipment or stock left inside.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> A single point of contact throughout the recovery.</li>
+          </ul>
+
+          <div class="callout">
+            <p><strong>A word on contents.</strong> If your van is carrying tools, stock or equipment, we'll recover it as it stands, but we'd recommend removing anything particularly valuable or easily lost before we arrive if you're able to. We can't be responsible for loose items during transport, so it's worth a quick check if you have the time.</p>
+          </div>
+
+          <h2>When you need us</h2>
+          <p>Whether it's a mechanical fault, a flat battery that won't take a jump, or a van that simply won't start on a job site, get in touch and describe the situation. We'll talk through where the van is, where it needs to go, and get a recovery vehicle moving.</p>
+        </div>
+
+        <aside class="side-panel">
+          <h2>Van off the road?</h2>
+          <a class="btn btn--primary btn--block" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--block" href="../contact.html#quote">Request a Quote</a>
+          <ul>
+            <li><a href="vehicle-recovery-aberdeen.html">Vehicle Recovery Aberdeen</a></li>
+            <li><a href="breakdown-recovery-aberdeen.html">Breakdown Recovery Aberdeen</a></li>
+            <li><a href="roadside-assistance-aberdeen.html">Roadside Assistance</a></li>
+            <li><a href="../routes/awpr.html">Van Recovery on the AWPR</a></li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section section--alt">
+      <div class="container">
+        <div class="section-head section-head--center">
+          <span class="eyebrow">Questions</span>
+          <h2>Van Recovery FAQs</h2>
+        </div>
+        <div class="faq-list">
+          <details class="faq-item">
+            <summary>Can you recover a van with tools or stock inside?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Yes, the van is recovered as it is. We'd recommend removing anything particularly valuable or easily lost beforehand if you're able to, simply because we can't be responsible for loose contents during transport.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Do you recover larger panel vans as well as small ones?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>We handle a range of van sizes. Tell us the make, model and roughly how large or heavily loaded the van is when you call, so we can confirm suitability and send the right equipment.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Can you take my van straight to my usual garage?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Yes. Just give us the address when you call and we'll take the van there directly, rather than to a default location, so you can keep working with the garage you already trust.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">Related</span>
+          <h2>Other Services You Might Need</h2>
+        </div>
+        <ul class="related-services">
+          <li><a href="vehicle-recovery-aberdeen.html">Vehicle Recovery Aberdeen</a></li>
+          <li><a href="breakdown-recovery-aberdeen.html">Breakdown Recovery Aberdeen</a></li>
+          <li><a href="roadside-assistance-aberdeen.html">Roadside Assistance Aberdeen</a></li>
+          <li><a href="24-hour-breakdown-recovery-aberdeen.html">24 Hour Breakdown Recovery</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="cta-band section">
+      <div class="container">
+        <h2>Van Off the Road in Aberdeen?</h2>
+        <p>Call us and we'll get your van collected and moved on with minimum disruption.</p>
+        <div class="cta-band__actions">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--lg" href="../contact.html#quote">Get a Quote</a>
+        </div>
+      </div>
+    </section>

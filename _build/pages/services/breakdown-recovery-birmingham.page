@@ -1,0 +1,436 @@
+title: Breakdown Recovery Birmingham | 24/7 Vehicle Recovery | Faster Breakdown Recovery
+description: Broken down in Birmingham or the West Midlands? Fast, professional breakdown recovery for cars, 4x4s and vans, available 24/7. Call or WhatsApp now, or request a quote online.
+og_title: Breakdown Recovery Birmingham | 24/7 Vehicle Recovery
+og_description: Broken down in Birmingham or the West Midlands? Fast, professional breakdown recovery for cars, 4x4s and vans, available 24/7. Call or WhatsApp now, or request a quote online.
+label: Breakdown Recovery Birmingham
+crumbs: Services|services/index.html
+nav: services
+===HEAD===
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "serviceType": "Breakdown Recovery",
+    "name": "Breakdown Recovery Birmingham",
+    "description": "Breakdown recovery and vehicle transport for cars, 4x4s and vans across Birmingham and the West Midlands.",
+    "url": "https://fasterbreakdownrecovery.co.uk/services/breakdown-recovery-birmingham.html",
+    "provider": {
+      "@type": "TowingService",
+      "name": "Faster Breakdown Recovery",
+      "telephone": "+442080580013",
+      "url": "https://fasterbreakdownrecovery.co.uk/"
+    },
+    "areaServed": [
+      { "@type": "City", "name": "Birmingham" },
+      { "@type": "Place", "name": "Solihull" },
+      { "@type": "Place", "name": "Edgbaston" },
+      { "@type": "Place", "name": "Erdington" },
+      { "@type": "Place", "name": "West Bromwich" },
+      { "@type": "Place", "name": "Dudley" },
+      { "@type": "Place", "name": "Sutton Coldfield" },
+      { "@type": "Place", "name": "Walsall" },
+      { "@type": "AdministrativeArea", "name": "West Midlands" }
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Can you recover a car that has broken down in Birmingham?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes. We cover Birmingham city and the surrounding West Midlands area — call us with your location and vehicle details and we'll dispatch a recovery vehicle to you." }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you recover a vehicle from the M6?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes, we recover vehicles from the M6 and other main routes around Birmingham, including the M5 and the M42. If you break down on a fast road, prioritise getting yourself and any passengers somewhere safe before calling — see our M6 recovery page for road-specific guidance." }
+      },
+      {
+        "@type": "Question",
+        "name": "What information do you need when I call?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Your exact location (a postcode, junction number or nearby landmark all help), what's happened to the vehicle, the make and model, and where you'd like it taken. The more detail you can give, the faster we can plan the right recovery." }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you recover a vehicle that cannot be driven?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes — that's the core of what breakdown recovery is for. If your vehicle can't be safely driven, we load or tow it to your chosen destination rather than attempting to drive it." }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you recover vans and light commercial vehicles?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes, alongside cars we recover vans and light commercial vehicles. See our van recovery page for more detail on that service specifically." }
+      },
+      {
+        "@type": "Question",
+        "name": "How much does breakdown recovery cost?",
+        "acceptedAnswer": { "@type": "Answer", "text": "It depends on your vehicle, location, distance and what the recovery involves, so we don't quote a fixed price upfront. Call or WhatsApp us with the details and we'll talk you through the cost before any work begins." }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you recover a vehicle to another garage or location?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes. Tell us where you'd like the vehicle taken — home, your usual garage, a dealership or elsewhere — and we'll take it there as part of the recovery." }
+      },
+      {
+        "@type": "Question",
+        "name": "What should I do while I wait for recovery?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Put your hazard lights on, get yourself and any passengers somewhere safe and away from moving traffic, and keep your phone charged if possible so we can reach you. Stay somewhere visible but out of the path of traffic." }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you help at night or at weekends?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes, we operate 24 hours a day, every day of the year, including nights, weekends and public holidays." }
+      },
+      {
+        "@type": "Question",
+        "name": "What's the difference between roadside assistance and vehicle recovery?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Roadside assistance covers problems that can potentially be fixed on the spot, like a flat battery or a wheel change. Vehicle recovery is for when the car can't safely continue and needs to be loaded or towed elsewhere." }
+      }
+    ]
+  }
+  </script>
+===MAIN===
+    <!-- Hero -->
+    <section class="hero">
+      <div class="container hero-inner">
+        <div>
+          <span class="hero__badge"><span class="dot" aria-hidden="true"></span> Available 24 hours a day, 7 days a week</span>
+          <h1>Breakdown Recovery Birmingham</h1>
+          <p class="hero__lede">When your car, van or 4x4 breaks down and can't be driven safely, we recover it — from wherever you are in Birmingham or the West Midlands to wherever you need it to go.</p>
+          <div class="hero__actions">
+            <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+              Call Now
+            </a>
+            <a class="btn btn--whatsapp btn--lg" href="https://wa.me/447988974609?text=Hi%20Faster%20Breakdown%20Recovery%2C%20I've%20broken%20down%20in%20Birmingham%20and%20need%20help." data-contact="whatsapp-href" target="_blank" rel="noopener">
+              <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.6 6.32A7.85 7.85 0 0 0 12.05 4a7.94 7.94 0 0 0-6.9 11.9L4 20l4.2-1.1a7.9 7.9 0 0 0 3.85 1h.003a7.94 7.94 0 0 0 6.9-11.9 7.86 7.86 0 0 0-1.35-1.68zm-5.55 12.2h-.003a6.6 6.6 0 0 1-3.36-.92l-.24-.14-2.5.66.67-2.44-.16-.25a6.6 6.6 0 0 1 10.2-8.2 6.55 6.55 0 0 1 1.94 4.66 6.6 6.6 0 0 1-6.55 6.63zm3.6-4.94c-.2-.1-1.17-.58-1.35-.64-.18-.07-.31-.1-.44.1-.13.19-.5.64-.62.77-.11.13-.23.14-.42.05a5.4 5.4 0 0 1-1.6-.98 6 6 0 0 1-1.1-1.37c-.12-.2 0-.3.09-.4.09-.1.2-.23.3-.35.1-.12.13-.2.2-.33.06-.13.03-.25-.02-.35-.05-.1-.44-1.06-.6-1.45-.16-.38-.32-.33-.44-.33-.11 0-.24-.01-.37-.01a.72.72 0 0 0-.52.24c-.18.19-.68.67-.68 1.63s.7 1.9.79 2.03c.1.13 1.36 2.08 3.3 2.91.46.2.82.32 1.1.41.46.15.88.13 1.21.08.37-.06 1.17-.48 1.33-.94.16-.46.16-.86.12-.94-.05-.09-.18-.14-.38-.24z"/></svg>
+              WhatsApp Us
+            </a>
+          </div>
+          <p class="text-muted" style="font-size:0.85rem;">Not urgent? <a href="../contact.html#quote">Request a quote online</a> instead.</p>
+        </div>
+        <div class="photo-frame">
+          <img
+            src="../assets/images/gallery/flatbed-recovery-truck-transporting-mini-towing-van-1600w.jpg"
+            srcset="../assets/images/gallery/flatbed-recovery-truck-transporting-mini-towing-van-800w.jpg 800w, ../assets/images/gallery/flatbed-recovery-truck-transporting-mini-towing-van-1600w.jpg 1600w"
+            sizes="(min-width: 860px) 50vw, 100vw"
+            width="1600" height="1200"
+            alt="Yellow flatbed recovery truck transporting a blue Mini and towing a white van"
+            fetchpriority="high">
+        </div>
+      </div>
+    </section>
+
+    <!-- Trust strip -->
+    <section class="trust-strip">
+      <div class="container trust-strip__grid">
+        <div class="trust-item">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+          <div><strong>24/7 Availability</strong><span>Call any time, day or night</span></div>
+        </div>
+        <div class="trust-item">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"/><circle cx="12" cy="10" r="3"/></svg>
+          <div><strong>Birmingham &amp; West Midlands</strong><span>Current coverage area</span></div>
+        </div>
+        <div class="trust-item">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="1" y="6" width="15" height="12" rx="2"/><path d="M16 10h4l3 3v3h-7z"/><circle cx="6" cy="20" r="2"/><circle cx="18" cy="20" r="2"/></svg>
+          <div><strong>Vehicle Recovery</strong><span>Cars, 4x4s &amp; light vans</span></div>
+        </div>
+        <div class="trust-item">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
+          <div><strong>Clear Communication</strong><span>Honest updates throughout</span></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Introduction + When you need recovery -->
+    <section class="section">
+      <div class="container two-col">
+        <div class="prose">
+          <h2>Breakdown recovery, explained simply</h2>
+          <p>Breaking down is stressful enough without having to work out who to call or what to say. Breakdown recovery means collecting your vehicle from wherever it's stopped — a driveway, a car park, a side street or the roadside — and taking it to a destination of your choice, whether that's home, a garage or a dealership. You don't need to diagnose the problem yourself; just tell us what's happening and where you are, and we'll take it from there.</p>
+          <p>We cover Birmingham city and the surrounding West Midlands area. If you've broken down anywhere from the city centre to Solihull, Edgbaston, Erdington, West Bromwich or further out, get in touch and we'll talk through what's needed.</p>
+
+          <h2>When you might need breakdown recovery</h2>
+          <p>Breakdowns rarely happen at a convenient moment, and they come in a lot of different forms. Recovery is the right call when:</p>
+          <ul class="checklist">
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Your vehicle won't start at all.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> There's been a mechanical failure — a belt, gearbox or engine fault, for example.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> The battery is flat and the vehicle won't hold a jump start.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> You have a puncture and no usable spare, or it isn't safe to change a wheel where you've stopped.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> The engine is overheating and continuing to drive would risk further damage.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> You've run out of fuel, or suspect the wrong fuel's gone in.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> There's an electrical fault — lights, dashboard or systems behaving oddly or cutting out.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> A warning light has appeared alongside a loss of power or an unusual noise.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> The vehicle has become immobilised after a fault and simply won't move.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> The vehicle needs transporting rather than driven, even if it could technically still move.</li>
+          </ul>
+          <p class="text-muted" style="font-size:0.9rem;">We recover the vehicle — we don't carry out mechanical repairs. Where a fault turns out to be something quick, like a flat battery, our <a href="roadside-assistance-birmingham.html">roadside assistance</a> service may be able to get you moving again without a full recovery.</p>
+        </div>
+
+        <aside class="side-panel">
+          <h2>Broken down right now?</h2>
+          <a class="btn btn--primary btn--block" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--whatsapp btn--block" href="https://wa.me/447988974609?text=Hi%20Faster%20Breakdown%20Recovery%2C%20I've%20broken%20down%20in%20Birmingham%20and%20need%20help." data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
+          <ul>
+            <li><a href="24-hour-breakdown-recovery-birmingham.html">24 Hour Breakdown Recovery</a></li>
+            <li><a href="roadside-assistance-birmingham.html">Roadside Assistance</a></li>
+            <li><a href="accident-recovery-birmingham.html">Been in an accident instead?</a></li>
+            <li><a href="../routes/m6.html">Broken down on the M6?</a></li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <!-- Roadside assistance vs vehicle recovery -->
+    <section class="section section--alt">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">Not sure which you need?</span>
+          <h2>Roadside Assistance or Vehicle Recovery?</h2>
+          <p>The two services solve different problems, and it's not always obvious which applies until someone's had a look. Here's the general rule.</p>
+        </div>
+        <div class="card-grid">
+          <article class="service-card">
+            <h3>Roadside assistance</h3>
+            <p>If your vehicle can potentially be made roadworthy again at the roadside — a flat battery that will take a jump start, a wheel change, or being let back into a locked vehicle — roadside assistance may get you moving again without a tow.</p>
+            <a class="service-card__link" href="roadside-assistance-birmingham.html">More on roadside assistance →</a>
+          </article>
+          <article class="service-card">
+            <h3>Vehicle recovery</h3>
+            <p>If the vehicle can't safely continue — a mechanical fault, no spare wheel, or damage that makes driving unsafe — it needs to be loaded or towed to a garage or another destination instead. That's breakdown recovery.</p>
+            <a class="service-card__link" href="vehicle-recovery-birmingham.html">More on vehicle recovery →</a>
+          </article>
+        </div>
+        <p class="text-muted" style="margin-top:1.5rem;">Not sure which applies to you? Just call or WhatsApp us and describe what's happened — we'll advise.</p>
+      </div>
+    </section>
+
+    <!-- How it works -->
+    <section class="section">
+      <div class="container">
+        <div class="section-head section-head--center">
+          <span class="eyebrow">Simple process</span>
+          <h2>How It Works</h2>
+          <p>The same straightforward process whether you're in the city centre or out in the West Midlands.</p>
+        </div>
+        <div class="steps">
+          <div class="step">
+            <span class="step__number">01</span>
+            <h3>Call or WhatsApp</h3>
+            <p>Get in touch and describe what's happened to your vehicle.</p>
+          </div>
+          <div class="step">
+            <span class="step__number">02</span>
+            <h3>Tell us your location and what happened</h3>
+            <p>Your exact location, vehicle details, and whether it's safe to stay with the vehicle.</p>
+          </div>
+          <div class="step">
+            <span class="step__number">03</span>
+            <h3>Recovery vehicle is dispatched</h3>
+            <p>We work out what's needed and send a recovery vehicle to you.</p>
+          </div>
+          <div class="step">
+            <span class="step__number">04</span>
+            <h3>Vehicle is recovered or transported</h3>
+            <p>Loaded or towed safely and taken to your chosen destination.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Breakdown recovery in Birmingham (local) -->
+    <section class="section section--alt" id="birmingham">
+      <div class="container coverage-layout">
+        <div>
+          <span class="eyebrow">Local coverage</span>
+          <h2>Breakdown Recovery in Birmingham &amp; West Midlands</h2>
+          <p>Faster Breakdown Recovery is a mobile operation — recovery vehicles are dispatched directly to you rather than working from a fixed depot, so there's no public office or premises to visit. Wherever you've broken down in Birmingham or the surrounding area, the process is the same: call or WhatsApp us and we'll come to you.</p>
+          <p>Current coverage extends across Birmingham city and out into the West Midlands, including the main routes used to travel into and out of the city — the M6, the M5 and the A38(M) Aston Expressway. Each area below has its own page with genuinely useful local detail.</p>
+        </div>
+        <div>
+          <ul class="tag-list">
+            <li><a href="../areas/birmingham.html">Birmingham</a></li>
+            <li><a href="../areas/solihull.html">Solihull</a></li>
+            <li><a href="../areas/edgbaston.html">Edgbaston</a></li>
+            <li><a href="../areas/erdington.html">Erdington</a></li>
+            <li><a href="../areas/west-bromwich.html">West Bromwich</a></li>
+            <li><a href="../areas/dudley.html">Dudley</a></li>
+            <li><a href="../areas/sutton-coldfield.html">Sutton Coldfield</a></li>
+            <li><a href="../areas/walsall.html">Walsall</a></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- Roads / motorway safety -->
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">If you've broken down on a fast road</span>
+          <h2>M6, M5 &amp; M42 Breakdowns</h2>
+          <p>A good number of the breakdowns we're called to happen on Birmingham's busier routes — the M6 running through the heart of the conurbation via Spaghetti Junction, the M5 towards West Bromwich and Dudley, and the M42 arcing round towards Solihull and the airport. These roads carry fast-moving traffic, so safety comes before anything else.</p>
+        </div>
+        <ul class="safety-steps">
+          <li class="safety-step">
+            <span class="safety-step__num" aria-hidden="true">1</span>
+            <p>Put your hazard lights on as soon as you realise there's a problem, so other drivers can see you.</p>
+          </li>
+          <li class="safety-step">
+            <span class="safety-step__num" aria-hidden="true">2</span>
+            <p>If you can, move the vehicle onto the hard shoulder, a layby or well onto the verge, clear of moving traffic.</p>
+          </li>
+          <li class="safety-step">
+            <span class="safety-step__num" aria-hidden="true">3</span>
+            <p>Get yourself and any passengers out of the vehicle and behind a barrier if it's safe to do so — don't stand between your car and passing traffic.</p>
+          </li>
+          <li class="safety-step">
+            <span class="safety-step__num" aria-hidden="true">4</span>
+            <p>Call us with the most accurate location you can give — a junction number, mile marker or nearby landmark all help.</p>
+          </li>
+        </ul>
+        <p class="text-muted" style="margin-top:1.5rem;">For road-specific detail, see our dedicated pages for the <a href="../routes/m6.html">M6</a>, <a href="../routes/m5.html">M5</a> and <a href="../routes/m42.html">M42</a>.</p>
+      </div>
+    </section>
+
+    <!-- What to do after a breakdown -->
+    <section class="section section--alt">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">Before you call</span>
+          <h2>What To Do After a Breakdown</h2>
+          <p>Wherever you've broken down — city street, car park or open road — the same basics apply. This is worth knowing even before you need it.</p>
+        </div>
+        <ul class="checklist">
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Put your hazard lights on straight away so other drivers and pedestrians can see there's a problem.</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Move to a safe location if you can — off the road, onto a verge or into a car park, rather than staying in a live lane.</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> On a motorway or fast dual carriageway, get yourself and any passengers behind a barrier if it's safe to do so — see our M6 guidance below for more detail.</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Stay well away from live traffic at all times, even when retrieving belongings from the vehicle.</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> When you call, give us the most accurate location you can — a postcode, junction number or nearby landmark.</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Let us know if you have passengers with you, so we know who and what we're arranging for.</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Tell us the vehicle's make and model and what condition it's in — whether it can move under its own power at all, for example.</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Vehicles -->
+    <section class="section">
+      <div class="container two-col">
+        <div class="prose">
+          <h2>Vehicles we recover</h2>
+          <p>We recover cars of all makes and models, along with 4x4s, vans and other light commercial vehicles. Tell us what you're driving when you call so we can plan the recovery method that suits it — some vehicles, such as low-clearance cars or electric vehicles, need particular care when loading.</p>
+          <p>If you're specifically after van recovery or a wider look at what we cover across vehicle types, see our <a href="van-recovery-birmingham.html">van recovery</a> and <a href="vehicle-recovery-birmingham.html">vehicle recovery</a> pages.</p>
+        </div>
+        <div class="photo-frame" style="aspect-ratio:4/3;">
+          <img
+            src="../assets/images/gallery/recovery-truck-workshop-interior-700w.jpg"
+            srcset="../assets/images/gallery/recovery-truck-workshop-interior-350w.jpg 350w, ../assets/images/gallery/recovery-truck-workshop-interior-700w.jpg 700w"
+            sizes="(min-width: 960px) 340px, 100vw"
+            width="700" height="1095"
+            alt="Yellow vehicle recovery truck inside a workshop"
+            loading="lazy" decoding="async"
+            style="object-position:center 40%;">
+        </div>
+      </div>
+    </section>
+
+    <!-- Pricing -->
+    <section class="section section--alt">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">Cost</span>
+          <h2>How Pricing Works</h2>
+          <p>We don't publish a fixed price list, because breakdown recovery isn't a fixed-cost job — what you pay depends on things like your vehicle, your location, the distance involved, what the recovery actually requires, where the vehicle is being taken, and sometimes the time or circumstances of the callout. Call or WhatsApp us with the details and we'll talk through the likely cost with you before any work begins, so there are no surprises.</p>
+          <div class="cta-band__actions" style="justify-content:flex-start;">
+            <a class="btn btn--primary" href="tel:+442080580013" data-contact="phone-href">Call for a Quote</a>
+            <a class="btn btn--outline" href="../contact.html#quote">Request a Quote Online</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAQ -->
+    <section class="section">
+      <div class="container">
+        <div class="section-head section-head--center">
+          <span class="eyebrow">Questions</span>
+          <h2>Breakdown Recovery Birmingham — FAQs</h2>
+        </div>
+        <div class="faq-list">
+          <details class="faq-item">
+            <summary>Can you recover a car that has broken down in Birmingham?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Yes. We cover Birmingham city and the surrounding West Midlands area — call us with your location and vehicle details and we'll dispatch a recovery vehicle to you.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Can you recover a vehicle from the M6?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Yes, we recover vehicles from the M6 and other main routes around Birmingham, including the M5 and the M42. If you break down on a fast road, prioritise getting yourself and any passengers somewhere safe before calling — see our <a href="../routes/m6.html">M6 recovery</a> page for road-specific guidance.</p>
+          </details>
+          <details class="faq-item">
+            <summary>What information do you need when I call?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Your exact location (a postcode, junction number or nearby landmark all help), what's happened to the vehicle, the make and model, and where you'd like it taken. The more detail you can give, the faster we can plan the right recovery.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Can you recover a vehicle that cannot be driven?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Yes — that's the core of what breakdown recovery is for. If your vehicle can't be safely driven, we load or tow it to your chosen destination rather than attempting to drive it.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Can you recover vans and light commercial vehicles?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Yes, alongside cars we recover vans and light commercial vehicles. See our <a href="van-recovery-birmingham.html">van recovery</a> page for more detail on that service specifically.</p>
+          </details>
+          <details class="faq-item">
+            <summary>How much does breakdown recovery cost?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>It depends on your vehicle, location, distance and what the recovery involves, so we don't quote a fixed price upfront. Call or WhatsApp us with the details and we'll talk you through the cost before any work begins.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Can you recover a vehicle to another garage or location?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Yes. Tell us where you'd like the vehicle taken — home, your usual garage, a dealership or elsewhere — and we'll take it there as part of the recovery.</p>
+          </details>
+          <details class="faq-item">
+            <summary>What should I do while I wait for recovery?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Put your hazard lights on, get yourself and any passengers somewhere safe and away from moving traffic, and keep your phone charged if possible so we can reach you. Stay somewhere visible but out of the path of traffic.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Can you help at night or at weekends?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Yes, we operate 24 hours a day, every day of the year, including nights, weekends and public holidays. See our <a href="24-hour-breakdown-recovery-birmingham.html">24 hour breakdown recovery</a> page for more detail.</p>
+          </details>
+          <details class="faq-item">
+            <summary>What's the difference between roadside assistance and vehicle recovery?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Roadside assistance covers problems that can potentially be fixed on the spot, like a flat battery or a wheel change. Vehicle recovery is for when the car can't safely continue and needs to be loaded or towed elsewhere. See our <a href="roadside-assistance-birmingham.html">roadside assistance</a> page for more on that distinction.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <!-- Related services -->
+    <section class="section section--alt">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">Related</span>
+          <h2>Other Services You Might Need</h2>
+        </div>
+        <ul class="related-services">
+          <li><a href="car-recovery-birmingham.html">Car Recovery Birmingham</a></li>
+          <li><a href="vehicle-recovery-birmingham.html">Vehicle Recovery Birmingham</a></li>
+          <li><a href="24-hour-breakdown-recovery-birmingham.html">24 Hour Breakdown Recovery</a></li>
+          <li><a href="roadside-assistance-birmingham.html">Roadside Assistance Birmingham</a></li>
+          <li><a href="van-recovery-birmingham.html">Van Recovery Birmingham</a></li>
+          <li><a href="accident-recovery-birmingham.html">Accident Recovery Birmingham</a></li>
+          <li><a href="car-transport-birmingham.html">Car Transport Birmingham</a></li>
+          <li><a href="scrap-car-collection-birmingham.html">Scrap Car Collection Birmingham</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- Final CTA -->
+    <section class="cta-band section">
+      <div class="container">
+        <h2>Broken Down in Birmingham?</h2>
+        <p>Call now for fast, professional breakdown recovery — or message us on WhatsApp and we'll come back to you with a quote.</p>
+        <div class="cta-band__actions">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call: +44 20 8058 0013</a>
+          <a class="btn btn--whatsapp btn--lg" href="https://wa.me/447988974609?text=Hi%20Faster%20Breakdown%20Recovery%2C%20I've%20broken%20down%20in%20Birmingham%20and%20need%20help." data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp: +44 7988 974609</a>
+        </div>
+      </div>
+    </section>

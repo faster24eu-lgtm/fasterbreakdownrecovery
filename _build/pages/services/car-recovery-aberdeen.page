@@ -1,0 +1,133 @@
+title: Car Recovery Aberdeen | Any Reason, Any Time | Faster Breakdown Recovery
+description: Car recovery in Aberdeen for any reason — breakdowns, flat batteries, lockouts, minor accident damage and non-runners. Call now or request a quote online.
+og_title: Car Recovery Aberdeen | Any Reason, Any Time
+og_description: Car recovery in Aberdeen for any reason — breakdowns, flat batteries, lockouts, minor accident damage and non-runners.
+label: Car Recovery Aberdeen
+crumbs: Services|services/index.html
+nav: services
+===HEAD===
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Do you recover cars that have been in a minor bump?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes, provided the car is safe to move using standard loading equipment. For anything more serious, or where the road is blocked or someone is injured, see our accident recovery service, which is set up specifically for collision situations." }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you recover a car with a flat tyre and no spare?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Yes. If there's no usable spare and the tyre can't be repaired at the roadside, we'll recover the car on a flatbed or with wheel-lift equipment so it isn't driven or dragged on a damaged tyre." }
+      },
+      {
+        "@type": "Question",
+        "name": "Do I need to be present when the car is collected?",
+        "acceptedAnswer": { "@type": "Answer", "text": "In most cases, yes, or you'll need to arrange for someone else to hand over the keys and confirm the destination. Let us know when you call if you won't be at the vehicle yourself, and we'll talk through the options." }
+      }
+    ]
+  }
+  </script>
+===MAIN===
+    <section class="page-hero">
+      <div class="container">
+        <span class="eyebrow">Car recovery</span>
+        <h1>Car Recovery Aberdeen</h1>
+        <p class="page-hero__lede">Car recovery for pretty much any reason your car can't get you home — not just breakdowns. Wherever you are in Aberdeen, we'll come to you and take the car wherever it needs to go.</p>
+        <div class="hero__actions" style="margin-top:1.5rem;">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--lg" href="../contact.html#quote">Get a Quote</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container two-col">
+        <div class="prose">
+          <h2>What we mean by car recovery</h2>
+          <p>Car recovery is a broader term than breakdown recovery. Our <a href="breakdown-recovery-aberdeen.html">breakdown recovery</a> page deals specifically with mechanical and electrical faults — the classic "it won't start" situation. Car recovery covers that and more: any scenario where your car needs to be collected and moved because it can't, or shouldn't, be driven. That includes mechanical faults, but also flat tyres with no usable spare, keys locked inside, cars that have picked up minor damage, and non-runners bought second-hand or at auction.</p>
+          <p>If your situation involves an actual road traffic collision rather than a mechanical problem, our dedicated <a href="accident-recovery-aberdeen.html">accident recovery</a> service is built around the extra care and safety steps that a crash scene needs.</p>
+
+          <h2>Typical situations we're called out for</h2>
+          <ul class="checklist">
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> A flat battery that jump-starting hasn't fixed.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Keys locked inside the car with no spare set nearby.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> A car that won't start at all, with no obvious cause.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> Minor accident damage that leaves the car safe to load but not safe to drive.</li>
+            <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg> A car bought at auction or privately that turns out not to run.</li>
+          </ul>
+
+          <h2>What to expect</h2>
+          <p>When you call, we'll ask what's wrong, where the car is, and where you'd like it taken — a home address, a garage, a dealership, or storage. A recovery vehicle is sent out, the car is loaded using the appropriate method for its condition, and it's transported to your chosen destination. If the cause turns out to be something simple, like a battery that can be jump-started, we'll say so rather than automatically loading the car for the sake of it.</p>
+
+          <div class="callout">
+            <p><strong>Safety first.</strong> If your car has stopped on a fast or busy road, don't wait inside it. Move yourself and any passengers well away from moving traffic, keep hazard lights on, and call us from a safe position.</p>
+          </div>
+
+          <h2>Not sure which service you need?</h2>
+          <p>If the problem is clearly mechanical — a fault that's developed while driving — our <a href="breakdown-recovery-aberdeen.html">breakdown recovery</a> page covers that specifically. If your car needs to be moved for a planned reason rather than an emergency, such as relocating a non-runner, take a look at <a href="car-transport-aberdeen.html">car transport</a> instead. If you're unsure, just call and describe the situation — we'll point you the right way.</p>
+        </div>
+
+        <aside class="side-panel">
+          <h2>Need your car collected?</h2>
+          <a class="btn btn--primary btn--block" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--block" href="../contact.html#quote">Request a Quote</a>
+          <ul>
+            <li><a href="breakdown-recovery-aberdeen.html">Breakdown Recovery Aberdeen</a></li>
+            <li><a href="accident-recovery-aberdeen.html">Accident Recovery Aberdeen</a></li>
+            <li><a href="roadside-assistance-aberdeen.html">Roadside Assistance</a></li>
+            <li><a href="../routes/a96.html">Car Recovery on the A96</a></li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section section--alt">
+      <div class="container">
+        <div class="section-head section-head--center">
+          <span class="eyebrow">Questions</span>
+          <h2>Car Recovery FAQs</h2>
+        </div>
+        <div class="faq-list">
+          <details class="faq-item">
+            <summary>Do you recover cars that have been in a minor bump?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Yes, provided the car is safe to move using standard loading equipment. For anything more serious, or where the road is blocked or someone is injured, see our <a href="accident-recovery-aberdeen.html">accident recovery</a> service, which is set up specifically for collision situations.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Can you recover a car with a flat tyre and no spare?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Yes. If there's no usable spare and the tyre can't be repaired at the roadside, we'll recover the car on a flatbed or with wheel-lift equipment so it isn't driven or dragged on a damaged tyre.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Do I need to be present when the car is collected?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>In most cases, yes, or you'll need to arrange for someone else to hand over the keys and confirm the destination. Let us know when you call if you won't be at the vehicle yourself, and we'll talk through the options.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">Related</span>
+          <h2>Other Services You Might Need</h2>
+        </div>
+        <ul class="related-services">
+          <li><a href="breakdown-recovery-aberdeen.html">Breakdown Recovery Aberdeen</a></li>
+          <li><a href="accident-recovery-aberdeen.html">Accident Recovery Aberdeen</a></li>
+          <li><a href="roadside-assistance-aberdeen.html">Roadside Assistance Aberdeen</a></li>
+          <li><a href="vehicle-recovery-aberdeen.html">Vehicle Recovery Aberdeen</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="cta-band section">
+      <div class="container">
+        <h2>Need Your Car Recovered in Aberdeen?</h2>
+        <p>Call us and we'll get a recovery vehicle on its way to you.</p>
+        <div class="cta-band__actions">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--lg" href="../contact.html#quote">Get a Quote</a>
+        </div>
+      </div>
+    </section>

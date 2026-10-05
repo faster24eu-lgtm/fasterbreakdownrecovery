@@ -1,0 +1,134 @@
+title: Breakdown Recovery on the A90 | Faster Breakdown Recovery
+description: Broken down on the A90 near Aberdeen, Portlethen, Stonehaven, Bridge of Don or Ellon? Fast, professional recovery from the trunk road and its dual carriageway sections, 24 hours a day.
+og_title: Breakdown Recovery on the A90
+og_description: Recovery for breakdowns on the A90 north and south of Aberdeen, and through the city on Anderson Drive, 24 hours a day.
+label: Breakdown Recovery on the A90
+crumbs: Motorways &amp; Roads|routes/index.html
+nav: routes
+kind: route
+region: Scotland > Other roads
+short: A90
+===HEAD===
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "I've broken down on the Anderson Drive section of the A90 in Aberdeen — is that different to the open road?",
+        "acceptedAnswer": { "@type": "Answer", "text": "Anderson Drive carries A90 traffic through the city itself, so it mixes dual-carriageway speeds with signalised junctions and roundabouts such as Haudagain and the Anderson Drive/Great Western Road junction. There's often less run-off space than on the open trunk road, so getting fully clear of the traffic lane matters just as much, if not more. Tell us which junction or landmark you're closest to when you call." }
+      },
+      {
+        "@type": "Question",
+        "name": "Is it safe to wait in my car if I've broken down on the A90?",
+        "acceptedAnswer": { "@type": "Answer", "text": "It depends on where you've stopped. If you're on a verge, in a layby, or otherwise well clear of the running lanes, staying in the vehicle with your seatbelt on is usually the safer option while you wait, especially in poor weather. If you're still partly in a live lane and can't move further off safely, get yourself and any passengers out and behind a barrier or well away from the carriageway, then call for help." }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you cover the A90 all the way to Peterhead and Stonehaven, or just the Aberdeen stretch?",
+        "acceptedAnswer": { "@type": "Answer", "text": "We recover breakdowns on the A90 both north and south of Aberdeen, including the Portlethen and Stonehaven direction and the Bridge of Don, Ellon and Peterhead direction, as well as through the city itself. Give us your location when you call and we'll confirm we can reach you." }
+      }
+    ]
+  }
+  </script>
+===MAIN===
+    <section class="page-hero">
+      <div class="container">
+        <span class="eyebrow">Route recovery</span>
+        <h1>Breakdown Recovery on the A90</h1>
+        <p class="page-hero__lede">The A90 is Aberdeen's main trunk road — running south to Portlethen, Stonehaven and beyond, north through Bridge of Don towards Ellon and Peterhead, and straight through the city as North and South Anderson Drive. If you've broken down anywhere along it, we can recover you.</p>
+        <div class="hero__actions" style="margin-top:1.5rem;">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--lg" href="../contact.html#quote">Get a Quote</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container two-col">
+        <div class="prose">
+          <h2>A road with three different characters</h2>
+          <p>The A90 isn't one uniform stretch of road — it changes character as it passes Aberdeen, and that matters for how you should react if something goes wrong. South of the city it's a fast dual carriageway serving Portlethen and Stonehaven, with limited stopping points and traffic often moving well above urban speeds. North of the city, past Bridge of Don, it continues as a dual carriageway towards Ellon and on to Peterhead. Through the city itself, the same road runs as North and South Anderson Drive, a mix of dual-carriageway sections, roundabouts and signalised junctions, including the Haudagain junction. Knowing roughly where you are on that spectrum helps you judge how much space you realistically have to get clear.</p>
+
+          <h2>Breaking down south of Aberdeen — Portlethen and Stonehaven direction</h2>
+          <p>This stretch carries a steady flow of commuter and haulage traffic at dual-carriageway speeds, with fewer laybys than you might expect. If your vehicle starts to falter, indicate early, ease off the throttle gradually rather than braking hard, and aim for the nearest slip road, layby or verge rather than trying to nurse the car all the way to a specific junction. If you can't get off the carriageway entirely, get as far left as possible and put your hazards on immediately.</p>
+
+          <h2>Breaking down north of Aberdeen — Bridge of Don, Ellon and Peterhead direction</h2>
+          <p>North of Bridge of Don the road opens out again into faster, more rural dual carriageway heading for Ellon and eventually Peterhead. Visibility can be reduced by weather rolling in off the North Sea, and at night this section is noticeably darker than the city stretch. The same principle applies: prioritise reaching a verge, layby or slip road over reaching any particular destination, and keep your hazards on the moment you suspect a problem.</p>
+
+          <h2>Breaking down on Anderson Drive, through the city</h2>
+          <p>Inside Aberdeen, the A90 becomes Anderson Drive, and the driving environment changes again — more junctions, roundabouts, pedestrian crossings and slower-moving queues alongside faster through-traffic. A breakdown here often means less usable verge space, so getting into a side street, petrol station or car park just off the main road, if you can do so safely, may be a better option than stopping on the carriageway itself.</p>
+
+          <div class="callout">
+            <p><strong>If you break down on a fast dual-carriageway section of the A90:</strong> get the vehicle as far off the running lanes as you safely can — onto a verge, hard shoulder or layby. Once stopped, get yourself and any passengers out of the vehicle and behind a barrier, well away from moving traffic, rather than waiting inside the car if it's still close to the live lane. Keep your hazard lights on at all times. Don't attempt any roadside repair in a live lane — it isn't worth the risk. When you call for help, give us the nearest junction, exit number or a landmark, plus the direction you were travelling, so we can find you quickly.</p>
+          </div>
+
+          <h2>If you've had a collision rather than a breakdown</h2>
+          <p>If your vehicle isn't driveable following a collision on the A90, our <a href="../services/accident-recovery-aberdeen.html">accident recovery</a> service handles that separately from a standard breakdown — call us and let us know it was a collision so we can plan accordingly.</p>
+        </div>
+
+        <aside class="side-panel">
+          <h2>Broken down on the A90?</h2>
+          <a class="btn btn--primary btn--block" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--block" href="../contact.html#quote">Request a Quote</a>
+          <ul>
+            <li><a href="../services/breakdown-recovery-aberdeen.html">Breakdown Recovery Aberdeen</a></li>
+            <li><a href="../services/accident-recovery-aberdeen.html">Accident Recovery Aberdeen</a></li>
+            <li><a href="../areas/portlethen.html">Portlethen</a></li>
+            <li><a href="../areas/stonehaven.html">Stonehaven</a></li>
+            <li><a href="../areas/ellon.html">Ellon</a></li>
+            <li><a href="../areas/bridge-of-don.html">Bridge of Don</a></li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section section--alt">
+      <div class="container">
+        <div class="section-head section-head--center">
+          <span class="eyebrow">Questions</span>
+          <h2>A90 Breakdown FAQs</h2>
+        </div>
+        <div class="faq-list">
+          <details class="faq-item">
+            <summary>I've broken down on the Anderson Drive section of the A90 in Aberdeen — is that different to the open road?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>Anderson Drive carries A90 traffic through the city itself, so it mixes dual-carriageway speeds with signalised junctions and roundabouts such as Haudagain and the Anderson Drive/Great Western Road junction. There's often less run-off space than on the open trunk road, so getting fully clear of the traffic lane matters just as much, if not more. Tell us which junction or landmark you're closest to when you call.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Is it safe to wait in my car if I've broken down on the A90?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>It depends on where you've stopped. If you're on a verge, in a layby, or otherwise well clear of the running lanes, staying in the vehicle with your seatbelt on is usually the safer option while you wait, especially in poor weather. If you're still partly in a live lane and can't move further off safely, get yourself and any passengers out and behind a barrier or well away from the carriageway, then call for help.</p>
+          </details>
+          <details class="faq-item">
+            <summary>Do you cover the A90 all the way to Peterhead and Stonehaven, or just the Aberdeen stretch?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
+            <p>We recover breakdowns on the A90 both north and south of Aberdeen, including the Portlethen and Stonehaven direction and the Bridge of Don, Ellon and Peterhead direction, as well as through the city itself. Give us your location when you call and we'll confirm we can reach you.</p>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">Related</span>
+          <h2>Other Services You Might Need</h2>
+        </div>
+        <ul class="related-services">
+          <li><a href="../services/breakdown-recovery-aberdeen.html">Breakdown Recovery Aberdeen</a></li>
+          <li><a href="../services/accident-recovery-aberdeen.html">Accident Recovery Aberdeen</a></li>
+          <li><a href="../services/roadside-assistance-aberdeen.html">Roadside Assistance Aberdeen</a></li>
+          <li><a href="../services/24-hour-breakdown-recovery-aberdeen.html">24 Hour Breakdown Recovery</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="cta-band section">
+      <div class="container">
+        <h2>Broken Down on the A90 Right Now?</h2>
+        <p>Call us and we'll get a recovery vehicle on its way to you.</p>
+        <div class="cta-band__actions">
+          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--outline btn--lg" href="../contact.html#quote">Get a Quote</a>
+        </div>
+      </div>
+    </section>
