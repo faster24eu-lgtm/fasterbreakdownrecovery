@@ -49,3 +49,44 @@
     yearEl.textContent = new Date().getFullYear();
   }
 })();
+
+/* Hero Google review carousel (same behaviour as takeldienstfaster.be) */
+(function () {
+  "use strict";
+  var box = document.querySelector(".hero-review");
+  if (!box) return;
+  var slides = box.querySelectorAll(".hero-review-slide");
+  var dotsWrap = box.querySelector(".hero-review-dots");
+  var current = 0, timer = null, paused = false;
+  var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  var dots = Array.prototype.map.call(slides, function (_, i) {
+    var b = document.createElement("button");
+    b.type = "button";
+    b.setAttribute("aria-label", "Show review " + (i + 1) + " of " + slides.length);
+    b.addEventListener("click", function () { show(i); restart(); });
+    dotsWrap.appendChild(b);
+    return b;
+  });
+
+  function show(i) {
+    slides[current].classList.remove("is-active");
+    dots[current].removeAttribute("aria-current");
+    current = (i + slides.length) % slides.length;
+    slides[current].classList.add("is-active");
+    dots[current].setAttribute("aria-current", "true");
+  }
+  function restart() {
+    clearInterval(timer);
+    if (reduce || paused) return;
+    timer = setInterval(function () { show(current + 1); }, 4000);
+  }
+
+  box.addEventListener("mouseenter", function () { paused = true; restart(); });
+  box.addEventListener("mouseleave", function () { paused = false; restart(); });
+  box.addEventListener("focusin", function () { paused = true; restart(); });
+  box.addEventListener("focusout", function () { paused = false; restart(); });
+
+  show(0);
+  restart();
+})();

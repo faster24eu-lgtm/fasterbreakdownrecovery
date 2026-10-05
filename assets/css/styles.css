@@ -2023,3 +2023,33 @@ summary:focus-visible {
   margin-top: var(--space-6);
 }
 
+
+/* Google reviews: hero carousel + grid (same look as takeldienstfaster.be) */
+.hero-review{margin:var(--space-6) 0 0;background:#fffdf2;border:1px solid var(--color-border);border-left:4px solid var(--color-primary);padding:16px 18px 14px}
+.hero-review-head{display:flex;align-items:center;gap:10px;margin-bottom:8px;flex-wrap:wrap}
+.hero-review-head .stars,.review-card .stars{font-size:14px;color:var(--color-primary);letter-spacing:1px}
+.hero-review-head small{font-size:11px;color:#777;font-weight:700}
+.hero-review-track{display:grid}
+.hero-review-slide{grid-area:1/1;margin:0;opacity:0;visibility:hidden;transition:opacity .5s ease,visibility .5s}
+.hero-review-slide.is-active{opacity:1;visibility:visible}
+.hero-review-slide p{margin:0 0 6px;font:italic 700 15px/1.45 Georgia,'Times New Roman',serif;color:#222}
+.hero-review-slide cite{font-style:normal;font-size:12px;font-weight:900}
+.hero-review-slide cite span{font-weight:400;color:#888}
+.hero-review-dots{display:flex;gap:6px;margin-top:10px}
+.hero-review-dots button{width:8px;height:8px;padding:0;border:0;border-radius:50%;background:#d5d5d2;cursor:pointer}
+.hero-review-dots button[aria-current="true"]{background:var(--color-text)}
+@media(prefers-reduced-motion:reduce){.hero-review-slide{transition:none}}
+@media(max-width:640px){.hero-review{margin-top:18px;padding:14px}.hero-review-slide p{font-size:14px}}
+.review-grid{display:grid;grid-template-columns:1fr;gap:15px}
+@media(min-width:640px){.review-grid{grid-template-columns:1fr 1fr}}
+@media(min-width:960px){.review-grid{grid-template-columns:repeat(3,1fr)}}
+.review-card{background:var(--color-surface);border:1px solid var(--color-border);padding:25px;min-height:190px}
+.review-card p{margin:12px 0;font-size:14px}
+.review-name{font-weight:900}
+.review-source{font-size:11px;color:#888}
+.review-featured-1{border-left:4px solid var(--color-primary);background:#fffdf2}
+.review-featured-2{border-left:3px solid var(--color-primary)}
+.review-note{margin-top:var(--space-5);font-size:0.85rem;color:var(--color-text-faint)}
+.hero-inner:not(.hero-inner--solo) .hero__meta{display:grid;grid-template-columns:repeat(3,auto);gap:var(--space-4) var(--space-6);justify-content:start}
+@media(max-width:480px){.hero-inner:not(.hero-inner--solo) .hero__meta{grid-template-columns:1fr 1fr}}
+.hero-inner:not(.hero-inner--solo) .hero__actions{margin-bottom:var(--space-6)}
