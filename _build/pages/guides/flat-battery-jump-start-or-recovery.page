@@ -1,0 +1,53 @@
+title: Flat Battery: Jump Start or Recovery? How to Tell | Faster
+description: Flat car battery? How to jump start safely, when a jump start won't help, what to do with hybrids and electric cars, and when to call for recovery instead.
+og_title: Flat Battery: Jump Start or Recovery?
+og_description: How to jump start a car safely, when it won't help, and when to call for recovery instead.
+label: Flat Battery: Jump Start or Recovery?
+short: Flat battery: jump start or recovery?
+card: How to jump start safely and when it won&rsquo;t help
+crumbs: Guides|guides/index.html
+nav: guides
+kind: guide
+region: Breakdown guides
+sort: 03
+template: standard
+eyebrow: Guide
+h1: Flat Battery: Jump Start or Recovery?
+lede: A flat battery is the most common reason a car won't start, and often the easiest to fix. Here's how to tell whether it really is the battery, how to jump start safely, and when you need recovery instead.
+side_title: Battery flat now?
+side_links: Car won&rsquo;t start? What to do|guides/car-wont-start.html ; Roadside assistance|services/index.html#roadside-assistance ; How much does recovery cost?|guides/car-recovery-cost-uk.html
+faq_title: Flat Battery FAQs
+cta_title: Battery Flat Right Now?
+===BODY===
+          <h2>Is it really the battery?</h2>
+          <p>Classic signs: clicking when you try to start, dim or flickering dashboard lights, the engine turning over slowly, or nothing at all after the car has stood for a while. If the engine cranks at normal speed but doesn't fire, the battery probably isn't the problem. See <a href="{{R}}guides/car-wont-start.html">car won't start</a>.</p>
+
+          <h2>How to jump start safely</h2>
+          <ol>
+            <li>Check your handbook first. Some cars have dedicated jump-start points under the bonnet rather than using the battery directly.</li>
+            <li>Park the working car close by, without the cars touching, and switch both off.</li>
+            <li>Red lead: connect to <strong>+</strong> on the flat battery, then <strong>+</strong> on the good battery.</li>
+            <li>Black lead: connect to <strong>&minus;</strong> on the good battery, then to a bare metal point on the engine or body of the car with the flat battery, away from the battery itself.</li>
+            <li>Start the working car and let it run for a few minutes, then try to start the flat car.</li>
+            <li>Once it starts, remove the leads in reverse order (black first) and keep the engine running.</li>
+          </ol>
+
+          <div class="callout">
+            <p><strong>Don't jump start if</strong> the battery is cracked, leaking, bulging or smells of rotten eggs, or if you're on a motorway hard shoulder. On a fast road, get behind the barrier and call for help instead.</p>
+          </div>
+
+          <h2>Hybrids and electric cars</h2>
+          <p>Hybrids and electric cars still have an ordinary 12-volt battery that powers the electronics. If it goes flat, the car won't switch on. Many can be jump started, but only at the points and in the way the manufacturer specifies, and some manufacturers advise against using them to jump start other cars. Always follow the handbook.</p>
+
+          <h2>After the jump start</h2>
+          <p>Drive for a while without switching off, so the battery can recharge. If the car is flat again the next morning, the battery is probably worn out, or something is draining it. If it dies while you're driving, the alternator may not be charging. Either way, it needs checking at a garage.</p>
+
+          <h2>When it's a job for recovery</h2>
+          <p>If a jump start doesn't work, the battery is damaged, or the car keeps dying, call or WhatsApp us. We'll tell you honestly whether roadside help is likely to work, and if not we'll recover the car to your garage or home. Local recovery starts from £125.</p>
+===FAQ===
+Q: How long should I drive after a jump start?
+A: Long enough for the battery to recharge, ideally a decent run rather than a short trip. If the car won't start again the next day, get the battery and charging system checked.
+Q: Can I jump start an electric or hybrid car?
+A: Often yes, because the 12-volt battery that powers the electronics can go flat. But only use the jump points and method in the handbook, as some cars have specific instructions.
+Q: My car died while driving. Is it the battery?
+A: If the battery warning light came on before it died, the alternator may have stopped charging the battery. A jump start may get it going for a short while, but it needs a garage.

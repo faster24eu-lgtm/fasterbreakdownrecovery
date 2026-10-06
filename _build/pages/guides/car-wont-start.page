@@ -1,0 +1,54 @@
+title: Car Won&#39;t Start? Causes and What to Do | Faster Breakdown Recovery
+description: Car won't start? Clicking, no lights, cranks but won't fire, or a key light on the dash: what each symptom usually means, what you can safely try, and when to call for recovery.
+og_title: Car Won't Start? Causes and What to Do
+og_description: What each symptom usually means when your car won't start, what you can safely try yourself, and when to call for recovery.
+label: Car Won&rsquo;t Start? What to Do
+short: Car won&rsquo;t start? Causes and what to do
+card: What clicking, no lights or cranking-but-not-firing usually means
+crumbs: Guides|guides/index.html
+nav: guides
+kind: guide
+region: Breakdown guides
+sort: 02
+template: standard
+eyebrow: Guide
+h1: Car Won&rsquo;t Start? Causes and What to Do
+lede: You turn the key or press the button and nothing happens, or not enough. The noise the car makes (or doesn't make) tells you a lot about what's wrong. Here's how to read the symptoms, what you can safely try, and when it's time to call for help.
+side_title: Still won&rsquo;t start?
+side_links: Flat battery: jump start or recovery?|guides/flat-battery-jump-start-or-recovery.html ; Wrong fuel in your car|guides/wrong-fuel.html ; How much does recovery cost?|guides/car-recovery-cost-uk.html ; Roadside assistance|services/index.html#roadside-assistance
+faq_title: Car Won&rsquo;t Start FAQs
+cta_title: Car Still Won&rsquo;t Start?
+===BODY===
+          <h2>Clicking, or nothing at all</h2>
+          <p>A single click, rapid clicking, or dim dashboard lights when you try to start usually point to a <strong>flat or failing battery</strong>, or a poor connection at the battery terminals. It's the most common cause, especially after a cold night, a long period without driving, or lights left on. A jump start often fixes it. See our guide: <a href="{{R}}guides/flat-battery-jump-start-or-recovery.html">jump start or recovery?</a></p>
+
+          <h2>No lights and no sound</h2>
+          <p>If nothing lights up at all, the battery may be completely flat or disconnected. On cars with keyless entry, also check the battery in the key fob: many cars let you start with a dead fob by holding it against a marked spot on the steering column or the start button (your handbook shows where).</p>
+
+          <h2>Engine turns over but won't fire</h2>
+          <p>If the engine cranks normally but doesn't start, the battery is probably fine. Common causes are a fuel problem (an empty tank, a failed fuel pump or the <a href="{{R}}guides/wrong-fuel.html">wrong fuel</a>), an ignition fault or a sensor failure. Don't keep cranking for long periods: it drains the battery and won't fix the fault.</p>
+
+          <h2>A key or lock symbol on the dashboard</h2>
+          <p>A flashing key or padlock symbol usually means the <strong>immobiliser</strong> doesn't recognise the key. Try the spare key if you have it. If the spare works, the problem is the first key.</p>
+
+          <h2>Quick checks before you call</h2>
+          <ul>
+            <li>Automatic: is the gear selector fully in <strong>P</strong>? Try N as well.</li>
+            <li>Manual: is the clutch pressed all the way down? Many cars need it.</li>
+            <li>Steering lock: turn the wheel gently while turning the key or pressing start.</li>
+            <li>Fuel: is the gauge really above empty? Some gauges read wrongly when very low.</li>
+          </ul>
+
+          <div class="callout">
+            <p><strong>Stop if you hear grinding, see smoke or smell fuel.</strong> Don't keep trying. Get everyone away from the car and call for help. Call 999 if there's any sign of fire.</p>
+          </div>
+
+          <h2>When to call for recovery</h2>
+          <p>If a jump start doesn't work, the car cranks but won't fire, or there's a warning light you don't recognise, it needs a garage. Call or WhatsApp us with the symptoms: if roadside help is likely to work we'll say so, and if not we'll recover the car to your garage or home. Local recovery starts from £125.</p>
+===FAQ===
+Q: Why does my car click but not start?
+A: Clicking almost always means the starter motor isn't getting enough power, usually because of a flat or weak battery or a loose battery terminal. A jump start often gets you going.
+Q: My car turns over but won't start. Is it the battery?
+A: Probably not. If the engine cranks at normal speed, the battery is usually fine. The cause is more likely fuel, ignition or a sensor. It needs diagnosing at a garage.
+Q: Can you jump start my car instead of towing it?
+A: Often, yes, if the problem is a flat battery. Tell us the symptoms when you call and we'll tell you honestly whether a jump start is likely to work.

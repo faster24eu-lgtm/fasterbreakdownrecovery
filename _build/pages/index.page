@@ -462,8 +462,12 @@ nav: home
         </nav>
         <h3 class="city-grid__title">Useful guides</h3>
         <nav class="city-grid" aria-label="Guides">
-          <a href="guides/smart-motorway-breakdown.html">Breaking down on a smart motorway</a>
-          <a href="guides/car-wont-start-birmingham.html">Car won&rsquo;t start? What to do</a>
+          <a href="guides/car-recovery-cost-uk.html">How much does recovery cost?</a>
+          <a href="guides/car-wont-start.html">Car won&rsquo;t start?</a>
+          <a href="guides/flat-battery-jump-start-or-recovery.html">Flat battery</a>
+          <a href="guides/wrong-fuel.html">Wrong fuel</a>
+          <a href="guides/after-a-car-accident.html">After an accident</a>
+          <a href="guides/smart-motorway-breakdown.html">Smart motorway breakdown</a>
           <a href="guides/index.html" class="city-grid__all">All guides &rarr;</a>
         </nav>
       </div>
@@ -484,7 +488,7 @@ nav: home
           </details>
           <details class="faq-item">
             <summary>Will I get a price upfront?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
-            <p>Yes. Local recovery starts from &pound;125. Tell us where the vehicle is, where it needs to go, the make and model and what's happened, and we can usually give you a fixed price straight away.</p>
+            <p>Yes. Local recovery starts from &pound;125. Tell us where the vehicle is, where it needs to go, the make and model and what's happened, and we can usually give you a fixed price straight away. See our guide: <a href="guides/car-recovery-cost-uk.html">how much does car recovery cost?</a></p>
           </details>
           <details class="faq-item">
             <summary>When can the price change?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
