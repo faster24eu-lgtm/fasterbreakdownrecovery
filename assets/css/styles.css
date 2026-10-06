@@ -1908,7 +1908,7 @@ summary:focus-visible {
   display: block;
   width: 100%;
   height: auto;
-  aspect-ratio: 1 / 1;
+  aspect-ratio: 4 / 3;
   object-fit: cover;
 }
 .hero__photo figcaption {
@@ -1923,11 +1923,7 @@ summary:focus-visible {
   text-transform: uppercase;
   padding: 0.5rem 0.9rem;
 }
-@media (max-width: 859px) {
-  .hero__photo img {
-    aspect-ratio: 4 / 3;
-  }
-}
+
 
 @media (min-width: 760px) {
   .steps--3 {
@@ -2053,3 +2049,5 @@ summary:focus-visible {
 .hero-inner:not(.hero-inner--solo) .hero__meta{display:grid;grid-template-columns:repeat(3,auto);gap:var(--space-4) var(--space-6);justify-content:start}
 @media(max-width:480px){.hero-inner:not(.hero-inner--solo) .hero__meta{grid-template-columns:1fr 1fr}}
 .hero-inner:not(.hero-inner--solo) .hero__actions{margin-bottom:var(--space-6)}
+.gallery-tile img{object-fit:cover}
+.hero__footnote{font-size:0.78rem;color:var(--color-text-faint);margin:var(--space-3) 0 0}
