@@ -419,7 +419,7 @@ $c3
         </div>
       </div>
       <p class="footer-disclaimer">$S->{disclaimer}</p>
-      <p class="footer-legal-line">Faster Breakdown Recovery &middot; <a href="$PHONE_HREF" data-contact="phone-href"><span data-contact="phone-display">$PHONE</span></a> &middot; <a href="#" data-contact="email-href"><span data-contact="email-display">$EMAIL</span></a>. Recovery is arranged with local operators. The price is agreed before anyone sets off. No public depot. Company and insurance details available on request before a job is confirmed.</p>
+      <p class="footer-legal-line">Faster Breakdown Recovery &middot; <a href="$PHONE_HREF" data-contact="phone-href"><span data-contact="phone-display">$PHONE</span></a> &middot; <a href="#" data-contact="email-href"><span data-contact="email-display">$EMAIL</span></a>. Recovery is arranged with local operators. The price is agreed before anyone sets off. No public depot.</p>
     </div>
   </footer>
 
