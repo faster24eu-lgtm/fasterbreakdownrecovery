@@ -449,6 +449,23 @@ nav: home
           <a href="routes/m62.html">M62</a>
           <a href="routes/index.html" class="city-grid__all">All roads &rarr;</a>
         </nav>
+        <h3 class="city-grid__title">Car stuck abroad?</h3>
+        <nav class="city-grid" aria-label="Vehicle repatriation to the UK">
+          <a href="repatriation/france.html">France</a>
+          <a href="repatriation/calais.html">Calais</a>
+          <a href="repatriation/paris.html">Paris</a>
+          <a href="repatriation/spain.html">Spain</a>
+          <a href="repatriation/belgium.html">Belgium</a>
+          <a href="repatriation/netherlands.html">Netherlands</a>
+          <a href="repatriation/germany.html">Germany</a>
+          <a href="repatriation/index.html" class="city-grid__all">All repatriation &rarr;</a>
+        </nav>
+        <h3 class="city-grid__title">Useful guides</h3>
+        <nav class="city-grid" aria-label="Guides">
+          <a href="guides/smart-motorway-breakdown.html">Breaking down on a smart motorway</a>
+          <a href="guides/car-wont-start-birmingham.html">Car won&rsquo;t start? What to do</a>
+          <a href="guides/index.html" class="city-grid__all">All guides &rarr;</a>
+        </nav>
       </div>
     </section>
 

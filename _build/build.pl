@@ -169,6 +169,31 @@ find(sub {
   $P{$path} = \%p;
 }, '_build/pages');
 
+# ---------------------------------------------------------------- SEO pass
+# English city, road and core service pages get a short title that fits in
+# Google's results (~60 chars) and a description that leads with the offer.
+# Set "seo: no" on a page to keep its own title/description.
+my $SERVICE_RE = qr{^services/(breakdown-recovery|car-recovery|vehicle-recovery|24-hour-breakdown-recovery|roadside-assistance|van-recovery|accident-recovery)-};
+for my $p (values %P) {
+  next unless $p->{lang} eq 'en' && ($p->{seo} // 'yes') ne 'no';
+  my $kind = $p->{kind} // '';
+  my $offer = 'From £125, often with you in about 30 minutes.';
+  if ($kind eq 'area') {
+    $p->{title} = "Breakdown Recovery $p->{label} 24/7 | From £125 | Faster";
+  } elsif ($kind eq 'route') {
+    my $s = $p->{short} // $p->{label};
+    $s = $1 if $s =~ /\(([A-Z0-9]+)\)$/;     # "Aberdeen Western Peripheral Route (AWPR)" -> AWPR
+    $p->{title} = "$s Breakdown Recovery 24/7 | From £125 | Faster";
+  } elsif ($p->{path} =~ $SERVICE_RE) {
+    (my $first = $p->{title}) =~ s/\s*\|.*$//;
+    $p->{title} = "$first | From £125 | Faster";
+  } else {
+    next;
+  }
+  $p->{description} = "$offer $p->{description}" unless $p->{description} =~ /125/;
+  $p->{schema_area} = $kind eq 'route' ? ($p->{short} // $p->{label}) : $kind eq 'area' ? $p->{label} : undef;
+}
+
 # translation groups: tgroup => { lang => path }
 my %TG;
 for my $p (values %P) { $TG{$p->{tgroup}}{$p->{lang}} = $p->{path} if $p->{tgroup} }
@@ -244,11 +269,13 @@ sub page {
     $pos++;
     push @ld, sprintf(q{      { "@type": "ListItem", "position": %d, "name": "%s", "item": "%s" }}, $pos, ld($p->{label}), $canon);
     $crumbs_html = qq{\n  <nav class="breadcrumbs" aria-label="Breadcrumb">\n    <div class="container">\n      <ol>\n} . join("\n", @li) . qq{\n      </ol>\n    </div>\n  </nav>\n};
-    $crumbs_ld = qq{\n  <script type="application/ld+json">\n  {\n    "\@context": "https://schema.org",\n    "\@type": "BreadcrumbList",\n    "itemListElement": [\n} . join(",\n", @ld) . qq{\n    ]\n  }\n  </script>};
+    $crumbs_ld = "\n  <script type=\"application/ld+json\">\n  {\n    \"\@context\": \"https://schema.org\",\n    \"\@type\": \"BreadcrumbList\",\n    \"itemListElement\": [\n" . join(",\n", @ld) . "\n    ]\n  }\n  </script>";
   }
   my $head = $p->{head} ? "\n" . fill($p->{head}, $R, $lang) : '';
   $head =~ s/\n+$//;
   my $main = fill($p->{main}, $R, $lang);
+  $main = add_nearby($p, $main, $R) if $lang eq 'en' && ($p->{kind} // '') =~ /^(area|route)$/;
+  $head = schema_local($p, $canon) . $head if $p->{schema_area};
   $main =~ s/\n+$//;
 
   return <<"HTML";
@@ -266,8 +293,11 @@ sub page {
   <meta property="og:title" content="$ogt">
   <meta property="og:description" content="$ogd">
   <meta property="og:url" content="$canon">
-  <meta property="og:image" content="$BASE/assets/images/og/og-image-placeholder.svg">
+  <meta property="og:image" content="$BASE/assets/images/og/og-faster-breakdown-recovery-1200x630.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
   <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="$BASE/assets/images/og/og-faster-breakdown-recovery-1200x630.jpg">
   <link rel="icon" type="image/svg+xml" href="${R}assets/images/icons/favicon.svg">
   <link rel="stylesheet" href="${R}assets/css/styles.css">$crumbs_ld$head
 </head>
@@ -323,7 +353,7 @@ sub header {
   return <<"H";
   <header class="site-header">
     <div class="container header-inner">
-      <a class="brand" href="$R$HOME{$lang}"><span class="brand__logo-wrap"><img class="brand__logo" src="${R}assets/images/branding/faster-breakdown-recovery-logo.png" width="900" height="433" alt="$NAME"></span><span class="brand__text-sub">$S->{sub}</span></a>
+      <a class="brand" href="$R$HOME{$lang}"><span class="brand__logo-wrap"><img class="brand__logo" src="${R}assets/images/branding/faster-breakdown-recovery-logo-500w.png" width="500" height="241" alt="$NAME"></span><span class="brand__text-sub">$S->{sub}</span></a>
       <nav class="main-nav" aria-label="Primary">
 $desk
       </nav>
@@ -366,7 +396,7 @@ sub footer {
     <div class="container">
       <div class="footer-grid footer-grid--5">
         <div class="footer-brand">
-          <a class="brand" href="$R$HOME{$lang}" style="margin-bottom: 1rem;"><img class="brand__logo brand__logo--footer" src="${R}assets/images/branding/faster-breakdown-recovery-logo.png" width="900" height="433" alt="$NAME"></a>
+          <a class="brand" href="$R$HOME{$lang}" style="margin-bottom: 1rem;"><img class="brand__logo brand__logo--footer" src="${R}assets/images/branding/faster-breakdown-recovery-logo-500w.png" width="500" height="241" alt="$NAME"></a>
           <p>$S->{tagline}</p>
           <p><a href="$PHONE_HREF" data-contact="phone-href">Call: <span data-contact="phone-display">$PHONE</span></a><br><a href="#" data-contact="email-href"><span data-contact="email-display">$EMAIL</span></a></p>
         </div>
@@ -576,6 +606,62 @@ sub quote_form {
         </form>
 Q
   return $form;
+}
+
+# TowingService structured data for city / road pages
+sub schema_local {
+  my ($p, $canon) = @_;
+  my $area = ld($p->{schema_area});
+  $area .= ' motorway' if ($p->{kind} // '') eq 'route' && $area =~ /^M\d+$/;
+  return qq{\n  <script type="application/ld+json">\n  {\n    "\@context": "https://schema.org",\n    "\@type": "TowingService",\n    "name": "$NAME",\n    "url": "$canon",\n    "telephone": "+442080580013",\n    "priceRange": "From £125",\n    "image": "$BASE/assets/images/og/og-faster-breakdown-recovery-1200x630.jpg",\n    "openingHours": "Mo-Su 00:00-23:59",\n    "areaServed": { "\@type": "Place", "name": "$area" },\n    "address": { "\@type": "PostalAddress", "addressCountry": "GB" }\n  }\n  </script>};
+}
+
+# "Nearby areas & roads" block for English city and road pages:
+#   city  -> other cities in the same region (or nation) + roads that mention it
+#   road  -> cities it mentions + a few other roads in the same group
+sub add_nearby {
+  my ($p, $main, $R) = @_;
+  my $text = join ' ', map { $_ // '' } @{$p}{qw(card lede body main)};
+  my @en = grep { $_->{lang} eq 'en' && $_->{path} ne $p->{path} } values %P;
+  my @areas  = sort { $a->{label} cmp $b->{label} } grep { ($_->{kind} // '') eq 'area' } @en;
+  my @routes = sort { ($a->{sort} // $a->{label}) cmp ($b->{sort} // $b->{label}) } grep { ($_->{kind} // '') eq 'route' } @en;
+  my $mentions = sub { my ($hay, $name) = @_; $hay =~ /\b\Q$name\E\b/ };
+  my (@a, @r);
+  if ($p->{kind} eq 'area') {
+    my ($nation) = split /\s*>\s*/, $p->{region} // '';
+    @a = grep { ($_->{region} // '') eq ($p->{region} // '') } @areas;
+    # too few in the same region: add major cities, same nation first
+    my %major = map { $_ => 1 } qw(London Birmingham Manchester Leeds Liverpool Bristol Glasgow Edinburgh Cardiff Aberdeen);
+    my @maj = grep { $major{$_->{label}} } @areas;
+    my $add = sub { for my $x (@_) { push @a, $x unless grep { $_ == $x } @a } };
+    $add->(grep { (split /\s*>\s*/, $_->{region} // '')[0] eq $nation } @maj) if @a < 3;
+    $add->(@maj) if @a < 3;
+    @r = grep { $mentions->(join(' ', map { $_ // '' } @{$_}{qw(card lede body main)}), $p->{label}) } @routes;
+  } else {
+    @a = grep { $mentions->($text, $_->{label}) } @areas;
+    @r = grep { ($_->{region} // '') eq ($p->{region} // '') } @routes;
+  }
+  splice(@a, 8) if @a > 8;
+  splice(@r, 6) if @r > 6;
+  return $main unless @a || @r;
+  my $links = join "\n", (map { qq{          <a href="$R$_->{path}">$_->{label}</a>} } @a),
+                         (map { my $s = $_->{short} // $_->{label}; qq{          <a href="$R$_->{path}">$s</a>} } @r);
+  my $block = <<"N";
+    <section class="section section--alt nearby">
+      <div class="container">
+        <div class="section-head">
+          <span class="eyebrow">Nearby</span>
+          <h2>Nearby areas &amp; roads</h2>
+        </div>
+        <nav class="city-grid" aria-label="Nearby areas and roads">
+$links
+        </nav>
+      </div>
+    </section>
+
+N
+  $main =~ s/(    <section class="cta-band)/$block$1/ or $main .= "\n$block";
+  return $main;
 }
 
 # grouped list of every page of one kind, by region
