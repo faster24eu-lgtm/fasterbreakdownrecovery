@@ -114,6 +114,7 @@ my @NAV = (
      ['Accident recovery',   'services/index.html#accident-recovery'],
      ['Roadside assistance', 'services/index.html#roadside-assistance'],
      ['Car transport',       'services/index.html#car-transport'],
+     ['Repatriation to the UK', 'repatriation/index.html'],
      ['All services',        'services/index.html'],
   ]],
   ['areas', 'Areas', 'areas/index.html', [
@@ -141,7 +142,7 @@ my @NAV = (
 
 my @FOOTER_AREAS  = (['London','areas/london.html'],['Birmingham','areas/birmingham.html'],['Manchester','areas/manchester.html'],['Leeds','areas/leeds.html'],['Glasgow','areas/glasgow.html'],['Edinburgh','areas/edinburgh.html'],['Cardiff','areas/cardiff.html'],['Aberdeen','areas/aberdeen.html'],['All areas','areas/index.html']);
 my @FOOTER_ROUTES = (['M1','routes/m1.html'],['M6','routes/m6.html'],['M25','routes/m25.html'],['M4','routes/m4.html'],['M5','routes/m5.html'],['M62','routes/m62.html'],['M8','routes/m8.html'],['All motorways &amp; roads','routes/index.html']);
-my @FOOTER_INFO   = (['Services','services/index.html'],['Guides','guides/index.html'],['About','about.html'],['Contact','contact.html'],['Get a quote','contact.html#quote']);
+my @FOOTER_INFO   = (['Services','services/index.html'],['Repatriation to the UK','repatriation/index.html'],['Guides','guides/index.html'],['About','about.html'],['Contact','contact.html'],['Get a quote','contact.html#quote']);
 
 # ---------------------------------------------------------------- read pages
 my $root = dirname(dirname(__FILE__));
