@@ -158,7 +158,7 @@ nav: home
           <article class="service-row">
             <span class="service-row__num">01</span>
             <div>
-              <h3><a href="services/index.html#breakdown-recovery">Breakdown Recovery</a></h3>
+              <h3><a href="services/breakdown-recovery.html">Breakdown Recovery</a></h3>
               <p>Recovery when a mechanical or electrical fault leaves your vehicle undriveable, wherever you've stopped.</p>
             </div>
             <span class="service-row__link">Learn more →</span>
@@ -166,7 +166,7 @@ nav: home
           <article class="service-row">
             <span class="service-row__num">02</span>
             <div>
-              <h3><a href="services/index.html#scrap-car-collection">Scrap Car Collection</a></h3>
+              <h3><a href="services/scrap-car-collection-birmingham.html">Scrap Car Collection</a></h3>
               <p>Collection of scrap and non-runner cars in any condition.</p>
             </div>
             <span class="service-row__link">Learn more →</span>
@@ -174,7 +174,7 @@ nav: home
           <article class="service-row">
             <span class="service-row__num">03</span>
             <div>
-              <h3><a href="services/index.html#car-recovery">Car Recovery</a></h3>
+              <h3><a href="services/car-recovery.html">Car Recovery</a></h3>
               <p>Car won't start, won't move, or isn't safe to drive? We recover cars of all makes and sizes.</p>
             </div>
             <span class="service-row__link">Learn more →</span>
@@ -182,7 +182,7 @@ nav: home
           <article class="service-row">
             <span class="service-row__num">04</span>
             <div>
-              <h3><a href="services/index.html#van-recovery">Vehicle Recovery</a></h3>
+              <h3><a href="services/van-recovery.html">Vehicle Recovery</a></h3>
               <p>Wider vehicle recovery for cars, vans, 4x4s and light commercial vehicles.</p>
             </div>
             <span class="service-row__link">Learn more →</span>
@@ -190,7 +190,7 @@ nav: home
           <article class="service-row">
             <span class="service-row__num">05</span>
             <div>
-              <h3><a href="services/index.html#24-hour-recovery">24 Hour Recovery</a></h3>
+              <h3><a href="services/breakdown-recovery.html">24 Hour Recovery</a></h3>
               <p>Breakdowns don't keep office hours. Our recovery service operates around the clock, every day of the year.</p>
             </div>
             <span class="service-row__link">Learn more →</span>
@@ -198,7 +198,7 @@ nav: home
           <article class="service-row">
             <span class="service-row__num">06</span>
             <div>
-              <h3><a href="services/index.html#roadside-assistance">Roadside Assistance</a></h3>
+              <h3><a href="services/roadside-assistance.html">Roadside Assistance</a></h3>
               <p>Flat battery, flat tyre or locked out? Many roadside issues can be resolved on the spot without a tow.</p>
             </div>
             <span class="service-row__link">Learn more →</span>
@@ -206,7 +206,7 @@ nav: home
           <article class="service-row">
             <span class="service-row__num">07</span>
             <div>
-              <h3><a href="services/index.html#van-recovery">Van Recovery</a></h3>
+              <h3><a href="services/van-recovery.html">Van Recovery</a></h3>
               <p>Recovery for vans and light commercial vehicles, keeping trade and business disruption to a minimum.</p>
             </div>
             <span class="service-row__link">Learn more →</span>
@@ -214,7 +214,7 @@ nav: home
           <article class="service-row">
             <span class="service-row__num">08</span>
             <div>
-              <h3><a href="services/index.html#accident-recovery">Accident Recovery</a></h3>
+              <h3><a href="services/accident-recovery.html">Accident Recovery</a></h3>
               <p>Careful, considerate recovery following a road traffic collision.</p>
             </div>
             <span class="service-row__link">Learn more →</span>
@@ -222,7 +222,7 @@ nav: home
           <article class="service-row">
             <span class="service-row__num">09</span>
             <div>
-              <h3><a href="services/index.html#car-transport">Car Transport</a></h3>
+              <h3><a href="services/car-transport.html">Car Transport</a></h3>
               <p>Non-breakdown vehicle transport for purchases, auctions, storage moves or transporting a non-runner.</p>
             </div>
             <span class="service-row__link">Learn more →</span>

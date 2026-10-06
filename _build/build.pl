@@ -108,12 +108,12 @@ my %NAV_I18N = (
 # ---------------------------------------------------------------- navigation
 my @NAV = (
   ['services', 'Services', 'services/index.html', [
-     ['Breakdown recovery',  'services/index.html#breakdown-recovery'],
-     ['Car recovery',        'services/index.html#car-recovery'],
-     ['Van recovery',        'services/index.html#van-recovery'],
-     ['Accident recovery',   'services/index.html#accident-recovery'],
-     ['Roadside assistance', 'services/index.html#roadside-assistance'],
-     ['Car transport',       'services/index.html#car-transport'],
+     ['Breakdown recovery',  'services/breakdown-recovery.html'],
+     ['Car recovery',        'services/car-recovery.html'],
+     ['Van recovery',        'services/van-recovery.html'],
+     ['Accident recovery',   'services/accident-recovery.html'],
+     ['Roadside assistance', 'services/roadside-assistance.html'],
+     ['Car transport',       'services/car-transport.html'],
      ['Repatriation to the UK', 'repatriation/index.html'],
      ['All services',        'services/index.html'],
   ]],

@@ -18,7 +18,7 @@ side_links: Breakdown on the M1|routes/m1.html ; Breakdown on the M6|routes/m6.h
 faq_title: Smart Motorway Breakdown FAQs
 cta_title: Need Recovery From a Smart Motorway?
 related_title: Related Pages
-related: Breakdown recovery|services/index.html#breakdown-recovery ; Accident recovery|services/index.html#accident-recovery ; All motorways and roads|routes/index.html
+related: Breakdown recovery|services/breakdown-recovery.html ; Accident recovery|services/accident-recovery.html ; All motorways and roads|routes/index.html
 ===BODY===
           <h2>What is a smart motorway?</h2>
           <p>A smart motorway uses overhead signs and cameras to manage traffic, with variable speed limits and lanes that can be opened or closed. On "all lane running" sections, the hard shoulder has been turned into a permanent running lane. On "dynamic hard shoulder" sections, it's only opened to traffic at busy times. Many of England's busiest motorways, including stretches of the <a href="{{R}}routes/m1.html">M1</a>, <a href="{{R}}routes/m6.html">M6</a>, <a href="{{R}}routes/m25.html">M25</a> and <a href="{{R}}routes/m62.html">M62</a>, are smart motorways.</p>

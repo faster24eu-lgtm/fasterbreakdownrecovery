@@ -19,7 +19,7 @@ side_links: Breakdown on the M6|routes/m6.html ; Breakdown on the M4|routes/m4.h
 faq_title: M5 Breakdown FAQs
 cta_title: Broken Down on the M5 Right Now?
 related_title: Other Services You Might Need
-related: Breakdown recovery|services/index.html#breakdown-recovery ; Roadside assistance|services/index.html#roadside-assistance ; Accident recovery|services/index.html#accident-recovery ; All motorways and roads|routes/index.html
+related: Breakdown recovery|services/breakdown-recovery.html ; Roadside assistance|services/roadside-assistance.html ; Accident recovery|services/accident-recovery.html ; All motorways and roads|routes/index.html
 ===BODY===
           <h2>The road to the South West</h2>
           <p>The M5 starts at the Ray Hall interchange with the M6 near <a href="{{R}}areas/west-bromwich.html">West Bromwich</a> and ends at Exeter, where the A38 and A30 continue into Devon and Cornwall. For most of the year it's a busy commuter and freight route around Birmingham and Bristol. In the summer holidays the whole southern half fills with holiday traffic, caravans and roof boxes, and breakdowns from overheating and overloading become much more common.</p>

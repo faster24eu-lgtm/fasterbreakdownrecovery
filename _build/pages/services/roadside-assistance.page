@@ -1,0 +1,39 @@
+title: Roadside Assistance UK | Jump Starts &amp; Tyre Changes | Faster
+description: Flat battery or a puncture? Roadside assistance across the UK, 24/7: jump starts and spare-wheel changes on the spot when it's safe, and recovery from £125 when it isn't.
+og_title: Roadside Assistance Across the UK
+og_description: Jump starts and spare-wheel changes on the spot when it's safe, and recovery from £125 when it isn't.
+label: Roadside Assistance
+crumbs: Services|services/index.html
+nav: services
+template: standard
+eyebrow: Roadside assistance &middot; UK-wide
+h1: Roadside Assistance Across the UK
+lede: Not every breakdown needs a tow. A flat battery or a puncture can often be sorted where you are, so you can carry on with your day. Tell us what's happening and we'll tell you honestly whether roadside help is likely to work or whether recovery is the better option.
+side_title: Need help now?
+side_links: Flat battery: jump start or recovery?|guides/flat-battery-jump-start-or-recovery.html ; Car won&rsquo;t start?|guides/car-wont-start.html ; Breakdown recovery|services/breakdown-recovery.html ; How much does recovery cost?|guides/car-recovery-cost-uk.html
+faq_title: Roadside Assistance FAQs
+cta_title: Need Roadside Help?
+===BODY===
+          <h2>What can usually be fixed at the roadside</h2>
+          <ul>
+            <li><strong>Flat batteries:</strong> a jump start to get you going, then advice on whether the battery or charging system needs checking. See <a href="{{R}}guides/flat-battery-jump-start-or-recovery.html">jump start or recovery?</a></li>
+            <li><strong>Punctures:</strong> fitting your spare wheel, if you have a usable one and the car can be safely jacked up where it's parked.</li>
+            <li><strong>Simple starting problems:</strong> things like a key fob with a dead battery or a steering lock that won't release.</li>
+          </ul>
+
+          <h2>When roadside help isn't the answer</h2>
+          <p>Some problems can't, or shouldn't, be fixed at the side of the road: an engine or gearbox fault, a car that's been <a href="{{R}}guides/wrong-fuel.html">misfuelled</a>, a puncture without a usable spare, or anything after an accident. In those cases we'll recover the car to a garage or your home instead, <strong>from £125</strong>, and we'll tell you that before anyone sets off, so you're not paying for a visit that can't fix the problem.</p>
+
+          <div class="callout">
+            <p><strong>On a motorway, safety comes first.</strong> Roadside repairs aren't done in a live lane or on a busy hard shoulder. If you've stopped on a fast road, get behind the barrier and call. The car will normally be taken somewhere safe before anything else.</p>
+          </div>
+
+          <h2>Describe the symptoms</h2>
+          <p>The more you can tell us, the better we can judge whether a roadside fix will work: what noise the car makes when you try to start it, which warning lights are on, whether it stopped suddenly or lost power gradually. A quick video on WhatsApp is often the most useful thing you can send.</p>
+===FAQ===
+Q: Can you jump start my car?
+A: If the problem is a flat battery, usually yes. Tell us the symptoms and we'll tell you whether a jump start is likely to work, or whether the car needs a garage.
+Q: Can you change my tyre?
+A: If you have a usable spare and the car is parked somewhere it can be safely jacked up, yes. If there's no spare, or only a repair kit that won't work, we'll recover the car to a tyre fitter or garage.
+Q: What if the roadside fix doesn't work?
+A: Then the car is recovered to a garage or your home instead. We'll explain the options and the price before anything is done.

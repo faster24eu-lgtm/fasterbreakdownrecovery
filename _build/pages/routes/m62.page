@@ -19,7 +19,7 @@ side_links: Breakdown on the M6|routes/m6.html ; Breakdown on the M1|routes/m1.h
 faq_title: M62 Breakdown FAQs
 cta_title: Broken Down on the M62 Right Now?
 related_title: Other Services You Might Need
-related: Breakdown recovery|services/index.html#breakdown-recovery ; Van recovery|services/index.html#van-recovery ; Accident recovery|services/index.html#accident-recovery ; All motorways and roads|routes/index.html
+related: Breakdown recovery|services/breakdown-recovery.html ; Van recovery|services/van-recovery.html ; Accident recovery|services/accident-recovery.html ; All motorways and roads|routes/index.html
 ===BODY===
           <h2>Across the north of England</h2>
           <p>The M62 starts on the eastern edge of <a href="{{R}}areas/liverpool.html">Liverpool</a> and runs east past Warrington, around the north of <a href="{{R}}areas/manchester.html">Manchester</a>, over the Pennines, past <a href="{{R}}areas/leeds.html">Leeds</a> and Wakefield and on to Goole, finishing at North Cave near Hull. It's one of the main freight routes between the ports on either side of the country, so expect plenty of lorries at any time of day.</p>

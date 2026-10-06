@@ -19,7 +19,7 @@ side_links: Glasgow|areas/glasgow.html ; Edinburgh|areas/edinburgh.html ; Aberde
 faq_title: M8 Breakdown FAQs
 cta_title: Broken Down on the M8 Right Now?
 related_title: Other Services You Might Need
-related: Breakdown recovery|services/index.html#breakdown-recovery ; Car recovery|services/index.html#car-recovery ; Accident recovery|services/index.html#accident-recovery ; All motorways and roads|routes/index.html
+related: Breakdown recovery|services/breakdown-recovery.html ; Car recovery|services/car-recovery.html ; Accident recovery|services/accident-recovery.html ; All motorways and roads|routes/index.html
 ===BODY===
           <h2>Scotland's main east–west motorway</h2>
           <p>The M8 starts at Hermiston Gait on the western edge of <a href="{{R}}areas/edinburgh.html">Edinburgh</a>, close to the city bypass, and runs west past Livingston, Harthill and Coatbridge into <a href="{{R}}areas/glasgow.html">Glasgow</a>. It crosses the city centre, passes Glasgow Airport and continues west towards Greenock. It's a commuter road at both ends and one of the main freight routes in central Scotland, so it's busy almost all day.</p>
