@@ -100,7 +100,7 @@ nav: home
           </ul>
           <p class="hero__footnote">*Arrival time depends on your location, traffic and how busy it is. We'll always give you an honest estimate when you call.</p>
           <div class="hero-review" role="region" aria-roledescription="carousel" aria-label="Google reviews from customers">
-            <div class="hero-review-head"><div class="stars" aria-label="5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><small>Real Google reviews &middot; translated from Dutch where needed</small></div>
+            <div class="hero-review-head"><div class="stars" aria-label="5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><small>Real Google reviews</small></div>
             <div class="hero-review-track">
               <blockquote class="hero-review-slide is-active"><p>&ldquo;Very satisfied, they were there within 15 minutes and the price was simply great!!! Definitely recommended!!!&rdquo;</p><cite>Alattim Tokmak <span>&middot; Google review</span></cite></blockquote>
               <blockquote class="hero-review-slide"><p>&ldquo;Perfect service. Ready to help at 1 a.m. and there within 20 minutes. And at a good price too. Very satisfied!&rdquo;</p><cite>nabil Choukair <span>&middot; Google review</span></cite></blockquote>
