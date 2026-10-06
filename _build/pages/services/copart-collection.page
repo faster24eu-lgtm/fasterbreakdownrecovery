@@ -1,10 +1,11 @@
 title: Copart Collection &amp; Delivery UK | From £125 | Faster
-description: Bought a car at Copart? We collect it from any Copart UK yard, runner or non-runner, and deliver it to your home, garage, unit or port. Fast booking before storage fees start. Fixed price.
+description: Bought a car at Copart? We collect it from any Copart UK yard (Sandwich, Rochford, Sandy, Bristol, Sandtoft, Peterlee, Whitburn and more), runner or non-runner, and deliver it anywhere. Fixed price.
 og_title: Copart Collection &amp; Delivery Across the UK
 og_description: We collect vehicles from any Copart UK yard, runners and non-runners, and deliver them anywhere in the UK, for a fixed price.
 label: Copart Collection
 crumbs: Services|services/index.html
 nav: services
+tgroup: copart
 template: standard
 eyebrow: Copart collection &middot; UK-wide
 h1: Copart Collection &amp; Delivery Across the UK
@@ -26,6 +27,19 @@ cta_text: Send us the yard, the lot number, the vehicle and the delivery address
             <li><strong>Vans and light commercials</strong> up to 3.5 tonnes</li>
             <li><strong>Runners</strong> that you'd rather not drive home without insurance, tax or an MOT</li>
           </ul>
+
+          <h2>Copart yards we collect from</h2>
+          <p>We collect from every Copart UK yard, including:</p>
+          <ul>
+            <li><strong>South East:</strong> Sandwich (Kent), Rochford (Essex), Colchester (Dedham, Essex, off the A12)</li>
+            <li><strong>East of England:</strong> Wisbech (Cambridgeshire, on the A47), Sandy and Wootton (Bedfordshire, near the A1 and the M1)</li>
+            <li><strong>South and South West:</strong> Newbury (Greenham, Berkshire, near the M4 and A34), Westbury (Wiltshire), Bristol (Avonmouth, by the M5 and M49)</li>
+            <li><strong>Midlands and North West:</strong> Wolverhampton (Wombourne), Chester (Sandycroft, Deeside)</li>
+            <li><strong>North of England:</strong> Sandtoft (North Lincolnshire, near Doncaster and Scunthorpe), Peterlee (County Durham, near the A19)</li>
+            <li><strong>Scotland:</strong> Whitburn (West Lothian, near the M8)</li>
+            <li><strong>Northern Ireland:</strong> Belfast (Saintfield, County Down)</li>
+          </ul>
+          <p>Copart opens and expands yards regularly, so if yours isn't listed, just tell us which yard the lot is at.</p>
 
           <h2>What we need from you</h2>
           <ol>

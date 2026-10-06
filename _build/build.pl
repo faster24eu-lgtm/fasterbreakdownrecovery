@@ -101,8 +101,8 @@ my %FORM = (
 my %NAV_I18N = (
   fr => [['Accueil','fr/index.html'],['Douvres &amp; Eurotunnel','fr/douvres-folkestone-eurotunnel.html'],['M20','fr/m20.html'],['M25','fr/m25.html'],['Londres','fr/londres.html'],['En panne au R.-U. ?','fr/panne-au-royaume-uni.html']],
   nl => [['Home','nl/index.html'],['Dover &amp; Eurotunnel','nl/dover-folkestone-eurotunnel.html'],['M20','nl/m20.html'],['M25','nl/m25.html'],['Londen','nl/londen.html'],['Pech in Engeland?','nl/pech-in-engeland.html']],
-  pl => [['Strona główna','pl/index.html'],['Londyn','pl/londyn.html'],['Birmingham','pl/birmingham.html'],['Awaria w UK – co robić?','pl/awaria-w-uk.html']],
-  ro => [['Acasă','ro/index.html'],['Londra','ro/londra.html'],['Birmingham','ro/birmingham.html'],['Pană în UK – ce faci?','ro/pana-in-uk.html']],
+  pl => [['Strona główna','pl/index.html'],['Londyn','pl/londyn.html'],['Birmingham','pl/birmingham.html'],['Awaria w UK – co robić?','pl/awaria-w-uk.html'],['Odbiór z Copart','pl/copart.html']],
+  ro => [['Acasă','ro/index.html'],['Londra','ro/londra.html'],['Birmingham','ro/birmingham.html'],['Pană în UK – ce faci?','ro/pana-in-uk.html'],['Ridicare Copart','ro/copart.html']],
 );
 
 # ---------------------------------------------------------------- navigation
