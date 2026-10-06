@@ -94,12 +94,33 @@ nav: home
             <a class="btn btn--whatsapp btn--lg" href="{{WA_HREF}}" data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
             <a class="btn btn--outline btn--lg" href="#quote">Not stuck right now</a>
           </div>
-          <form class="precall" action="#" onsubmit="return false">
-            <p>Jot this down, then call. It stays on your screen.</p>
+          <form class="precall" id="precall" action="#" onsubmit="return false">
+            <p>Jot this down, then call or WhatsApp. It stays on your screen.</p>
             <input type="text" name="postcode" autocomplete="postal-code" placeholder="Postcode or location" aria-label="Postcode or location">
             <input type="text" name="vehicle" placeholder="Vehicle, e.g. 2016 Ford Focus" aria-label="Vehicle">
             <input type="text" name="what" placeholder="What happened" aria-label="What happened">
+            <a class="btn btn--whatsapp btn--lg" id="precall-wa" href="{{WA_HREF}}" data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp these details</a>
           </form>
+          <script>
+            (function () {
+              var form = document.getElementById('precall');
+              var link = document.getElementById('precall-wa');
+              if (!form || !link) return;
+              var base = 'https://wa.me/447988974609?text=';
+              function sync() {
+                var loc = form.postcode.value.trim();
+                var vehicle = form.vehicle.value.trim();
+                var what = form.what.value.trim();
+                var msg = 'Hi Faster Breakdown Recovery, I need help.'
+                  + (loc ? '\nLocation: ' + loc : '')
+                  + (vehicle ? '\nVehicle: ' + vehicle : '')
+                  + (what ? '\nWhat happened: ' + what : '');
+                link.href = base + encodeURIComponent(msg);
+              }
+              form.addEventListener('input', sync);
+              sync();
+            })();
+          </script>
           <ul class="hero__meta">
             <li><strong>From &pound;125</strong><span>Price agreed before we set off. You pay the operator for this job. No membership.</span></li>
             <li><strong>&plusmn; 30 min*</strong><span>Often possible for urgent call-outs</span></li>
@@ -240,226 +261,6 @@ nav: home
             <h3>The solution</h3>
             <p>We, or one of our trusted local recovery partners, come out and do exactly what we agreed: your vehicle goes home, to a garage or wherever you need it.</p>
           </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Stuck on the road / safety -->
-    <section class="section">
-      <div class="container two-col">
-        <div>
-          <span class="eyebrow">If you're stuck right now</span>
-          <h2>Safe first. Then Faster.</h2>
-          <p class="lede">Whatever's happened, your safety comes before the vehicle. A few basics make a real difference while you wait.</p>
-          <ul class="safety-steps">
-            <li class="safety-step">
-              <span class="safety-step__num" aria-hidden="true">1</span>
-              <p>Put your hazard lights on straight away, and a warning triangle behind the vehicle if you have one and it's safe to place it.</p>
-            </li>
-            <li class="safety-step">
-              <span class="safety-step__num" aria-hidden="true">2</span>
-              <p>If you're on a fast road or dual carriageway, get yourself and any passengers behind the barrier if it's safe to do so.</p>
-            </li>
-            <li class="safety-step">
-              <span class="safety-step__num" aria-hidden="true">3</span>
-              <p>Stay somewhere visible to passing traffic but well clear of live lanes — don't attempt roadside repairs in a moving-traffic lane.</p>
-            </li>
-            <li class="safety-step">
-              <span class="safety-step__num" aria-hidden="true">4</span>
-              <p>Call us with your exact location — a postcode, junction number or nearby landmark all help us reach you faster.</p>
-            </li>
-          </ul>
-        </div>
-        <aside class="side-panel">
-          <h2>Need help now?</h2>
-          <a class="btn btn--primary btn--block" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
-          <a class="btn btn--whatsapp btn--block" href="https://wa.me/447988974609?text=Hi%20Faster%20Breakdown%20Recovery%2C%20I%20need%20help%20with%20my%20vehicle." data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
-          <p class="text-muted" style="font-size:0.85rem;margin-top:1rem;margin-bottom:0;">Not an emergency? Use the quote form and we'll come back to you.</p>
-        </aside>
-      </div>
-    </section>
-
-    <!-- Real work / equipment -->
-    <section class="section">
-      <div class="container">
-        <div class="section-head">
-          <span class="eyebrow">Real work</span>
-          <h2>Real Recovery Equipment</h2>
-          <p>Real recovery vehicles and equipment — no stock fleet photos. Our recovery capability is built around practical vehicle transport and recovery work.</p>
-        </div>
-        <div class="gallery-grid gallery-grid--duo">
-          <figure class="gallery-tile">
-            <img
-              src="assets/images/gallery/recovery-truck-transporting-porsche-900w.jpg"
-              srcset="assets/images/gallery/recovery-truck-transporting-porsche-450w.jpg 450w, assets/images/gallery/recovery-truck-transporting-porsche-900w.jpg 900w"
-              sizes="(min-width: 640px) 50vw, 100vw"
-              width="900" height="675"
-              alt="Yellow vehicle recovery truck transporting a Porsche"
-              loading="lazy" decoding="async">
-            <figcaption class="gallery-tile__label">Vehicle transport</figcaption>
-          </figure>
-          <figure class="gallery-tile">
-            <img
-              src="assets/images/gallery/flatbed-recovery-truck-transporting-mini-towing-van-800w.jpg"
-              srcset="assets/images/gallery/flatbed-recovery-truck-transporting-mini-towing-van-800w.jpg 800w, assets/images/gallery/flatbed-recovery-truck-transporting-mini-towing-van-1600w.jpg 1600w"
-              sizes="(min-width: 640px) 33vw, 100vw"
-              width="800" height="600"
-              alt="Flatbed recovery truck transporting a Mini and towing a van"
-              loading="lazy" decoding="async">
-            <figcaption class="gallery-tile__label">On the road</figcaption>
-          </figure>
-        </div>
-      </div>
-    </section>
-
-    <!-- Who is Faster -->
-    <section class="section">
-      <div class="container two-col">
-        <div class="prose">
-          <span class="eyebrow">Who is Faster?</span>
-          <h2>A small team with one point of contact</h2>
-          <p>Faster is a small, personal operation. You deal with one point of contact from your first call until your vehicle is where it needs to be, so arrangements are clear and nothing gets lost between call centres and subcontractors.</p>
-          <blockquote class="owner-quote">
-            <p>&ldquo;With years of experience in the motor trade, I can judge a problem quickly and advise a solution that's right and affordable. By investing in good equipment and building a network of professional recovery partners, we can solve a lot of problems.&rdquo;</p>
-            <cite>Owner, Faster Breakdown Recovery</cite>
-          </blockquote>
-          <p class="owner-motto"><strong>&ldquo;There's a solution for every problem.&rdquo;</strong> Not every situation is easy, but a difficult job still has an answer.</p>
-        </div>
-        <aside class="side-panel">
-          <h2>Need help now?</h2>
-          <a class="btn btn--primary btn--block" href="{{PHONE_HREF}}" data-contact="phone-href">Call Now</a>
-          <a class="btn btn--whatsapp btn--block" href="{{WA_HREF}}" data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
-          <a class="btn btn--outline btn--block" href="#quote">Request a Quote</a>
-        </aside>
-      </div>
-    </section>
-
-    <!-- Why choose us -->
-    <section class="section section--alt">
-      <div class="container">
-        <div class="section-head section-head--center">
-          <span class="eyebrow">Why choose Faster</span>
-          <h2>Built Around Getting You Moving Again</h2>
-        </div>
-        <div class="reasons">
-          <div class="reason">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
-            <div>
-              <h3>Professional approach</h3>
-              <p>Recovery carried out with the right equipment and technique for your vehicle, not a one-size-fits-all tow.</p>
-            </div>
-          </div>
-          <div class="reason">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><circle cx="12" cy="12" r="9"/><polyline points="12 7 12 12 15.5 14"/></svg>
-            <div>
-              <h3>Responsive service</h3>
-              <p>We aim to reach you as quickly as conditions allow, keeping you updated from the moment you call.</p>
-            </div>
-          </div>
-          <div class="reason">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>
-            <div>
-              <h3>Transparent communication</h3>
-              <p>Clear information about timing and cost before we get to work — no vague promises or hidden surprises.</p>
-            </div>
-          </div>
-          <div class="reason">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><rect x="1" y="6" width="15" height="12" rx="2"/><path d="M16 10h4l3 3v3h-7z"/><circle cx="6" cy="20" r="2"/><circle cx="18" cy="20" r="2"/></svg>
-            <div>
-              <h3>Genuine recovery capability</h3>
-              <p>Suitable vehicles and equipment for cars, vans and light commercial vehicles.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Coverage -->
-    <section class="section section--alt" id="coverage">
-      <div class="container">
-        <div class="section-head">
-          <span class="eyebrow">Where we operate</span>
-          <h2>Where have you broken down?</h2>
-          <p>We cover the whole of the UK. Pick your city or motorway for local advice and what to do while you wait, or just call us with your location.</p>
-        </div>
-        <nav class="city-grid" aria-label="Cities we cover">
-          <a href="areas/london.html">London</a>
-          <a href="areas/birmingham.html">Birmingham</a>
-          <a href="areas/manchester.html">Manchester</a>
-          <a href="areas/leeds.html">Leeds</a>
-          <a href="areas/liverpool.html">Liverpool</a>
-          <a href="areas/bristol.html">Bristol</a>
-          <a href="areas/glasgow.html">Glasgow</a>
-          <a href="areas/edinburgh.html">Edinburgh</a>
-          <a href="areas/aberdeen.html">Aberdeen</a>
-          <a href="areas/cardiff.html">Cardiff</a>
-          <a href="areas/index.html" class="city-grid__all">All areas &rarr;</a>
-        </nav>
-        <h3 class="city-grid__title">On a motorway?</h3>
-        <nav class="city-grid city-grid--roads" aria-label="Motorways we cover">
-          <a href="routes/m1.html">M1</a>
-          <a href="routes/m4.html">M4</a>
-          <a href="routes/m5.html">M5</a>
-          <a href="routes/m6.html">M6</a>
-          <a href="routes/m8.html">M8</a>
-          <a href="routes/m25.html">M25</a>
-          <a href="routes/m62.html">M62</a>
-          <a href="routes/index.html" class="city-grid__all">All roads &rarr;</a>
-        </nav>
-        <h3 class="city-grid__title">Useful guides</h3>
-        <nav class="city-grid" aria-label="Guides">
-          <a href="guides/car-recovery-cost-uk.html">How much does recovery cost?</a>
-          <a href="guides/car-wont-start.html">Car won&rsquo;t start?</a>
-          <a href="guides/flat-battery-jump-start-or-recovery.html">Flat battery</a>
-          <a href="guides/wrong-fuel.html">Wrong fuel</a>
-          <a href="guides/after-a-car-accident.html">After an accident</a>
-          <a href="guides/smart-motorway-breakdown.html">Smart motorway breakdown</a>
-          <a href="guides/index.html" class="city-grid__all">All guides &rarr;</a>
-        </nav>
-      </div>
-    </section>
-
-    <!-- FAQ -->
-    <section class="section" id="faq">
-      <div class="container">
-        <div class="section-head section-head--center">
-          <span class="eyebrow">FAQ</span>
-          <h2>Answers before you call</h2>
-          <p>Practical information, without the marketing jargon.</p>
-        </div>
-        <div class="faq-list">
-          <details class="faq-item">
-            <summary>How quickly can you get to me?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
-            <p>For urgent call-outs we're often with you in around 30 minutes, because we send a local recovery truck rather than one from the other side of the country. It depends on your location, traffic and how busy it is, so we'll always give you an honest estimate before we book anything.</p>
-          </details>
-          <details class="faq-item">
-            <summary>Will I get a price upfront?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
-            <p>Yes. Local recovery starts from &pound;125. Tell us where the vehicle is, where it needs to go, the make and model and what's happened, and we can usually give you a fixed price straight away. See our guide: <a href="guides/car-recovery-cost-uk.html">how much does car recovery cost?</a></p>
-          </details>
-          <details class="faq-item">
-            <summary>When can the price change?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
-            <p>Only if the situation or the distance turns out to be clearly different from what was described to us. For example, the car is somewhere else, or it needs extra equipment we weren't told about.</p>
-          </details>
-          <details class="faq-item">
-            <summary>Can you take my car to a garage?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
-            <p>Yes. To a garage, your home, a dealer or any other address you choose, locally or long distance.</p>
-          </details>
-          <details class="faq-item">
-            <summary>Do you recover vans and light commercial vehicles?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
-            <p>Yes. Tell us the size of the van and roughly how heavily it's loaded, so the right recovery vehicle is sent.</p>
-          </details>
-          <details class="faq-item">
-            <summary>Can you help at night and at weekends?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
-            <p>Yes. Our phone and WhatsApp are answered 24 hours a day, every day, including bank holidays.</p>
-          </details>
-          <details class="faq-item">
-            <summary>What's the difference between breakdown recovery and roadside assistance?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
-            <p>Roadside assistance covers problems that can often be fixed on the spot, like a flat battery or a puncture. Breakdown recovery is for when the vehicle can't safely be driven and needs to be taken somewhere else. Tell us what's happened and we'll advise which you need.</p>
-          </details>
-          <details class="faq-item">
-            <summary>What should I do while I wait?<span class="icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg></span></summary>
-            <p>Hazard lights on and stay safe: behind the barrier on a fast road, or well away from traffic on a quieter one. On a motorway, read our guide to <a href="guides/smart-motorway-breakdown.html">breaking down on a smart motorway</a>. Keep your phone charged so we can reach you.</p>
-          </details>
         </div>
       </div>
     </section>
