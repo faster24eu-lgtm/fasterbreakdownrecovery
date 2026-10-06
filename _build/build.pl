@@ -48,7 +48,7 @@ my %LOCALE = (en => 'en_GB', fr => 'fr_FR', nl => 'nl_NL', pl => 'pl_PL', ro => 
 my %HOME = (en => 'index.html', fr => 'fr/index.html', nl => 'nl/index.html', pl => 'pl/index.html', ro => 'ro/index.html');
 my %L = (
   en => { call => 'Call Now', wa => 'WhatsApp Us', quote => 'Request a Quote', getquote => 'Get a Quote', home => 'Home',
-          sub => '24/7 recovery across the UK', fab => 'Call now — fast help', badge => 'price-badge-125-gbp.svg', badge_alt => 'From £125',
+          sub => '24/7 recovery', fab => 'Call now — fast help', badge => 'price-badge-125-gbp.svg', badge_alt => 'From £125',
           faq => 'Frequently Asked Questions', q => 'Questions', related => 'Related', related_title => 'Related Pages',
           side => 'Need recovery now?', cta => 'Broken Down Right Now?', cta_text => 'Call or WhatsApp us with your location and we&rsquo;ll arrange recovery to you.',
           tagline => '24/7 breakdown and vehicle recovery across England, Scotland, Wales and Northern Ireland.',
