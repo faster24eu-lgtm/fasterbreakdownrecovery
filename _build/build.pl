@@ -635,7 +635,32 @@ sub add_nearby {
   if ($p->{kind} eq 'area') {
     my ($nation) = split /\s*>\s*/, $p->{region} // '';
     @a = grep { ($_->{region} // '') eq ($p->{region} // '') } @areas;
-    # too few in the same region: add major cities, same nation first
+    # geographic neighbours for the big cities
+    my %near = (
+      London => [qw(Southampton Coventry Birmingham Bristol)],
+      Birmingham => [qw(Coventry Leicester Nottingham Manchester)],
+      Manchester => [qw(Liverpool Leeds Bradford Sheffield)],
+      Leeds => [qw(Bradford Sheffield Hull Manchester)],
+      Liverpool => [qw(Manchester Leeds Birmingham)],
+      Bristol => [qw(Cardiff Plymouth Southampton Birmingham)],
+      Glasgow => [qw(Edinburgh Aberdeen Belfast)],
+      Edinburgh => [qw(Glasgow Aberdeen Newcastle)],
+      Cardiff => [qw(Bristol Plymouth Birmingham)],
+      Aberdeen => [qw(Edinburgh Glasgow)],
+      Belfast => [qw(Glasgow Liverpool Edinburgh)],
+      Newcastle => [qw(Leeds Edinburgh Hull)],
+      Sheffield => [qw(Leeds Nottingham Manchester Bradford)],
+      Nottingham => [qw(Leicester Sheffield Birmingham Coventry)],
+      Leicester => [qw(Nottingham Coventry Birmingham)],
+      Southampton => [qw(London Bristol Plymouth)],
+      Coventry => [qw(Birmingham Leicester Nottingham)],
+      Bradford => [qw(Leeds Manchester Sheffield)],
+      Hull => [qw(Leeds Sheffield Newcastle)],
+      Plymouth => [qw(Bristol Cardiff Southampton)],
+    );
+    my %by_label = map { $_->{label} => $_ } @areas;
+    for my $n (@{ $near{$p->{label}} // [] }) { push @a, $by_label{$n} if $by_label{$n} && !grep { $_ == $by_label{$n} } @a }
+    # still too few: add major cities, same nation first
     my %major = map { $_ => 1 } qw(London Birmingham Manchester Leeds Liverpool Bristol Glasgow Edinburgh Cardiff Aberdeen Belfast Newcastle Sheffield Nottingham Leicester Southampton Coventry Bradford Hull Plymouth);
     my @maj = grep { $major{$_->{label}} } @areas;
     my $add = sub { for my $x (@_) { push @a, $x unless grep { $_ == $x } @a } };
