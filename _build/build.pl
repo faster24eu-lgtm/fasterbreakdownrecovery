@@ -636,7 +636,7 @@ sub add_nearby {
     my ($nation) = split /\s*>\s*/, $p->{region} // '';
     @a = grep { ($_->{region} // '') eq ($p->{region} // '') } @areas;
     # too few in the same region: add major cities, same nation first
-    my %major = map { $_ => 1 } qw(London Birmingham Manchester Leeds Liverpool Bristol Glasgow Edinburgh Cardiff Aberdeen);
+    my %major = map { $_ => 1 } qw(London Birmingham Manchester Leeds Liverpool Bristol Glasgow Edinburgh Cardiff Aberdeen Belfast Newcastle Sheffield Nottingham Leicester Southampton Coventry Bradford Hull Plymouth);
     my @maj = grep { $major{$_->{label}} } @areas;
     my $add = sub { for my $x (@_) { push @a, $x unless grep { $_ == $x } @a } };
     $add->(grep { (split /\s*>\s*/, $_->{region} // '')[0] eq $nation } @maj) if @a < 3;
