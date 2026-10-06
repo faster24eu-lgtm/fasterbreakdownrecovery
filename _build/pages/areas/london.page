@@ -6,6 +6,7 @@ label: London
 card: Central London, the North and South Circular, red routes and the M25
 crumbs: Areas Covered|areas/index.html
 nav: areas
+tgroup: london
 kind: area
 region: England > London
 template: standard

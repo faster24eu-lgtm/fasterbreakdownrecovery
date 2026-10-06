@@ -7,6 +7,7 @@ short: M25
 card: The London Orbital: Dartford, Heathrow, Watford, South Mimms and Clacket Lane
 crumbs: Motorways &amp; Roads|routes/index.html
 nav: routes
+tgroup: m25
 kind: route
 region: Motorways
 sort: 25
