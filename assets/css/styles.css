@@ -2057,14 +2057,16 @@ summary:focus-visible {
 @media(min-width:640px){.gallery-grid--duo{grid-template-columns:1fr 1fr}}
 .gallery-grid--duo .gallery-tile img{aspect-ratio:4/3;width:100%;height:auto;object-fit:cover}
 
-/* Mobile floating call button + price badge (same as takeldienstfaster.be) */
+/* Mobile full-width call bar. Price badge hidden so the call is the only fixed action. */
 .call-fab,.price-badge{display:none}
+.footer-legal-line{margin:0.75rem 0 0;font-size:0.8rem;line-height:1.45;color:var(--color-text-faint)}
+.footer-legal-line a{color:inherit;text-decoration:underline}
 @media(max-width:640px){
   .mobile-call-bar{display:none}
-  .page-bottom-spacer{height:110px}
-  .price-badge{display:block;position:fixed;right:14px;bottom:calc(14px + env(safe-area-inset-bottom,0px));z-index:90;width:92px;height:92px;filter:drop-shadow(0 3px 8px rgba(0,0,0,.35));-webkit-tap-highlight-color:transparent}
-  .price-badge img{display:block;width:100%;height:100%}
-  .call-fab{display:flex;align-items:center;justify-content:center;gap:8px;position:fixed;right:116px;bottom:calc(34px + env(safe-area-inset-bottom,0px));z-index:90;max-width:calc(100vw - 130px);min-height:52px;padding:8px 14px;background:#ffe600;color:#111;border-radius:16px;font:900 clamp(12px,3.5vw,15px)/1.1 "Arial Black",Arial,Helvetica,sans-serif;text-transform:uppercase;text-align:center;text-decoration:none;box-shadow:0 3px 10px rgba(0,0,0,.35);-webkit-tap-highlight-color:transparent}
-  .call-fab svg{flex:none;width:20px;height:20px}
+  .page-bottom-spacer{height:84px}
+  .price-badge{display:none}
+  .call-fab{display:flex;align-items:center;justify-content:center;gap:10px;position:fixed;left:0;right:0;bottom:0;z-index:100;width:100%;max-width:none;min-height:64px;padding:14px 16px calc(14px + env(safe-area-inset-bottom,0px));background:#ffe600;color:#111;border-radius:0;font:900 18px/1 "Arial Black",Arial,Helvetica,sans-serif;letter-spacing:0.02em;text-transform:uppercase;text-align:center;text-decoration:none;box-shadow:0 -2px 12px rgba(0,0,0,.28);-webkit-tap-highlight-color:transparent}
+  .call-fab svg{flex:none;width:22px;height:22px}
 }
+
 .offer-line{display:inline-block;margin:var(--space-2) 0 0;padding:0.45rem 0.8rem;background:#fff8e1;border-left:4px solid var(--color-primary);font-size:0.95rem;color:var(--color-text)}

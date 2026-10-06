@@ -99,20 +99,6 @@ nav: home
             <li><strong>24/7</strong><span>Local recovery, day and night</span></li>
           </ul>
           <p class="hero__footnote">*Arrival time depends on your location, traffic and how busy it is. We'll always give you an honest estimate when you call.</p>
-          <div class="hero-review" role="region" aria-roledescription="carousel" aria-label="Google reviews from customers">
-            <div class="hero-review-head"><div class="stars" aria-label="5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><small>Real Google reviews</small></div>
-            <div class="hero-review-track">
-              <blockquote class="hero-review-slide is-active"><p>&ldquo;Very satisfied, they were there within 15 minutes and the price was simply great!!! Definitely recommended!!!&rdquo;</p><cite>Alattim Tokmak <span>&middot; Google review</span></cite></blockquote>
-              <blockquote class="hero-review-slide"><p>&ldquo;Perfect service. Ready to help at 1 a.m. and there within 20 minutes. And at a good price too. Very satisfied!&rdquo;</p><cite>nabil Choukair <span>&middot; Google review</span></cite></blockquote>
-              <blockquote class="hero-review-slide"><p>&ldquo;Someone who knows the job well, very friendly driver, professional help. Thanks for being so quick 👍&rdquo;</p><cite>Karen Vardanyan <span>&middot; Google review</span></cite></blockquote>
-              <blockquote class="hero-review-slide"><p>&ldquo;Very professional. I will always recommend.&rdquo;</p><cite>ibrahim lucky <span>&middot; Google review</span></cite></blockquote>
-              <blockquote class="hero-review-slide"><p>&ldquo;I was stuck on the motorway and it was very dangerous with my wife and children. He was there very quickly and was the cheapest available at that moment. Many thanks.&rdquo;</p><cite>Marko Gheis <span>&middot; Google review</span></cite></blockquote>
-              <blockquote class="hero-review-slide"><p>&ldquo;Turned up super fast and the price was exactly as agreed, no messing about.&rdquo;</p><cite>TheRealM <span>&middot; Google review</span></cite></blockquote>
-              <blockquote class="hero-review-slide"><p>&ldquo;Very satisfied, very good service.&rdquo;</p><cite>Chayden Van Harneveldt <span>&middot; Google review</span></cite></blockquote>
-            </div>
-            <div class="hero-review-dots"></div>
-          </div>
-        </div>
         <figure class="hero__photo">
           <img src="assets/images/gallery/recovery-truck-workshop-interior-700w.jpg"
                srcset="assets/images/gallery/recovery-truck-workshop-interior-350w.jpg 350w, assets/images/gallery/recovery-truck-workshop-interior-700w.jpg 700w"
@@ -346,34 +332,6 @@ nav: home
           <a class="btn btn--whatsapp btn--block" href="{{WA_HREF}}" data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
           <a class="btn btn--outline btn--block" href="#quote">Request a Quote</a>
         </aside>
-      </div>
-    </section>
-
-    <!-- Reviews -->
-    <section class="section" id="reviews">
-      <div class="container">
-        <div class="section-head">
-          <span class="eyebrow">Customer reviews</span>
-          <h2>What our customers say</h2>
-        </div>
-        <div class="review-grid">
-          <article class="review-card review-featured-1"><div class="stars" aria-label="5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p>&ldquo;Very satisfied, they were there within 15 minutes and the price was simply great!!! Definitely recommended!!!&rdquo;</p><div class="review-name">Alattim Tokmak</div><div class="review-source">Google review</div></article>
-          <article class="review-card review-featured-2"><div class="stars" aria-label="5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p>&ldquo;Perfect service. Ready to help at 1 a.m. and there within 20 minutes. And at a good price too. Very satisfied!&rdquo;</p><div class="review-name">nabil Choukair</div><div class="review-source">Google review</div></article>
-          <article class="review-card"><div class="stars" aria-label="5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p>&ldquo;Top service&rdquo;</p><div class="review-name">Roy Verschueren</div><div class="review-source">Google review</div></article>
-          <article class="review-card"><div class="stars" aria-label="5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p>&ldquo;Good service 👍🏾&rdquo;</p><div class="review-name">Charles Belo</div><div class="review-source">Google review</div></article>
-          <article class="review-card"><div class="stars" aria-label="5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p>&ldquo;I was helped absolutely perfectly by an extremely friendly and pleasant driver when my car was towed. Dispatch organised everything very well and the price was reasonable too. I'm really happy with it.&rdquo;</p><div class="review-name">Вит Ше</div><div class="review-source">Google review</div></article>
-          <article class="review-card"><div class="stars" aria-label="5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p>&ldquo;Absolutely amazing service!!! I was stuck with my girlfriend after a big rabbit hit my bumper and the coolant leaked out in the middle of a forest. The fastest way to get my Audi A5 to a repair shop and us to the hotel was with these guys. Very kind and professional, they took us to the hotel too, and the price was very reasonable considering the time. Thank you🫶&rdquo;</p><div class="review-name">Nimkee</div><div class="review-source">Google review</div></article>
-          <article class="review-card"><div class="stars" aria-label="5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p>&ldquo;Wow, super good service! Really quick to arrive and everything was handled very professionally. I had to call them at night and they were there immediately, a real weight off my mind. The car was towed very carefully and safely without a scratch. It's amazing that these guys are ready to help 24/7. Big thanks to the team, highly recommended if you get stuck!&rdquo;</p><div class="review-name">Mohammed Al-Khyat (Alkhyat)</div><div class="review-source">Google review</div></article>
-          <article class="review-card"><div class="stars" aria-label="5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p>&ldquo;Excellent service very friendly driver thank you so much&rdquo;</p><div class="review-name">stephen cook</div><div class="review-source">Google review</div></article>
-          <article class="review-card"><div class="stars" aria-label="5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p>&ldquo;Super fast service and very friendly!&rdquo;</p><div class="review-name">Michael Van den Elsken</div><div class="review-source">Google review</div></article>
-          <article class="review-card"><div class="stars" aria-label="5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p>&ldquo;Top service! These people are very fair and correct. We're very satisfied!&rdquo;</p><div class="review-name">Tom Apers</div><div class="review-source">Google review</div></article>
-          <article class="review-card"><div class="stars" aria-label="5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p>&ldquo;Someone who knows the job well, very friendly driver, professional help. Thanks for being so quick 👍&rdquo;</p><div class="review-name">Karen Vardanyan</div><div class="review-source">Google review</div></article>
-          <article class="review-card"><div class="stars" aria-label="5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p>&ldquo;Very professional. I will always recommend.&rdquo;</p><div class="review-name">ibrahim lucky</div><div class="review-source">Google review</div></article>
-          <article class="review-card"><div class="stars" aria-label="5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p>&ldquo;I was stuck on the motorway and it was very dangerous with my wife and children. He was there very quickly and was the cheapest available at that moment. Many thanks.&rdquo;</p><div class="review-name">Marko Gheis</div><div class="review-source">Google review</div></article>
-          <article class="review-card"><div class="stars" aria-label="5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p>&ldquo;Turned up super fast and the price was exactly as agreed, no messing about.&rdquo;</p><div class="review-name">TheRealM</div><div class="review-source">Google review</div></article>
-          <article class="review-card"><div class="stars" aria-label="5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div><p>&ldquo;Very satisfied, very good service.&rdquo;</p><div class="review-name">Chayden Van Harneveldt</div><div class="review-source">Google review</div></article>
-        </div>
-        <p class="review-note">Real Google reviews of Faster. Reviews originally written in Dutch have been translated.</p>
       </div>
     </section>
 
