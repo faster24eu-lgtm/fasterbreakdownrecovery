@@ -1908,8 +1908,9 @@ summary:focus-visible {
   display: block;
   width: 100%;
   height: auto;
-  aspect-ratio: 4 / 3;
+  aspect-ratio: 4 / 5;
   object-fit: cover;
+  object-position: 35% 70%;
 }
 .hero__photo figcaption {
   position: absolute;
@@ -2051,3 +2052,7 @@ summary:focus-visible {
 .hero-inner:not(.hero-inner--solo) .hero__actions{margin-bottom:var(--space-6)}
 .gallery-tile img{object-fit:cover}
 .hero__footnote{font-size:0.78rem;color:var(--color-text-faint);margin:var(--space-3) 0 0}
+@media (max-width: 859px){.hero__photo img{aspect-ratio:4/3;object-position:30% 65%}}
+.gallery-grid--duo{grid-template-columns:1fr;max-width:none}
+@media(min-width:640px){.gallery-grid--duo{grid-template-columns:1fr 1fr}}
+.gallery-grid--duo .gallery-tile img{aspect-ratio:4/3;width:100%;height:auto;object-fit:cover}
