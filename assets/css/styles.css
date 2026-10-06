@@ -2067,3 +2067,4 @@ summary:focus-visible {
   .call-fab{display:flex;align-items:center;justify-content:center;gap:8px;position:fixed;right:116px;bottom:calc(34px + env(safe-area-inset-bottom,0px));z-index:90;max-width:calc(100vw - 130px);min-height:52px;padding:8px 14px;background:#ffe600;color:#111;border-radius:16px;font:900 clamp(12px,3.5vw,15px)/1.1 "Arial Black",Arial,Helvetica,sans-serif;text-transform:uppercase;text-align:center;text-decoration:none;box-shadow:0 3px 10px rgba(0,0,0,.35);-webkit-tap-highlight-color:transparent}
   .call-fab svg{flex:none;width:20px;height:20px}
 }
+.offer-line{display:inline-block;margin:var(--space-2) 0 0;padding:0.45rem 0.8rem;background:#fff8e1;border-left:4px solid var(--color-primary);font-size:0.95rem;color:var(--color-text)}

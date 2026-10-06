@@ -275,7 +275,12 @@ sub page {
   $head =~ s/\n+$//;
   my $main = fill($p->{main}, $R, $lang);
   $main = add_nearby($p, $main, $R) if $lang eq 'en' && ($p->{kind} // '') =~ /^(area|route)$/;
-  $head = schema_local($p, $canon) . $head if $p->{schema_area};
+  if ($p->{schema_area}) {
+    $head = schema_local($p, $canon) . $head;
+    # structured data must match visible content: show the offer under the lede
+    $main =~ s{(<p class="page-hero__lede">.*?</p>)}{$1\n        <p class="offer-line"><strong>From &pound;125</strong> &middot; 24/7 &middot; often with you in about 30 minutes (depends on location and traffic)</p>}s
+      unless $main =~ /offer-line/;
+  }
   $main =~ s/\n+$//;
 
   return <<"HTML";
@@ -622,7 +627,7 @@ sub schema_local {
 sub add_nearby {
   my ($p, $main, $R) = @_;
   my $text = join ' ', map { $_ // '' } @{$p}{qw(card lede body main)};
-  my @en = grep { $_->{lang} eq 'en' && $_->{path} ne $p->{path} } values %P;
+  my @en = grep { $_->{lang} eq 'en' && $_->{path} ne $p->{path} && ($_->{robots} // '') !~ /noindex/ } values %P;
   my @areas  = sort { $a->{label} cmp $b->{label} } grep { ($_->{kind} // '') eq 'area' } @en;
   my @routes = sort { ($a->{sort} // $a->{label}) cmp ($b->{sort} // $b->{label}) } grep { ($_->{kind} // '') eq 'route' } @en;
   my $mentions = sub { my ($hay, $name) = @_; $hay =~ /\b\Q$name\E\b/ };
@@ -670,6 +675,7 @@ sub index_list {
   my %g;
   for my $p (values %P) {
     next unless ($p->{kind} // '') eq $kind;
+    next if ($p->{robots} // '') =~ /noindex/;
     push @{ $g{ $p->{region} // 'Other' } }, $p;
   }
   my $out = '';
