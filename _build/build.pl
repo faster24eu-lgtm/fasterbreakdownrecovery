@@ -114,6 +114,7 @@ my @NAV = (
      ['Accident recovery',   'services/accident-recovery.html'],
      ['Roadside assistance', 'services/roadside-assistance.html'],
      ['Car transport',       'services/car-transport.html'],
+     ['Copart collection',   'services/copart-collection.html'],
      ['Repatriation to the UK', 'repatriation/index.html'],
      ['All services',        'services/index.html'],
   ]],

@@ -20,7 +20,7 @@ cta_text: Send us the collection and delivery addresses, the vehicle and your pr
 
           <h2>What people use it for</h2>
           <ul>
-            <li><strong>Auction and online purchases:</strong> collected from the auction house, dealer or private seller and delivered to your door.</li>
+            <li><strong>Auction and online purchases:</strong> collected from the auction house, dealer or private seller and delivered to your door. Bought at a salvage auction? See <a href="{{R}}services/copart-collection.html">Copart collection</a>.</li>
             <li><strong>Selling a car:</strong> delivering it to a buyer anywhere in the UK.</li>
             <li><strong>Non-runners and projects:</strong> cars that don't run, have no MOT or are being restored.</li>
             <li><strong>Classic and prestige cars:</strong> moved without adding miles or risk.</li>
