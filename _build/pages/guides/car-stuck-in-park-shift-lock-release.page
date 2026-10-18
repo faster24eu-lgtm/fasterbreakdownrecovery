@@ -1,0 +1,127 @@
+title: Car Stuck in Park? Shift Lock Release & Neutral Override by Make | Faster
+description: Automatic stuck in Park with a flat battery? How the shift lock release works, where the neutral override is on each make, vans included, and what tow drivers do when there isn't one.
+og_title: Car Stuck in Park? Shift Lock Release by Make
+og_description: How to get an automatic into neutral with a dead battery: the override on each make, vans, robotised gearboxes and Tesla.
+label: Car Stuck in Park? Shift Lock Release by Make
+short: Car stuck in Park: shift lock release
+card: How to get an automatic into neutral with a dead battery
+crumbs: Guides|guides/index.html
+nav: guides
+kind: guide
+region: Breakdown guides
+sort: 06
+template: standard
+eyebrow: Guide
+h1: Car Stuck in Park? How to Get an Automatic Into Neutral
+lede: Flat battery, gear selector stuck in P, and the car won't move an inch? Most automatics have a hidden override, but where it is varies by make, and plenty of garages don't know. This is what our recovery drivers actually do, make by make.
+side_title: Stuck in Park now?
+side_links: Flat battery: jump start or recovery?|guides/flat-battery-jump-start-or-recovery.html ; Tesla tow mode|guides/tesla-tow-mode.html ; Kia and Hyundai shift lock release|guides/kia-hyundai-shift-lock-release.html ; Van recovery|services/van-recovery.html
+faq_title: Car Stuck in Park FAQs
+cta_title: Car Stuck in Park Right Now?
+===BODY===
+          <p><strong>In short:</strong> try a jump start first. With power, almost every automatic goes into N normally. Without power, you need a mechanical override: on many cars a small slot next to the gear selector, on Jaguar and Land Rover a lever in the centre console or engine bay. Cars with a purely electronic selector or a robotised gearbox have no mechanical override, so the car is loaded onto skates (dollies) instead.</p>
+
+          <h2>Safety first</h2>
+          <p>As soon as the park lock is released, the car can roll, even on ground that looks flat. Before using any override:</p>
+          <ul>
+            <li><strong>Chock the wheels</strong> front and back.</li>
+            <li><strong>Apply the parking brake</strong> if it still works, or have someone hold the brake pedal.</li>
+            <li><strong>Nobody stands in front of or behind the car</strong> while it is released.</li>
+            <li><strong>Use the override only to load or reposition the car,</strong> not to tow it along the road.</li>
+            <li><strong>Reset it afterwards,</strong> so Park works again.</li>
+          </ul>
+
+          <h2>Why the selector is stuck in P</h2>
+          <p>In Park, a pawl inside the gearbox locks the driven wheels. To stop anyone knocking it out of Park by accident, the selector only releases when the ignition is on and the brake pedal sends an electrical signal. This is the shift lock. With a flat battery there's no signal, so the lever stays in P. Many newer cars with a rotary dial, push buttons, a small toggle or a column stalk have no mechanical link to the gearbox at all.</p>
+
+          <h2>Step 1: try power first</h2>
+          <p>The easiest override is a charged battery. Jump start the car with leads or a booster pack, switch the ignition on, press the brake and select N. On many cars N only holds while the ignition stays on. See <a href="{{R}}guides/flat-battery-jump-start-or-recovery.html">flat battery: jump start or recovery?</a></p>
+
+          <h2>The four types of override</h2>
+          <h3>1. Shift lock release slot next to the selector</h3>
+          <p>On many cars with a traditional lever there's a small cover next to or below the selector, often marked "Shift Lock".</p>
+          <ol>
+            <li>Chock the wheels and hold the brake.</li>
+            <li>Prise off the small cover with the key blade or a thin flat screwdriver.</li>
+            <li>Push the key or screwdriver down into the slot.</li>
+            <li>Keep pressing, press the brake pedal and move the selector to N.</li>
+            <li>Refit the cover once the car is loaded.</li>
+          </ol>
+          <h3>2. Release lever or cable (Jaguar, Land Rover)</h3>
+          <p>Jaguar and Land Rover use a separate release lever. Depending on the model it's under a trim panel in the centre console, under the cupholder, or in the engine bay. Usually you turn a lock through 90 degrees and pull the lever up until it latches. Details are in the table below.</p>
+          <h3>3. Electronic selector with no mechanical link</h3>
+          <p>Toggles, rotary dials, buttons and column stalks only talk to the gearbox electronically. Without power there's no override a driver can use, so it's a jump start or skates.</p>
+          <h3>4. Robotised (automated manual) gearboxes</h3>
+          <p>A robotised gearbox is a manual gearbox with motors doing the clutch and gear changes. With no power it often stays in the last gear selected. Examples: Fiat Dualogic and Comfort-Matic, older Smart, Citroën and Peugeot ETG or EGS, Renault Quickshift. N is only possible with power, otherwise skates.</p>
+
+          <h2>Neutral override by make: cars</h2>
+          <table>
+            <thead><tr><th>Make and model</th><th>How to get it into N</th></tr></thead>
+            <tbody>
+              <tr><td>Jaguar XF all-wheel drive</td><td>Cable in the engine bay, left side of the engine, under the engine cover. Fit the release tool from the boot floor, turn the lock 90° anticlockwise, pull the lever up until it latches.</td></tr>
+              <tr><td>Jaguar XF rear-wheel drive, F-Type, XJ</td><td>Lever in the centre console under a trim panel in the cubby box, or between the cupholder and armrest. Turn the lock 90°, pull the lever up until it latches.</td></tr>
+              <tr><td>Land Rover Discovery Sport</td><td>Lever in the engine bay under the air filter box. Remove the air filter, turn the lever anticlockwise to the forward position and lock it with a 5 mm pin (Allen key or drill bit).</td></tr>
+              <tr><td>Range Rover Evoque, Velar</td><td>In our drivers' experience, also in the engine bay under the cover, similar to the Discovery Sport. Check the handbook for the exact spot.</td></tr>
+              <tr><td>Range Rover, Range Rover Sport (about 2013–2022)</td><td>According to our drivers, in one of two places depending on the model: under the cupholder in the centre console (remove the cupholder base, turn the lock 90°, pull the lever up until it latches), or in the engine bay under the air filter. Check the cupholder first.</td></tr>
+              <tr><td>Other Land Rover and Range Rover models</td><td>Often a lever in the engine bay under the air filter box. Exact location in the handbook, "vehicle recovery" section.</td></tr>
+              <tr><td>Volvo with a traditional lever (e.g. V40, V70)</td><td>Key-blade slot in the centre console compartment, under the rubber mat or tray insert. Dual-clutch models: transport on a flatbed only.</td></tr>
+              <tr><td>Tesla</td><td>Tow Mode on the touchscreen, needs 12 V power. No power: skates. See <a href="{{R}}guides/tesla-tow-mode.html">Tesla tow mode</a>.</td></tr>
+              <tr><td>Toyota, Lexus, Honda, Nissan, Mazda, Suzuki, Mitsubishi, Subaru with a traditional lever</td><td>Small "Shift Lock" cover next to the selector: prise it off, press down in the slot with the key or a flat screwdriver, hold the brake, move to N.</td></tr>
+              <tr><td>Kia, Hyundai</td><td>Same principle with a traditional lever. See <a href="{{R}}guides/kia-hyundai-shift-lock-release.html">Kia and Hyundai shift lock release</a>.</td></tr>
+              <tr><td>VW, Audi, Škoda, SEAT, Cupra with a traditional lever</td><td>On many DSG models, a yellow release lever under the selector trim or gaiter. Models with a small toggle, such as the Golf 8 or the ID range: power only.</td></tr>
+              <tr><td>Mercedes-Benz</td><td>Older models with a console lever often have a release at the selector. DIRECT SELECT on the steering column: no mechanical override, power only, otherwise skates. Mercedes recommends transport rather than towing.</td></tr>
+              <tr><td>BMW, Mini</td><td>Older models with a mechanical lever: cover at the base of the selector with a release slot underneath. Newer models with the 8-speed automatic (from about 2010): mechanical release on the gearbox underneath. Lift the car, remove the undertray and turn the release screw with an Allen key. A job for the recovery operator or garage.</td></tr>
+              <tr><td>Ford, Vauxhall</td><td>Older models with a lever: cover at the selector with a release underneath. Rotary dial: power only.</td></tr>
+              <tr><td>Peugeot, Citroën, DS, Vauxhall with a toggle (EAT8)</td><td>Fully electronic, no mechanical override. Without power the wheels stay locked in P: jump start, otherwise skates.</td></tr>
+              <tr><td>Renault, Dacia</td><td>With a lever: usually a release under the gaiter or trim. Electronic selector: power only.</td></tr>
+              <tr><td>Fiat, Smart, Citroën, Peugeot with a robotised gearbox</td><td>Often stay in gear without power. Jump start, otherwise skates.</td></tr>
+              <tr><td>Electric cars (e.g. MG, BYD, Polestar, Hyundai Ioniq, Kia EV, VW ID)</td><td>Usually a tow or transport mode on the screen that needs 12 V power. No power: skates.</td></tr>
+            </tbody>
+          </table>
+          <p>Models and years vary a lot. If you're not sure, check the handbook under towing, recovery or breakdown, or call us.</p>
+
+          <h2>Vans</h2>
+          <p>Most vans have a manual gearbox, so neutral is no problem. For automatics and robotised gearboxes:</p>
+          <table>
+            <thead><tr><th>Van</th><th>How to get it into N</th></tr></thead>
+            <tbody>
+              <tr><td>Mercedes Sprinter automatic (about 2009–2015)</td><td>Prise out the round cover just below the selector knob with a screwdriver, push the key into the opening and move the selector to N.</td></tr>
+              <tr><td>Mercedes Sprinter from 2018, Vito, V-Class</td><td>Selector on the steering column, electronic: power only, otherwise skates.</td></tr>
+              <tr><td>VW Transporter T5, T6 with DSG</td><td>Yellow release lever under the selector trim.</td></tr>
+              <tr><td>Iveco Daily automatic (Hi-Matic)</td><td>Release in the floor to the right of the seat. Lift off the cover by hand and pull the lever back.</td></tr>
+              <tr><td>Fiat Ducato, Peugeot Boxer, Citroën Relay with Comfort-Matic</td><td>Robotised gearbox: often stays in gear without power. Jump start, otherwise skates.</td></tr>
+              <tr><td>Fiat Ducato, Peugeot Boxer, Citroën Relay with the 9-speed automatic</td><td>Electronic selector: power only.</td></tr>
+              <tr><td>Renault Master, Trafic with Quickshift</td><td>Robotised gearbox: power only, otherwise skates.</td></tr>
+              <tr><td>Ford Transit, VW Crafter, MAN TGE, Renault Master, Vauxhall Movano automatic</td><td>Varies by year; newer ones are mostly electronic. Check the handbook, otherwise skates.</td></tr>
+            </tbody>
+          </table>
+          <p>Heavier vans and loads: see <a href="{{R}}services/van-recovery.html">van recovery</a>.</p>
+
+          <h2>Electric parking brake: can it be released?</h2>
+          <p>An electric parking brake also needs power to release. Some early systems had a mechanical emergency release, for example in the centre console or the boot. Newer cars have no release a driver can use, so the car goes on skates. Garages can open the brake with a diagnostic tool or directly at the motor, but that isn't a roadside job.</p>
+
+          <h2>When nothing moves: skates and lifting</h2>
+          <p>If the car won't go into N and the parking brake won't release, we use skates (dollies). They slide under the locked wheels so the car rolls even though the wheels don't turn. In tight spots like underground car parks, or after an accident, we lift the car instead. For some BMW and Mercedes models there's also a freewheel tool that bolts to the wheel hub and lets the car roll at walking pace with the gearbox locked. Never drag a car on locked wheels, it damages tyres, gearbox and drivetrain.</p>
+
+          <h2>Tips from our recovery drivers</h2>
+          <ul>
+            <li>The override is often missing from the handbook or very well hidden. On Jaguar and Land Rover, look under "vehicle recovery".</li>
+            <li>People look for the Jaguar release in the centre console, but on all-wheel-drive models it's in the engine bay.</li>
+            <li>On a Range Rover Sport hardly anyone spots the lever under the cupholder. Take the rubber base out first. If it isn't there, it's in the engine bay under the air filter.</li>
+            <li>If nothing works, skates are faster and kinder to the car than forcing anything.</li>
+          </ul>
+===FAQ===
+Q: How do I get an automatic into neutral with a dead battery?
+A: Use the mechanical override if the car has one: usually a small slot next to the selector, or on Jaguar and Land Rover a lever in the centre console or engine bay. Often a jump start is easier, then the selector works normally.
+Q: Why won't my gear selector come out of Park?
+A: The selector only releases when the ignition and brake pedal send an electrical signal. A flat battery or a faulty brake light switch stops that, so it stays in P.
+Q: Where is the shift lock release?
+A: On many cars, under a small cover next to or below the selector, sometimes marked "Shift Lock". The exact spot is in the handbook.
+Q: Does every automatic have a shift lock release?
+A: No. Many newer cars with an electronic selector, rotary dial or column stalk have no mechanical override. Then N only works with power.
+Q: Can I tow an automatic once it is in neutral?
+A: Only if the manufacturer allows it, and only short and slow. The override is mainly meant for loading. A flatbed is always the safer choice.
+Q: What are car skates or dollies?
+A: Small wheeled trolleys that slide under locked wheels, so a car can be moved and loaded even when the gearbox or parking brake is locked.
+Q: Do I need to reset the override afterwards?
+A: Yes. Otherwise Park won't hold and the car can roll away. On a Jaguar, for example, return the lever to horizontal and turn the lock back.

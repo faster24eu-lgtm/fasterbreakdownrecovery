@@ -1,0 +1,61 @@
+title: Tesla Tow Mode: How to Put a Tesla in Neutral for Recovery | Faster
+description: How to switch on Tesla Tow Mode to put a Model 3, Y, S or X in neutral, what to do when the 12 V battery is flat, and why a Tesla should only go on a flatbed.
+og_title: Tesla Tow Mode: Putting a Tesla in Neutral
+og_description: How to use Tesla Tow Mode, what to do with a flat 12 V battery, and how a Tesla should be recovered.
+label: Tesla Tow Mode
+short: Tesla tow mode
+card: Putting a Tesla in neutral, and what to do with a flat 12 V battery
+crumbs: Guides|guides/index.html
+nav: guides
+kind: guide
+region: Breakdown guides
+sort: 07
+template: standard
+eyebrow: Guide
+h1: Tesla Tow Mode: Putting a Tesla in Neutral for Recovery
+lede: A Tesla shifts into Park the moment you get out. To let it roll for loading, there's Tow Mode on the touchscreen. It only works while the 12-volt battery has power, though.
+side_title: Tesla won't move?
+side_links: Car stuck in Park: shift lock release|guides/car-stuck-in-park-shift-lock-release.html ; Flat battery: jump start or recovery?|guides/flat-battery-jump-start-or-recovery.html ; Car recovery|services/car-recovery.html
+faq_title: Tesla Tow Mode FAQs
+cta_title: Tesla Needs Recovering?
+===BODY===
+          <p><strong>In short:</strong> switch on Tow Mode on the touchscreen. The Tesla then stays in N with the parking brake released, but only for winching onto a recovery truck or moving it at walking pace. Without 12 V power Tow Mode can't be switched on, so the car is loaded on skates instead.</p>
+
+          <h2>What Tow Mode does</h2>
+          <p>Normally a Tesla applies the parking brake when you leave the driver's seat. Tow Mode keeps it in N with the parking brake off, so it rolls freely. Tesla says it's only meant for winching the car onto a flatbed or moving it out of a parking space. Only walking pace is allowed: depending on the market, about 5 to 8 km/h (3 to 5 mph) at most.</p>
+
+          <h2>How to switch on Tow Mode</h2>
+          <ol>
+            <li><strong>Chock the wheels,</strong> because the car rolls freely once Tow Mode is on.</li>
+            <li><strong>Unplug the charging cable.</strong> Tow Mode isn't available while the car is plugged in.</li>
+            <li><strong>Keep a key in the car.</strong> A key card, phone key or key fob must be detected.</li>
+            <li><strong>Switch on Tow Mode on the touchscreen,</strong> on many software versions under Controls › Service. You usually need to press the brake pedal.</li>
+            <li><strong>Winch the car on</strong> slowly and straight.</li>
+            <li><strong>Afterwards, switch Tow Mode off</strong> or select P, so the parking brake holds again.</li>
+          </ol>
+
+          <h2>Tesla with no power: flat 12 V battery</h2>
+          <p>If the 12-volt battery is flat, the car stops responding, the doors often won't open and Tow Mode can't be switched on. On the Model 3, and depending on the year the Model Y, there are two wires behind the front tow-eye cover, one red and one black. An external 12 V supply, such as a booster pack, connected there only opens the front trunk (frunk), nothing else. Underneath you can reach the 12 V battery for a jump start. Tesla says not to leave power on those wires for more than 30 seconds.</p>
+          <p>If Tow Mode still can't be switched on, Tesla says to load the car with self-loading dollies or tyre skates. That's exactly how we do it.</p>
+
+          <h2>Why a Tesla shouldn't be towed</h2>
+          <p>When the wheels of an electric car turn, the motors generate electricity. Over any distance that can damage the drive and electronics, and Tesla says damage from exceeding the limits isn't covered by the warranty. So a Tesla belongs on a flatbed with all four wheels off the road, not on a rope or a tow pole.</p>
+
+          <h2>What to tell us when you call</h2>
+          <ul>
+            <li>Which model (3, Y, S, X) and whether it's all-wheel drive</li>
+            <li>Whether the screen still responds and Tow Mode can be switched on</li>
+            <li>Where it is: street, car park, underground car park or charger</li>
+          </ul>
+          <p>For other makes, see <a href="{{R}}guides/car-stuck-in-park-shift-lock-release.html">car stuck in Park: shift lock release by make</a>.</p>
+===FAQ===
+Q: How do I put a Tesla in neutral?
+A: With Tow Mode on the touchscreen. Without it, the Tesla shifts into Park automatically when you get out.
+Q: How fast can a Tesla move in Tow Mode?
+A: Only at walking pace, about 5 to 8 km/h (3 to 5 mph) depending on the market, and only for loading or repositioning.
+Q: Does Tow Mode work with a flat battery?
+A: No. It needs 12 V power. Without power the car is loaded on skates or dollies.
+Q: Can a Tesla be towed with a rope or pole?
+A: Tesla advises against it. A Tesla should be carried on a flatbed with all four wheels off the road.
+Q: Why can't I switch on Tow Mode?
+A: Common reasons: the charging cable is still plugged in, no key is detected, or the 12 V battery is flat.

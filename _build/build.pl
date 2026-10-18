@@ -246,6 +246,10 @@ sub page {
   my $ogt = $p->{og_title} // $p->{label};
   my $ogd = $p->{og_description} // $p->{description};
   my $robots = $p->{robots} ? qq{\n  <meta name="robots" content="$p->{robots}">} : '';
+  # Google Search Console verification (home page only; do not remove)
+  my $verify = $path eq 'index.html'
+    ? qq{\n  <meta name="google-site-verification" content="U_rPNT-MnBUZ3dEejfktZ83byA9gOdVV-5LEyTxPJqg">\n  <meta name="google-site-verification" content="3_YkZI2D5uNR3H887RWrSZORJSz_CmSAoiffDsWEUfo">}
+    : '';
   my $lang = $p->{lang};
   my $htmllang = $lang eq 'en' ? 'en-GB' : $lang;
   my $alts = '';
@@ -289,7 +293,7 @@ sub page {
 <html lang="$htmllang">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">$verify
   <title>$p->{title}</title>
   <meta name="description" content="$p->{description}">$robots
   <link rel="canonical" href="$canon">$alts
