@@ -208,6 +208,10 @@ for my $path (sort keys %P) {
   my $depth = () = $path =~ m{/}g;
   my $R = $path eq '404.html' ? '/' : '../' x $depth;
   my $html = page($p, $R);
+  # Link to folders, not ".../index.html": the canonical and sitemap use the folder URL, and the
+  # index.html links made Google report /nl/index.html as a page of its own.
+  $html =~ s{href="(/?(?:\.\./)*(?:[\w-]+/)*)index\.html((?:#[^"]*)?)"}{'href="' . ($1 eq '' ? './' : $1) . $2 . '"'}ge;
+  $html = link_mentions($p, $html, $R) if $p->{lang} eq 'en' && $path ne '404.html';
   make_path(dirname($path)) if $path =~ m{/};
   open my $o, '>:encoding(UTF-8)', $path or die "$path: $!";
   print $o $html; close $o; $n++;
@@ -698,6 +702,47 @@ $links
 N
   $main =~ s/(    <section class="cta-band)/$block$1/ or $main .= "\n$block";
   return $main;
+}
+
+# Contextual links from words that are already in the text: the first unlinked mention of a city
+# ("Belfast") or road ("M20") in a <p>/<li> of the page body becomes a link to that page.
+# The visible text never changes (checked). Skips targets the body already links (the Nearby block
+# does not count), at most 3 per page, cities and roads with the fewest such links go first.
+my %MENTION_IN;
+sub link_mentions {
+  my ($p, $html, $R) = @_;
+  my ($pre, $main, $post) = $html =~ m{^(.*?<main\b[^>]*>)(.*)(</main>.*)$}s or return $html;
+  my $plain = sub { (my $s = shift) =~ s/<[^>]+>//g; $s };
+  my $before = $plain->($main);
+  (my $body = $main) =~ s{<section class="section section--alt nearby">.*?</section>}{}s;
+  my %linked = map { $_ => 1 } $body =~ /href="\Q$R\E([^"#?]+)"/g;
+  my @t = sort { ($MENTION_IN{$a->{path}} // 0) <=> ($MENTION_IN{$b->{path}} // 0) || $a->{path} cmp $b->{path} }
+          grep { $_->{lang} eq 'en' && ($_->{kind} // '') =~ /^(area|route)$/ && $_->{path} ne $p->{path}
+                 && !$linked{$_->{path}} && ($_->{robots} // '') !~ /noindex/
+                 # Northern Ireland has its own M1/M2; our road pages are for Great Britain
+                 && !(($_->{kind} eq 'route') && ($p->{region} // '') =~ /^Northern Ireland/) } values %P;
+  my $n = 0;
+  for my $t (@t) {
+    last if $n >= 3;
+    my $name = $t->{kind} eq 'route' ? ($t->{short} // $t->{label}) : $t->{label};
+    $name = $1 if $name =~ /\(([A-Z0-9]+)\)$/;
+    my $done = 0;
+    $main =~ s{(<(p|li)\b[^>]*>)(.*?)(</\2>)}{
+      my ($o, $tag, $in, $e) = ($1, $2, $3, $4);
+      unless ($done || ($tag eq 'li' && $in =~ /<a\b/)) {   # list items that are already links (hub lists, cards)
+        my @parts = split /(<[^>]+>)/, $in; my $ina = 0;
+        for my $x (@parts) {
+          if ($x =~ /^</) { $ina++ if $x =~ /^<a\b/i; $ina-- if $x =~ m{^</a>}i; next }
+          next if $ina || $done;
+          $done = 1 if $x =~ s{(?<![\w\-/])(\Q$name\E)(?![\w\-])(?!\s*(?:Road|Street|Avenue|Lane|Way|Drive)\b)}{<a href="$R$t->{path}">$1</a>};
+        }
+        $in = join '', @parts;
+      }
+      "$o$in$e" }gse;
+    if ($done) { $n++; $MENTION_IN{$t->{path}}++ }
+  }
+  die "$p->{path}: link_mentions changed the visible text\n" unless $plain->($main) eq $before;
+  return $pre . $main . $post;
 }
 
 # grouped list of every page of one kind, by region
