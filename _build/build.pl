@@ -212,12 +212,14 @@ for my $path (sort keys %P) {
   # index.html links made Google report /nl/index.html as a page of its own.
   $html =~ s{href="(/?(?:\.\./)*(?:[\w-]+/)*)index\.html((?:#[^"]*)?)"}{'href="' . ($1 eq '' ? './' : $1) . $2 . '"'}ge;
   $html = link_mentions($p, $html, $R) if $p->{lang} eq 'en' && $path ne '404.html';
+  $html = drop_gone_links($html, $path);
   make_path(dirname($path)) if $path =~ m{/};
   open my $o, '>:encoding(UTF-8)', $path or die "$path: $!";
   print $o $html; close $o; $n++;
 }
 write_sitemap();
 check_links();
+write_redirects();
 print "built $n pages\n";
 
 # ================================================================ templates
@@ -799,6 +801,56 @@ sub write_sitemap {
   open my $o, '>:encoding(UTF-8)', 'sitemap.xml' or die;
   print $o qq{<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n}, join("\n", @urls), "\n</urlset>\n";
   close $o;
+}
+
+# ---- Cut (2026-10-27): links to pages that no longer exist (see SEO-NOTES.md). A list item that is only
+# that link is dropped; anywhere else the link becomes plain text. Folder links ("x/") count as x/index.html.
+# Old URL of a removed page => page it now forwards to (a noindex meta-refresh stub, written by write_redirects).
+# Removed pages not covered here just 404. In-text links to a forwarded page follow it instead of turning into text.
+sub redirect_for {
+  my $t = shift;
+  return "services/$1.html" if $t =~ m{^services/(.+)-aberdeen\.html$} && $P{"services/$1.html"};
+  return "$1/index.html" if $t =~ m{^(fr|nl|pl|ro)/[^/]+\.html$} && $t !~ /index\.html$/ && $P{"$1/index.html"};
+  return 'repatriation/index.html' if $t =~ m{^repatriation/[^/]+\.html$} && $t !~ /index\.html$/;
+  return undef;
+}
+sub write_redirects {
+  my $n = 0;
+  for my $old (map { chomp; "$_.html" } do { open my $f, '<', '_build/removed-pages.txt' or return; grep { /\S/ && !/^#/ } <$f> }) {
+    next if $P{$old};
+    my $to = redirect_for($old) or next;
+    (my $u = "$BASE/$to") =~ s{index\.html$}{};
+    make_path(dirname($old)) if $old =~ m{/};
+    open my $o, '>:encoding(UTF-8)', $old or die "$old: $!";
+    print $o qq{<!doctype html>\n<html><head><meta charset="utf-8"><title>Moved</title><link rel="canonical" href="$u"><meta name="robots" content="noindex"><meta http-equiv="refresh" content="0; url=$u"></head><body><p><a href="$u">$u</a></p></body></html>\n};
+    close $o; $n++;
+  }
+  print "redirect stubs: $n\n";
+}
+sub gone_target {
+  my ($u, $path) = @_;
+  return undef if $u =~ m{^(https?:|tel:|mailto:|//|data:|#|/)};
+  (my $clean = $u) =~ s/[#?].*$//;
+  return undef unless $clean eq '' || $clean =~ m{(\.html|/)$};
+  my @d = split m{/}, $path; pop @d;
+  for my $seg (split m{/}, $clean, -1) { if ($seg eq '..') { pop @d } elsif ($seg ne '.') { push @d, $seg } }
+  my $t = join '/', @d; $t .= 'index.html' if $t eq '' || $t =~ m{/$};
+  return $P{$t} ? undef : $t;
+}
+sub drop_gone_links {
+  my ($html, $path) = @_;
+  my $hit = 0;
+  $html =~ s{[ \t]*<li>\s*<a [^>]*href="([^"]*)"[^>]*>(?:(?!</a>).)*</a>\s*</li>\n?}{ defined gone_target($1, $path) ? do { $hit++; '' } : $& }gse;
+  $html =~ s{(<a [^>]*href=")([^"]*)("[^>]*>)((?:(?!</a>).)*)</a>}{
+    my ($pre, $u, $post, $txt) = ($1, $2, $3, $4); my $t = gone_target($u, $path);
+    !defined $t ? $& : do { $hit++; my $r = redirect_for($t);
+      $r ? do { my $d = () = $path =~ m{/}g; (my $to = ('../' x $d) . $r) =~ s{index\.html$}{}; $to = './' if $to eq ''; "$pre$to$post$txt</a>" } : $txt } }gse;
+  return $html unless $hit;
+  # what the removed list items leave behind: empty lists, a heading over nothing, a "Related" section with no links
+  $html =~ s{[ \t]*<ul[^>]*>\s*</ul>\n?}{}g;
+  $html =~ s{[ \t]*<div class="prose">\s*<h3>[^<]*</h3>\s*</div>\n?}{}g;
+  $html =~ s{[ \t]*<section class="section">\s*<div class="container">\s*<div class="section-head">(?:(?!</div>).)*</div>\s*</div>\s*</section>\n*}{}gs;
+  return $html;
 }
 
 # every relative href/src in the output must point at a file that exists
