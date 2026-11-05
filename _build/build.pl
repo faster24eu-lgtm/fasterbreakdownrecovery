@@ -34,8 +34,8 @@ use File::Basename qw(dirname);
 
 my $BASE   = 'https://fasterbreakdownrecovery.co.uk';
 my $NAME   = 'Faster Breakdown Recovery';
-my $PHONE_HREF = 'tel:+442080580013';
-my $PHONE  = '+44 20 8058 0013';
+my $PHONE_HREF = 'tel:+447520639867';
+my $PHONE  = '+44 7520 639867';
 my $WA_HREF = 'https://wa.me/447988974609?text=Hi%20Faster%20Breakdown%20Recovery%2C%20I%20need%20help%20with%20my%20vehicle.';
 my $EMAIL  = 'info@fasterbreakdownrecovery.co.uk';
 my $FORM_TO = 'faster24eu@gmail.com';   # formsubmit.co recipient (same as takeldienstfaster.be)
@@ -634,7 +634,7 @@ sub schema_local {
   my ($p, $canon) = @_;
   my $area = ld($p->{schema_area});
   $area .= ' motorway' if ($p->{kind} // '') eq 'route' && $area =~ /^M\d+$/;
-  return qq{\n  <script type="application/ld+json">\n  {\n    "\@context": "https://schema.org",\n    "\@type": "TowingService",\n    "name": "$NAME",\n    "url": "$canon",\n    "telephone": "+442080580013",\n    "priceRange": "££",\n    "image": "$BASE/assets/images/og/og-faster-breakdown-recovery-1200x630.jpg",\n    "openingHours": "Mo-Su 00:00-23:59",\n    "areaServed": { "\@type": "Place", "name": "$area" },\n    "address": { "\@type": "PostalAddress", "addressCountry": "GB" }\n  }\n  </script>};
+  return qq{\n  <script type="application/ld+json">\n  {\n    "\@context": "https://schema.org",\n    "\@type": "TowingService",\n    "name": "$NAME",\n    "url": "$canon",\n    "telephone": "+447520639867",\n    "priceRange": "££",\n    "image": "$BASE/assets/images/og/og-faster-breakdown-recovery-1200x630.jpg",\n    "openingHours": "Mo-Su 00:00-23:59",\n    "areaServed": { "\@type": "Place", "name": "$area" },\n    "address": { "\@type": "PostalAddress", "addressCountry": "GB" }\n  }\n  </script>};
 }
 
 # "Nearby areas & roads" block for English city and road pages:

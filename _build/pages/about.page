@@ -11,7 +11,7 @@ nav: about
         <h1>About Faster Breakdown Recovery</h1>
         <p class="page-hero__lede">We're a mobile breakdown and vehicle recovery service covering the whole of the UK. We send a local recovery operator directly to you rather than working from a public depot.</p>
         <div class="hero__actions" style="margin-top:1.5rem;">
-          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--primary btn--lg" href="tel:+447520639867" data-contact="phone-href">Call Now</a>
           <a class="btn btn--outline btn--lg" href="contact.html#quote">Get a Quote</a>
         </div>
       </div>
@@ -43,7 +43,7 @@ nav: about
 
         <aside class="side-panel">
           <h2>Need recovery now?</h2>
-          <a class="btn btn--primary btn--block" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--primary btn--block" href="tel:+447520639867" data-contact="phone-href">Call Now</a>
           <a class="btn btn--outline btn--block" href="contact.html#quote">Request a Quote</a>
           <ul>
             <li><a href="services/index.html">Our Services</a></li>
@@ -59,7 +59,7 @@ nav: about
         <h2>Broken Down? We Can Help.</h2>
         <p>Call now for fast, professional breakdown recovery — or send us your details and we'll come back to you with a quote.</p>
         <div class="cta-band__actions">
-          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--primary btn--lg" href="tel:+447520639867" data-contact="phone-href">Call Now</a>
           <a class="btn btn--outline btn--lg" href="contact.html#quote">Get a Quote</a>
         </div>
       </div>

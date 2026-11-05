@@ -42,7 +42,7 @@ nav: services
     "provider": {
       "@type": "TowingService",
       "name": "Faster Breakdown Recovery",
-      "telephone": "+442080580013",
+      "telephone": "+447520639867",
       "url": "https://fasterbreakdownrecovery.co.uk/"
     },
     "areaServed": [
@@ -58,7 +58,7 @@ nav: services
         <h1>Car Recovery Birmingham</h1>
         <p class="page-hero__lede">Car recovery for pretty much any reason your car can't get you home — not just breakdowns. Wherever you are in Birmingham, we'll come to you and take the car wherever it needs to go.</p>
         <div class="hero__actions" style="margin-top:1.5rem;">
-          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--primary btn--lg" href="tel:+447520639867" data-contact="phone-href">Call Now</a>
           <a class="btn btn--whatsapp btn--lg" href="https://wa.me/447988974609?text=Hi%20Faster%20Breakdown%20Recovery%2C%20I%20need%20help%20with%20my%20vehicle." data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
         </div>
       </div>
@@ -93,7 +93,7 @@ nav: services
 
         <aside class="side-panel">
           <h2>Need your car collected?</h2>
-          <a class="btn btn--primary btn--block" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--primary btn--block" href="tel:+447520639867" data-contact="phone-href">Call Now</a>
           <a class="btn btn--whatsapp btn--block" href="https://wa.me/447988974609?text=Hi%20Faster%20Breakdown%20Recovery%2C%20I%20need%20help%20with%20my%20vehicle." data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
           <ul>
             <li><a href="breakdown-recovery-birmingham.html">Breakdown Recovery Birmingham</a></li>
@@ -152,7 +152,7 @@ nav: services
         <h2>Need Your Car Recovered in Birmingham?</h2>
         <p>Call us and we'll get a recovery vehicle on its way to you.</p>
         <div class="cta-band__actions">
-          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--primary btn--lg" href="tel:+447520639867" data-contact="phone-href">Call Now</a>
           <a class="btn btn--whatsapp btn--lg" href="https://wa.me/447988974609?text=Hi%20Faster%20Breakdown%20Recovery%2C%20I%20need%20help%20with%20my%20vehicle." data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
         </div>
       </div>

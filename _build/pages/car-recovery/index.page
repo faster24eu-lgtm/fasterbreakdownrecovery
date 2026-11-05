@@ -16,7 +16,7 @@ seo: no
   gtag('config', 'AW-18517785509');
   // Conversion "Call click UK": every tap on the UK number
   document.addEventListener('click', function (e) {
-    var a = e.target.closest && e.target.closest('a[href^="tel:+442080580013"]');
+    var a = e.target.closest && e.target.closest('a[href^="tel:+447520639867"]');
     if (!a) return;
     gtag('event', 'conversion', {send_to: 'AW-18517785509/n3heCJ7enrIdEKX3-_1E', transport_type: 'beacon'});
   });
@@ -43,7 +43,7 @@ seo: no
   "url": "https://fasterbreakdownrecovery.co.uk/car-recovery/",
   "logo": "https://fasterbreakdownrecovery.co.uk/assets/images/branding/faster-breakdown-recovery-logo-500w.png",
   "image": "https://fasterbreakdownrecovery.co.uk/assets/images/gallery/recovery-truck-workshop-interior-700w.jpg",
-  "telephone": "+442080580013",
+  "telephone": "+447520639867",
   "priceRange": "££",
   "areaServed": "United Kingdom",
   "openingHoursSpecification": {
@@ -147,7 +147,7 @@ a:focus-visible,summary:focus-visible{outline:3px solid var(--ink);outline-offse
       </ul>
       <a class="call" href="{{PHONE_HREF}}">
         <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z"/></svg>
-        Call 020 8058 0013
+        Call 07520 639867
       </a>
       <p class="note">24/7. No call centre, direct contact.</p>
       <figure class="photo">
@@ -251,7 +251,7 @@ a:focus-visible,summary:focus-visible{outline:3px solid var(--ink);outline-offse
       <p>Call us now. A local recovery truck comes out fast.</p>
       <a class="call" href="{{PHONE_HREF}}">
         <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z"/></svg>
-        Call 020 8058 0013
+        Call 07520 639867
       </a>
     </div>
   </section>
@@ -265,7 +265,7 @@ a:focus-visible,summary:focus-visible{outline:3px solid var(--ink);outline-offse
   <div class="row">
   <a class="call" href="{{PHONE_HREF}}">
     <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z"/></svg>
-    Call 020 8058 0013
+    Call 07520 639867
   </a>
   </div>
 </div>

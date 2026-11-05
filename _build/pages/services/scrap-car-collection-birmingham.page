@@ -40,7 +40,7 @@ nav: services
     "provider": {
       "@type": "TowingService",
       "name": "Faster Breakdown Recovery",
-      "telephone": "+442080580013",
+      "telephone": "+447520639867",
       "url": "https://fasterbreakdownrecovery.co.uk/"
     },
     "areaServed": [
@@ -56,7 +56,7 @@ nav: services
         <h1>Scrap Car Collection Birmingham</h1>
         <p class="page-hero__lede">Got a car that's finished, whatever state it's in? We collect scrap cars and non-runners free of charge, anywhere across Birmingham and the West Midlands.</p>
         <div class="hero__actions" style="margin-top:1.5rem;">
-          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--primary btn--lg" href="tel:+447520639867" data-contact="phone-href">Call Now</a>
           <a class="btn btn--whatsapp btn--lg" href="https://wa.me/447988974609?text=Hi%20Faster%20Breakdown%20Recovery%2C%20I%27d%20like%20a%20scrap%20car%20collected." data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
         </div>
         <!-- CONFIRM WITH ABDUL: real average collection turnaround (e.g. "same day", "within 24 hours") before making a specific time claim in the hero or CTA copy. Left deliberately general until confirmed. -->
@@ -95,7 +95,7 @@ nav: services
 
         <aside class="side-panel">
           <h2>Ready to have it collected?</h2>
-          <a class="btn btn--primary btn--block" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--primary btn--block" href="tel:+447520639867" data-contact="phone-href">Call Now</a>
           <a class="btn btn--whatsapp btn--block" href="https://wa.me/447988974609?text=Hi%20Faster%20Breakdown%20Recovery%2C%20I%27d%20like%20a%20scrap%20car%20collected." data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
           <ul>
             <li><a href="car-transport-birmingham.html">Car Transport Birmingham</a></li>
@@ -150,7 +150,7 @@ nav: services
         <h2>Got a Scrap Car to Get Rid Of?</h2>
         <p>Call or WhatsApp us and we'll arrange free collection, anywhere across Birmingham and the West Midlands.</p>
         <div class="cta-band__actions">
-          <a class="btn btn--primary btn--lg" href="tel:+442080580013" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--primary btn--lg" href="tel:+447520639867" data-contact="phone-href">Call Now</a>
           <a class="btn btn--whatsapp btn--lg" href="https://wa.me/447988974609?text=Hi%20Faster%20Breakdown%20Recovery%2C%20I%27d%20like%20a%20scrap%20car%20collected." data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
         </div>
       </div>
