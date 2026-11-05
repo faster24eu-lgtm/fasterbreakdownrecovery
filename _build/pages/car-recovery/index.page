@@ -1,5 +1,5 @@
 title: Car Recovery Near You 24/7 | From £125, No Membership | Faster
-description: Broken down or had an accident? A local recovery truck near you comes out fast. Car recovery from £125, price agreed upfront. No membership needed. Call or WhatsApp.
+description: Broken down or had an accident? A local recovery truck near you comes out fast. Car recovery from £125, price agreed upfront. No membership needed. Call now.
 label: Car Recovery Near You
 layout: bare
 seo: no
@@ -20,17 +20,11 @@ seo: no
     if (!a) return;
     gtag('event', 'conversion', {send_to: 'AW-18517785509/n3heCJ7enrIdEKX3-_1E', transport_type: 'beacon'});
   });
-  // Conversion "WhatsApp click UK": every tap on a WhatsApp button
-  document.addEventListener('click', function (e) {
-    var a = e.target.closest && e.target.closest('a[href^="https://wa.me/447988974609"]');
-    if (!a) return;
-    gtag('event', 'conversion', {send_to: 'AW-18517785509/bQ5sCKHenrIdEKX3-_1E', transport_type: 'beacon'});
-  });
 </script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Car Recovery Near You 24/7 | From £125, No Membership | Faster</title>
-<meta name="description" content="Broken down or had an accident? A local recovery truck near you comes out fast. Car recovery from £125, price agreed upfront. No membership needed. Call or WhatsApp.">
+<meta name="description" content="Broken down or had an accident? A local recovery truck near you comes out fast. Car recovery from £125, price agreed upfront. No membership needed. Call now.">
 <link rel="canonical" href="https://fasterbreakdownrecovery.co.uk/car-recovery/">
 <meta name="robots" content="index,follow">
 <meta name="theme-color" content="#f2b700">
@@ -66,7 +60,6 @@ seo: no
   "@type": "FAQPage",
   "mainEntity": [
     {"@type": "Question", "name": "What should I do while I wait for the recovery truck?", "acceptedAnswer": {"@type": "Answer", "text": "Put your hazard lights on and wear a hi-vis vest if you have one. On a motorway or fast road, leave the car by the passenger side and wait behind the barrier, well away from traffic. If you are stuck in a live lane and can't get out safely, call 999 first."}},
-    {"@type": "Question", "name": "Can I send my location on WhatsApp?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Tap Send your location on WhatsApp, share your live location or a pin and tell us what happened. We see straight away where you are, even if you don't know the road name."}},
     {"@type": "Question", "name": "How much does car recovery cost?", "acceptedAnswer": {"@type": "Answer", "text": "Car recovery starts from £125. You get a clear price on the phone before anyone sets off, so there are no surprises afterwards."}},
     {"@type": "Question", "name": "Do I need breakdown cover or a membership?", "acceptedAnswer": {"@type": "Answer", "text": "No. There is no membership and no sign-up. You only pay for this one recovery, at the price agreed on the phone."}},
     {"@type": "Question", "name": "How fast can the recovery truck get to me?", "acceptedAnswer": {"@type": "Answer", "text": "Often in about 30 minutes. We send the nearest local recovery truck, day and night. On the phone we give you an arrival time for your location."}},
@@ -92,9 +85,7 @@ h1{font-size:31px;line-height:1.08;letter-spacing:-.02em;margin:0 0 10px;font-we
 .facts b{display:block;font-size:20px;font-weight:900;margin-bottom:2px;white-space:nowrap}
 .call{display:flex;align-items:center;justify-content:center;gap:10px;width:100%;min-height:62px;padding:14px 16px;background:var(--yellow);color:var(--ink);font-size:21px;font-weight:900;white-space:nowrap;text-decoration:none;border-radius:8px;box-shadow:0 3px 0 var(--yellow-d)}
 .call:active{transform:translateY(2px);box-shadow:0 1px 0 var(--yellow-d)}
-.call svg,.wa svg{width:24px;height:24px;flex:none}
-.wa{display:flex;align-items:center;justify-content:center;gap:10px;width:100%;min-height:56px;margin-top:10px;padding:12px 14px;background:var(--green);color:#fff;font-size:18px;font-weight:900;white-space:nowrap;text-decoration:none;border-radius:8px;box-shadow:0 3px 0 var(--green-d)}
-.wa:active{transform:translateY(2px);box-shadow:0 1px 0 var(--green-d)}
+.call svg{width:24px;height:24px;flex:none}
 .note{margin:10px 0 0;font-size:14px;color:var(--muted);text-align:center}
 .photo{margin:18px 0 0}
 .photo img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;object-position:50% 55%;border-radius:8px;border-bottom:5px solid var(--yellow)}
@@ -131,8 +122,6 @@ footer a{color:#777}
 .bar{position:fixed;left:0;right:0;bottom:0;z-index:50;background:#fff;border-top:1px solid var(--line);padding:10px 16px calc(10px + env(safe-area-inset-bottom));box-shadow:0 -4px 14px rgba(0,0,0,.08)}
 .bar .row{display:flex;gap:8px;max-width:528px;margin:0 auto}
 .bar .call{flex:1;min-height:54px;font-size:19px;padding:12px}
-.bar .wa{flex:none;width:58px;min-height:54px;margin:0;padding:0}
-.bar .wa svg{width:28px;height:28px}
 a:focus-visible,summary:focus-visible{outline:3px solid var(--ink);outline-offset:2px}
 </style>
 </head>
@@ -159,10 +148,6 @@ a:focus-visible,summary:focus-visible{outline:3px solid var(--ink);outline-offse
       <a class="call" href="{{PHONE_HREF}}">
         <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z"/></svg>
         Call 020 8058 0013
-      </a>
-      <a class="wa" href="https://wa.me/447988974609?text=Hi%20Faster%2C%20I%20need%20car%20recovery.%20I%27m%20sending%20my%20location." target="_blank" rel="noopener">
-        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.47 14.38c-.3-.15-1.76-.87-2.03-.97-.27-.1-.47-.15-.67.15-.2.3-.77.97-.94 1.16-.17.2-.35.22-.64.08-.3-.15-1.26-.46-2.39-1.48-.88-.79-1.48-1.76-1.65-2.06-.17-.3-.02-.46.13-.6.13-.14.3-.35.45-.52.15-.17.2-.3.3-.5.1-.2.05-.37-.03-.52-.07-.15-.67-1.61-.92-2.2-.24-.59-.49-.5-.67-.51h-.57c-.2 0-.52.07-.79.37-.27.3-1.04 1.02-1.04 2.48s1.07 2.88 1.21 3.07c.15.2 2.1 3.2 5.08 4.49.71.31 1.26.49 1.7.63.71.22 1.36.19 1.87.12.57-.09 1.76-.72 2-1.41.25-.7.25-1.29.18-1.41-.08-.13-.27-.2-.57-.35M12.05 21.78h-.01a9.87 9.87 0 0 1-5.03-1.38l-.36-.21-3.74.98 1-3.65-.24-.37a9.86 9.86 0 0 1-1.51-5.26c0-5.45 4.44-9.88 9.89-9.88 2.64 0 5.12 1.03 6.99 2.9a9.83 9.83 0 0 1 2.89 6.99c0 5.45-4.44 9.88-9.88 9.88m8.41-18.3A11.82 11.82 0 0 0 12.05 0C5.5 0 .16 5.34.16 11.89c0 2.1.55 4.14 1.59 5.95L.06 24l6.3-1.65a11.88 11.88 0 0 0 5.68 1.45h.01c6.55 0 11.89-5.34 11.89-11.89a11.82 11.82 0 0 0-3.48-8.41z"/></svg>
-        Send location on WhatsApp
       </a>
       <p class="note">24/7. No call centre, direct contact.</p>
       <figure class="photo">
@@ -223,7 +208,7 @@ a:focus-visible,summary:focus-visible{outline:3px solid var(--ink);outline-offse
     <div class="wrap">
       <h2>How does it work?</h2>
       <ol class="steps">
-        <li><strong>Call us or send your location on WhatsApp</strong><span>Tell us where you are and what happened. You hear the price straight away.</span></li>
+        <li><strong>Call us</strong><span>Tell us where you are and what happened. You hear the price straight away.</span></li>
         <li><strong>We send the nearest recovery truck</strong><span>A local driver comes out to you fast.</span></li>
         <li><strong>Your car is recovered</strong><span>To your garage, your home or any address you choose.</span></li>
       </ol>
@@ -239,11 +224,7 @@ a:focus-visible,summary:focus-visible{outline:3px solid var(--ink);outline-offse
       </details>
       <details>
         <summary>What do I tell you when I call?</summary>
-        <p>Where you are (road, town, junction or the number on the nearest marker post), which car or van it is and what happened. Not sure where you are? Name a shop, petrol station or house number nearby, or send your location on WhatsApp.</p>
-      </details>
-      <details>
-        <summary>Can I send my location on WhatsApp?</summary>
-        <p>Yes. Tap "Send your location on WhatsApp", share your live location or a pin and tell us what happened. We see straight away where you are, even if you don't know the road name.</p>
+        <p>Where you are (road, town, junction or the number on the nearest marker post), which car or van it is and what happened. Not sure where you are? Name a shop, petrol station or house number nearby.</p>
       </details>
       <details>
         <summary>How much does car recovery cost?</summary>
@@ -267,14 +248,10 @@ a:focus-visible,summary:focus-visible{outline:3px solid var(--ink);outline-offse
   <section class="final">
     <div class="wrap">
       <h2>Broken down right now?</h2>
-      <p>Call us or send your location on WhatsApp. A local recovery truck comes out fast.</p>
+      <p>Call us now. A local recovery truck comes out fast.</p>
       <a class="call" href="{{PHONE_HREF}}">
         <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z"/></svg>
         Call 020 8058 0013
-      </a>
-      <a class="wa" href="https://wa.me/447988974609?text=Hi%20Faster%2C%20I%20need%20car%20recovery.%20I%27m%20sending%20my%20location." target="_blank" rel="noopener">
-        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.47 14.38c-.3-.15-1.76-.87-2.03-.97-.27-.1-.47-.15-.67.15-.2.3-.77.97-.94 1.16-.17.2-.35.22-.64.08-.3-.15-1.26-.46-2.39-1.48-.88-.79-1.48-1.76-1.65-2.06-.17-.3-.02-.46.13-.6.13-.14.3-.35.45-.52.15-.17.2-.3.3-.5.1-.2.05-.37-.03-.52-.07-.15-.67-1.61-.92-2.2-.24-.59-.49-.5-.67-.51h-.57c-.2 0-.52.07-.79.37-.27.3-1.04 1.02-1.04 2.48s1.07 2.88 1.21 3.07c.15.2 2.1 3.2 5.08 4.49.71.31 1.26.49 1.7.63.71.22 1.36.19 1.87.12.57-.09 1.76-.72 2-1.41.25-.7.25-1.29.18-1.41-.08-.13-.27-.2-.57-.35M12.05 21.78h-.01a9.87 9.87 0 0 1-5.03-1.38l-.36-.21-3.74.98 1-3.65-.24-.37a9.86 9.86 0 0 1-1.51-5.26c0-5.45 4.44-9.88 9.89-9.88 2.64 0 5.12 1.03 6.99 2.9a9.83 9.83 0 0 1 2.89 6.99c0 5.45-4.44 9.88-9.88 9.88m8.41-18.3A11.82 11.82 0 0 0 12.05 0C5.5 0 .16 5.34.16 11.89c0 2.1.55 4.14 1.59 5.95L.06 24l6.3-1.65a11.88 11.88 0 0 0 5.68 1.45h.01c6.55 0 11.89-5.34 11.89-11.89a11.82 11.82 0 0 0-3.48-8.41z"/></svg>
-        Send location on WhatsApp
       </a>
     </div>
   </section>
@@ -289,9 +266,6 @@ a:focus-visible,summary:focus-visible{outline:3px solid var(--ink);outline-offse
   <a class="call" href="{{PHONE_HREF}}">
     <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z"/></svg>
     Call 020 8058 0013
-  </a>
-  <a class="wa" href="https://wa.me/447988974609?text=Hi%20Faster%2C%20I%20need%20car%20recovery.%20I%27m%20sending%20my%20location." target="_blank" rel="noopener" aria-label="Send your location on WhatsApp">
-    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.47 14.38c-.3-.15-1.76-.87-2.03-.97-.27-.1-.47-.15-.67.15-.2.3-.77.97-.94 1.16-.17.2-.35.22-.64.08-.3-.15-1.26-.46-2.39-1.48-.88-.79-1.48-1.76-1.65-2.06-.17-.3-.02-.46.13-.6.13-.14.3-.35.45-.52.15-.17.2-.3.3-.5.1-.2.05-.37-.03-.52-.07-.15-.67-1.61-.92-2.2-.24-.59-.49-.5-.67-.51h-.57c-.2 0-.52.07-.79.37-.27.3-1.04 1.02-1.04 2.48s1.07 2.88 1.21 3.07c.15.2 2.1 3.2 5.08 4.49.71.31 1.26.49 1.7.63.71.22 1.36.19 1.87.12.57-.09 1.76-.72 2-1.41.25-.7.25-1.29.18-1.41-.08-.13-.27-.2-.57-.35M12.05 21.78h-.01a9.87 9.87 0 0 1-5.03-1.38l-.36-.21-3.74.98 1-3.65-.24-.37a9.86 9.86 0 0 1-1.51-5.26c0-5.45 4.44-9.88 9.89-9.88 2.64 0 5.12 1.03 6.99 2.9a9.83 9.83 0 0 1 2.89 6.99c0 5.45-4.44 9.88-9.88 9.88m8.41-18.3A11.82 11.82 0 0 0 12.05 0C5.5 0 .16 5.34.16 11.89c0 2.1.55 4.14 1.59 5.95L.06 24l6.3-1.65a11.88 11.88 0 0 0 5.68 1.45h.01c6.55 0 11.89-5.34 11.89-11.89a11.82 11.82 0 0 0-3.48-8.41z"/></svg>
   </a>
   </div>
 </div>
