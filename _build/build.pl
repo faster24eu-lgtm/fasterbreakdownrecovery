@@ -18,6 +18,8 @@
 #   region       e.g. "England > West Midlands" (grouping in hub lists)
 #   card         one-line summary shown in hub lists
 #   robots       optional robots meta; sitemap: no to leave out of sitemap
+#   layout       "bare": ===MAIN=== is a whole HTML document (ads landing page),
+#                written as-is after filling placeholders; no header/menu/footer
 #
 # Placeholders usable in HEAD and MAIN:
 #   {{R}}            relative path back to the site root ("", "../", "/" on 404)
@@ -207,11 +209,14 @@ for my $path (sort keys %P) {
   my $p = $P{$path};
   my $depth = () = $path =~ m{/}g;
   my $R = $path eq '404.html' ? '/' : '../' x $depth;
-  my $html = page($p, $R);
+  # "layout: bare" pages (Google Ads landing pages) are complete HTML documents in ===MAIN===:
+  # no shared header, menu or footer, only the placeholders are filled. They stay in the sitemap.
+  my $bare = ($p->{layout} // '') eq 'bare';
+  my $html = $bare ? fill($p->{main}, $R, $p->{lang}) : page($p, $R);
   # Link to folders, not ".../index.html": the canonical and sitemap use the folder URL, and the
   # index.html links made Google report /nl/index.html as a page of its own.
   $html =~ s{href="(/?(?:\.\./)*(?:[\w-]+/)*)index\.html((?:#[^"]*)?)"}{'href="' . ($1 eq '' ? './' : $1) . $2 . '"'}ge;
-  $html = link_mentions($p, $html, $R) if $p->{lang} eq 'en' && $path ne '404.html';
+  $html = link_mentions($p, $html, $R) if $p->{lang} eq 'en' && $path ne '404.html' && !$bare;
   $html = drop_gone_links($html, $path);
   make_path(dirname($path)) if $path =~ m{/};
   open my $o, '>:encoding(UTF-8)', $path or die "$path: $!";
