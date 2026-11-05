@@ -1,7 +1,7 @@
 title: Roadside Assistance UK | Jump Starts &amp; Tyre Changes | Faster
-description: Flat battery or a puncture? Roadside assistance across the UK, 24/7: jump starts and spare-wheel changes on the spot when it's safe, and recovery from £125 when it isn't.
+description: Flat battery or a puncture? Roadside assistance across the UK, 24/7: jump starts and spare-wheel changes on the spot when it's safe, and recovery when it isn't.
 og_title: Roadside Assistance Across the UK
-og_description: Jump starts and spare-wheel changes on the spot when it's safe, and recovery from £125 when it isn't.
+og_description: Jump starts and spare-wheel changes on the spot when it's safe, and recovery when it isn't.
 label: Roadside Assistance
 crumbs: Services|services/index.html
 nav: services
@@ -22,7 +22,7 @@ cta_title: Need Roadside Help?
           </ul>
 
           <h2>When roadside help isn't the answer</h2>
-          <p>Some problems can't, or shouldn't, be fixed at the side of the road: an engine or gearbox fault, a car that's been <a href="{{R}}guides/wrong-fuel.html">misfuelled</a>, a puncture without a usable spare, or anything after an accident. In those cases we'll recover the car to a garage or your home instead, <strong>from £125</strong>, and we'll tell you that before anyone sets off, so you're not paying for a visit that can't fix the problem.</p>
+          <p>Some problems can't, or shouldn't, be fixed at the side of the road: an engine or gearbox fault, a car that's been <a href="{{R}}guides/wrong-fuel.html">misfuelled</a>, a puncture without a usable spare, or anything after an accident. In those cases we'll recover the car to a garage or your home instead, and we'll tell you that before anyone sets off, so you're not paying for a visit that can't fix the problem.</p>
 
           <div class="callout">
             <p><strong>On a motorway, safety comes first.</strong> Roadside repairs aren't done in a live lane or on a busy hard shoulder. If you've stopped on a fast road, get behind the barrier and call. The car will normally be taken somewhere safe before anything else.</p>

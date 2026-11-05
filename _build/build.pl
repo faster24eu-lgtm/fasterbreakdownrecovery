@@ -180,20 +180,20 @@ my $SERVICE_RE = qr{^services/(breakdown-recovery|car-recovery|vehicle-recovery|
 for my $p (values %P) {
   next unless $p->{lang} eq 'en' && ($p->{seo} // 'yes') ne 'no';
   my $kind = $p->{kind} // '';
-  my $offer = 'From £125, often with you in about 30 minutes.';
+  my $offer = 'Price agreed before we set off, often with you in about 30 minutes.';
   if ($kind eq 'area') {
-    $p->{title} = "Breakdown Recovery $p->{label} 24/7 | From £125 | Faster";
+    $p->{title} = "Breakdown Recovery $p->{label} 24/7 | Faster";
   } elsif ($kind eq 'route') {
     my $s = $p->{short} // $p->{label};
     $s = $1 if $s =~ /\(([A-Z0-9]+)\)$/;     # "Aberdeen Western Peripheral Route (AWPR)" -> AWPR
-    $p->{title} = "$s Breakdown Recovery 24/7 | From £125 | Faster";
+    $p->{title} = "$s Breakdown Recovery 24/7 | Faster";
   } elsif ($p->{path} =~ $SERVICE_RE) {
     (my $first = $p->{title}) =~ s/\s*\|.*$//;
-    $p->{title} = "$first | From £125 | Faster";
+    $p->{title} = "$first | Faster";
   } else {
     next;
   }
-  $p->{description} = "$offer $p->{description}" unless $p->{description} =~ /125/;
+  $p->{description} = "$offer $p->{description}" unless $p->{description} =~ /agreed|upfront|set off/i;
   $p->{schema_area} = $kind eq 'route' ? ($p->{short} // $p->{label}) : $kind eq 'area' ? $p->{label} : undef;
 }
 
@@ -294,7 +294,7 @@ sub page {
   if ($p->{schema_area}) {
     $head = schema_local($p, $canon) . $head;
     # structured data must match visible content: show the offer under the lede
-    $main =~ s{(<p class="page-hero__lede">.*?</p>)}{$1\n        <p class="offer-line"><strong>From &pound;125</strong> &middot; 24/7 &middot; often with you in about 30 minutes (depends on location and traffic)</p>}s
+    $main =~ s{(<p class="page-hero__lede">.*?</p>)}{$1\n        <p class="offer-line"><strong>Price agreed upfront</strong> &middot; 24/7 &middot; often with you in about 30 minutes (depends on location and traffic)</p>}s
       unless $main =~ /offer-line/;
   }
   $main =~ s/\n+$//;
@@ -439,7 +439,6 @@ $c3
   <div class="faster-network" style="max-width:1200px;margin:0 auto;padding:14px 20px;font-size:13px;line-height:1.6;opacity:.85;display:flex;flex-wrap:wrap;gap:4px 16px"><span>Faster across Europe:</span> <a href="https://takeldienst-depannage.com/" hreflang="nl-BE" style="color:inherit;text-decoration:underline">Belgi&euml; &ndash; Takeldienst</a> <a href="https://sleepdienstfaster.nl/" hreflang="nl-NL" style="color:inherit;text-decoration:underline">Nederland &ndash; Sleepdienst</a> <a href="https://abschleppdienst-faster.de/" hreflang="de-DE" style="color:inherit;text-decoration:underline">Deutschland &ndash; Abschleppdienst</a></div></footer>
 
   <a class="call-fab" href="$PHONE_HREF" data-contact="phone-href"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg><span>$S->{fab}</span></a>
-  <a class="price-badge" href="${R}$HOME{$lang}#quote" aria-label="$S->{badge_alt}"><img src="${R}assets/images/$S->{badge}" width="92" height="92" alt="$S->{badge_alt}" decoding="async"></a>
   <div class="page-bottom-spacer"></div>
 
   <script src="${R}assets/js/site-config.js"></script>
@@ -635,7 +634,7 @@ sub schema_local {
   my ($p, $canon) = @_;
   my $area = ld($p->{schema_area});
   $area .= ' motorway' if ($p->{kind} // '') eq 'route' && $area =~ /^M\d+$/;
-  return qq{\n  <script type="application/ld+json">\n  {\n    "\@context": "https://schema.org",\n    "\@type": "TowingService",\n    "name": "$NAME",\n    "url": "$canon",\n    "telephone": "+442080580013",\n    "priceRange": "From £125",\n    "image": "$BASE/assets/images/og/og-faster-breakdown-recovery-1200x630.jpg",\n    "openingHours": "Mo-Su 00:00-23:59",\n    "areaServed": { "\@type": "Place", "name": "$area" },\n    "address": { "\@type": "PostalAddress", "addressCountry": "GB" }\n  }\n  </script>};
+  return qq{\n  <script type="application/ld+json">\n  {\n    "\@context": "https://schema.org",\n    "\@type": "TowingService",\n    "name": "$NAME",\n    "url": "$canon",\n    "telephone": "+442080580013",\n    "priceRange": "££",\n    "image": "$BASE/assets/images/og/og-faster-breakdown-recovery-1200x630.jpg",\n    "openingHours": "Mo-Su 00:00-23:59",\n    "areaServed": { "\@type": "Place", "name": "$area" },\n    "address": { "\@type": "PostalAddress", "addressCountry": "GB" }\n  }\n  </script>};
 }
 
 # "Nearby areas & roads" block for English city and road pages:
