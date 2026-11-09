@@ -1,6 +1,6 @@
-title: Breakdown Recovery London 24/7 | Car &amp; Van Recovery | Faster Breakdown Recovery
-description: 24/7 breakdown and vehicle recovery across London, from the North and South Circular to the M25, red routes, ULEZ streets and multi-storey car parks. Call or WhatsApp us.
-og_title: Breakdown Recovery in London
+title: Breakdown Recovery London &amp; M25 24/7 | Faster
+description: 24/7 breakdown recovery in London and on the M25, from the North and South Circular to red routes. Price agreed before we set off.
+og_title: Breakdown Recovery in London and on the M25
 og_description: 24/7 breakdown and vehicle recovery across Greater London, from central streets to the North and South Circular and the M25.
 label: London
 card: Central London, the North and South Circular, red routes and the M25
@@ -10,9 +10,11 @@ tgroup: london
 kind: area
 region: England > London
 template: standard
+seo: no
+schema_area: London
 eyebrow: Areas covered
-h1: Breakdown Recovery in London
-lede: London is the hardest place in the UK to break down: heavy traffic, red routes, bus lanes, low bridges and very little room to stop. We arrange recovery anywhere in Greater London, day or night, from a side street in Zone 1 to the North Circular or the M25.
+h1: Breakdown Recovery in London and on the M25
+lede: Most of our London calls come from the M25 and the motorways that feed it: the M1, M4, M11, M20, M23 and M40. London is also the hardest place in the UK to break down: heavy traffic, red routes, bus lanes, low bridges and very little room to stop. We arrange recovery anywhere in Greater London, day or night, from a side street in Zone 1 to the North Circular or the M25.
 side_title: Broken down in London?
 side_links: Breakdown on the M25|routes/m25.html ; Breakdown on the M1|routes/m1.html ; Breakdown on the M4|routes/m4.html ; Accident recovery|services/accident-recovery.html ; Car transport|services/car-transport.html
 faq_title: London Recovery FAQs
@@ -20,6 +22,10 @@ cta_title: Broken Down in London Right Now?
 related_title: Other Services You Might Need
 related: Breakdown recovery|services/breakdown-recovery.html ; Roadside assistance|services/roadside-assistance.html ; Van recovery|services/van-recovery.html ; Car transport|services/car-transport.html
 ===BODY===
+          <h2>The M25 and the motorways into London</h2>
+          <p>The <a href="{{R}}routes/m25.html">M25</a> carries more traffic than any other motorway in the country, and long stretches of it are smart motorway. If your car starts to fail, aim for the next exit or an emergency area rather than stopping in a live lane. Tell us which way you&rsquo;re going (clockwise or anticlockwise), the last junction number and the nearest marker post.</p>
+          <p>For a local tow inside North and West London, for example in Brent, Ealing or Harrow, our partner <a href="https://rjrecovery.uk/">RJ Recovery</a> covers those boroughs street by street.</p>
+
           <h2>Where you've stopped changes everything</h2>
           <p>A breakdown on a quiet residential street in Ealing and one on the Blackwall Tunnel approach are completely different jobs. On a side street you can usually wait in or by the car while recovery comes to you. On a busy main road with no pavement space, the priority is getting yourself out of danger first. When you call, tell us the road name, the nearest junction or landmark and which way you were heading, and we'll plan the safest way to reach you.</p>
 

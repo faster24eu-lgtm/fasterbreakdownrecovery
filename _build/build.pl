@@ -26,6 +26,7 @@
 #   {{PHONE_HREF}} {{PHONE}} {{WA_HREF}}
 #   {{INDEX:kind}}   grouped link list of every page of that kind
 use strict;
+our $LASTMOD = '2026-11-09';   # bump when pages change
 use warnings;
 use utf8;
 use File::Find;
@@ -800,7 +801,7 @@ sub write_sitemap {
   for my $path (sort keys %P) {
     my $p = $P{$path};
     next if ($p->{sitemap} // 'yes') eq 'no';
-    push @urls, "  <url><loc>" . canonical($path) . "</loc></url>";
+    push @urls, "  <url><loc>" . canonical($path) . "</loc><lastmod>$LASTMOD</lastmod></url>";
   }
   open my $o, '>:encoding(UTF-8)', 'sitemap.xml' or die;
   print $o qq{<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n}, join("\n", @urls), "\n</urlset>\n";

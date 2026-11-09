@@ -12,7 +12,7 @@ nav: home
     "@type": "TowingService",
     "name": "Faster Breakdown Recovery",
     "url": "https://fasterbreakdownrecovery.co.uk/",
-    "image": "https://fasterbreakdownrecovery.co.uk/assets/images/og/og-image-placeholder.svg",
+    "image": "https://fasterbreakdownrecovery.co.uk/assets/images/og/og-faster-breakdown-recovery-1200x630.jpg",
     "telephone": "+447520639867",
     "priceRange": "££",
     "areaServed": { "@type": "Country", "name": "United Kingdom" },
