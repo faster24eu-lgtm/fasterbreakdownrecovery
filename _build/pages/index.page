@@ -13,7 +13,7 @@ nav: home
     "name": "Faster Breakdown Recovery",
     "url": "https://fasterbreakdownrecovery.co.uk/",
     "image": "https://fasterbreakdownrecovery.co.uk/assets/images/og/og-faster-breakdown-recovery-1200x630.jpg",
-    "telephone": "+447520639867",
+    "telephone": "+442038079476",
     "priceRange": "££",
     "areaServed": { "@type": "Country", "name": "United Kingdom" },
     "address": {
@@ -83,7 +83,7 @@ nav: home
       <div class="container hero-inner">
         <div>
           <span class="hero__badge"><span class="dot" aria-hidden="true"></span> Local recovery &middot; available 24/7</span>
-          <p class="hero__phone"><a href="{{PHONE_HREF}}" data-contact="phone-href"><span data-contact="phone-display">+44 7520 639867</span></a></p>
+          <p class="hero__phone"><a href="{{PHONE_HREF}}" data-contact="phone-href"><span data-contact="phone-display">+44 20 3807 9476</span></a></p>
           <h1>Breakdown recovery that <span class="accent">turns up.</span></h1>
           <p class="hero__lede"><strong>Local breakdown recovery, often with you within 30 minutes.*</strong> Nobody wants to be left waiting when a breakdown wrecks their plans. Whether it's a breakdown, an accident or a vehicle that needs moving, we send a local recovery truck to you fast, and we agree a clear price before anyone sets off. Nobody likes surprises.</p>
           <div class="hero__actions">
@@ -271,7 +271,7 @@ nav: home
         <h2>Broken Down? We Can Help.</h2>
         <p>Call now for fast, professional breakdown recovery — or message us on WhatsApp and we'll come back to you with a quote.</p>
         <div class="cta-band__actions">
-          <a class="btn btn--primary btn--lg" href="tel:+447520639867" data-contact="phone-href">Call Now</a>
+          <a class="btn btn--primary btn--lg" href="tel:+442038079476" data-contact="phone-href">Call Now</a>
           <a class="btn btn--whatsapp btn--lg" href="https://wa.me/447988974609?text=Hi%20Faster%20Breakdown%20Recovery%2C%20I%20need%20help%20with%20my%20vehicle." data-contact="whatsapp-href" target="_blank" rel="noopener">WhatsApp Us</a>
         </div>
       </div>

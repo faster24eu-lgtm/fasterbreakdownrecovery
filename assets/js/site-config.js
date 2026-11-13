@@ -8,8 +8,8 @@
  */
 window.SITE_CONFIG = {
   phone: {
-    href: "tel:+447520639867",
-    display: "+44 7520 639867",
+    href: "tel:+442038079476",
+    display: "+44 20 3807 9476",
   },
   email: {
     href: "mailto:info@fasterbreakdownrecovery.co.uk",
